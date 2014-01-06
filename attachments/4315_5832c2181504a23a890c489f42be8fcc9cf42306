@@ -1,0 +1,44 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: BTOOOM!_01_Ending.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 1780
+Video File: BTOOOM!_01_Ending.avi
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Romaji
+Dialogue: 0,0:00:12.61,0:00:19.65,Default,,0000,0000,0000,,{\k41}i{\k39}ki {\k99}wo {\k38}se{\k68}zu{\k67} {\k26}me {\k136}wo {\k13}fu{\k144}se{\k33}ta
+Dialogue: 0,0:00:20.13,0:00:24.80,Default,,0000,0000,0000,,{\k17}hi{\k39}kyou {\k22}na {\k17}ho{\k23}do {\k37}ki{\k21}ra{\k40}me{\k61}ku {\k25}a{\k28}o{\k45}zo{\k58}ra {\k34}ga
+Dialogue: 0,0:00:25.23,0:00:32.32,Default,,0000,0000,0000,,{\k36}ko{\k42}no {\k62}ma{\k54}{\k27}chi {\k130}no {\k24}zu{\k141}jo{\k20}u {\k140}ka{\k33}ra
+Dialogue: 0,0:00:32.76,0:00:37.34,Default,,0000,0000,0000,,{\k21}to{\k19}me{\k41}do{\k17}na{\k19}ku {\k39}na{\k23}mi{\k35}da {\k59}fu{\k40}ra{\k23}se{\k54}ru {\k22}ka{\k46}ra
+Dialogue: 0,0:00:37.92,0:00:43.80,Default,,0000,0000,0000,,{\k40}o{\k43}mo{\k73}i{\k38}de {\k18}ni {\k137}wa {\k36}de{\k83}ki{\k80}na{\k40}i
+Dialogue: 0,0:00:44.17,0:00:50.06,Default,,0000,0000,0000,,{\k43}a{\k37}u {\k38}da{\k23}ke {\k157}de{\k65} {\k29}u{\k32}re{\k47}shi{\k83}ka{\k35}tta
+Dialogue: 0,0:00:50.49,0:00:56.39,Default,,0000,0000,0000,,{\k80}ki{\k60}mi{\k21} {\k37}no {\k21}ko{\k126}to {\k50}shi{\k72}ra{\k86}zu {\k37}ni
+Dialogue: 0,0:00:56.79,0:01:02.94,Default,,0000,0000,0000,,{\k35}ki{\k39}zu{\k44}tsu{\k23}ke{\k140}te{\k80} {\k35}no{\k44}bo{\k18}dy {\k156}knows
+Dialogue: 0,0:01:03.13,0:01:06.10,Default,,0000,0000,0000,,{\k80}go{\k117}me{\k26}n {\k74}ne
+Dialogue: 0,0:01:06.68,0:01:13.78,Default,,0000,0000,0000,,{\k41}wa{\k31}ta{\k46}shi {\k43}wo {\k26}mo{\k145}u{\k98} {\k27}yu{\k45}ru{\k61}sa{\k30}{\k43}na{\k35}i {\k37}de
+Dialogue: 0,0:01:14.24,0:01:18.06,Default,,0000,0000,0000,,{\k59}wa{\k94}su{\k40}re{\k189}te
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Tradu
+Dialogue: 0,0:00:12.61,0:00:19.65,Default,,0000,0000,0000,,Me tapé los ojos aguantando la respiración.
+Dialogue: 0,0:00:20.13,0:00:24.80,Default,,0000,0000,0000,,El cielo azul que brilla tímidamente
+Dialogue: 0,0:00:25.23,0:00:32.32,Default,,0000,0000,0000,,y se extiende sobre esta ciudad
+Dialogue: 0,0:00:32.76,0:00:37.34,Default,,0000,0000,0000,,me hace llorar sin parar.
+Dialogue: 0,0:00:37.92,0:00:43.80,Default,,0000,0000,0000,,No consigo recordar.
+Dialogue: 0,0:00:44.17,0:00:50.06,Default,,0000,0000,0000,,Con solo verte ya era feliz.
+Dialogue: 0,0:00:50.49,0:00:56.39,Default,,0000,0000,0000,,Nadie sabe que te estoy haciendo daño
+Dialogue: 0,0:00:56.79,0:01:02.94,Default,,0000,0000,0000,,sin saber nada de ti.
+Dialogue: 0,0:01:03.13,0:01:06.10,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:01:06.68,0:01:13.78,Default,,0000,0000,0000,,Ya no me perdones.
+Dialogue: 0,0:01:14.24,0:01:18.06,Default,,0000,0000,0000,,Olvídalo.
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,

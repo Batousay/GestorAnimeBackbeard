@@ -1,0 +1,44 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Video File: GAREI_ED_RAW.avi
+Video Aspect Ratio: c1.77778
+Video Position: 2156
+Video Zoom Percent: 1
+Scroll Position: 8
+Active Line: 10
+Audio URI: GAREI_ED_RAW.avi
+Last Style Storage: Default
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: romanji,Arial Rounded MT Bold,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,50,50,30,1
+Style: tradu,Arial Rounded MT Bold,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,50,50,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.32,0:00:21.41,romanji,,0,0,0,,{\k104}I{\k40}tsu{\k61}ka {\k35}chi{\k85}ka{\k52}tta {\k34}no {\k64}yo{\k30} {\k36}ji{\k59}bun {\k85}no{\k23} {\k33}ko{\k39}ko{\k59}ro {\k22}e {\k148}to
+Dialogue: 0,0:00:22.03,0:00:32.03,romanji,,0,0,0,,{\k40}Na{\k30}ge{\k36}ki {\k20}no {\k45}u{\k34}zu {\k33}ni {\k18}no{\k38}ma{\k18}re{\k95}ta{\k33} {\k34}ki{\k33}mi {\k98}wo{\k31} {\k12}ta{\k23}su{\k31}ke{\k36}ta{\k36}i {\k40}to{\k223}
+Dialogue: 0,0:00:32.34,0:00:37.66,romanji,,0,0,0,,{\k14}Ka{\k23}sa{\k40}ne{\k18}ru {\k46}to{\k19}ki {\k114}wa{\k30} {\k37}ka{\k15}e{\k45}te{\k24}yu{\k107}ku
+Dialogue: 0,0:00:37.72,0:00:42.82,romanji,,0,0,0,,{\k19}Ko{\k19}to{\k32}wa{\k17}ri {\k50}no {\k30}ha{\k37}gu{\k32}ru{\k33}ma {\k26}ga {\k70}sa{\k38}bi{\k17}ta{\k116}ra
+Dialogue: 0,0:00:43.06,0:00:47.88,romanji,,0,0,0,,{\k20}Mo{\k15}u {\k31}mo{\k21}do{\k37}re{\k29}na{\k16}i {\k34}I {\k33}hate {\k29}this {\k217}world
+Dialogue: 0,0:00:48.24,0:00:55.41,romanji,,0,0,0,,{\k25}Su{\k23}be{\k30}te {\k38}ko{\k24}wa{\k25}shi{\k44}ta{\k53}i{\k23} {\k14}do{\k18}ko {\k33}ni {\k30}mo {\k39}ma{\k18}da {\k46}i{\k34}ke{\k36}na{\k164}i
+Dialogue: 0,0:00:55.73,0:00:58.82,romanji,,0,0,0,,{\k36}O{\k32}mo{\k17}i{\k49}de {\k35}no {\k33}ta{\k20}me {\k90}ni
+Dialogue: 0,0:00:58.85,0:01:06.10,romanji,,0,0,0,,{\k38}Shi{\k20}a{\k28}wa{\k34}se {\k53}da{\k50}tta {\k61}to {\k16}a{\k20}no {\k37}ko{\k33}ro {\k31}da{\k19}ke {\k45}da{\k29}ki{\k44}shi{\k188}me
+Dialogue: 0,0:01:06.40,0:01:21.48,romanji,,0,0,0,,{\k32}Too{\k35}za{\k19}ka{\k150}ru {\k31}{\k20}yu{\k16}me {\k29}no {\k13}a{\k120}shi{\k22}o{\k215}to{\k29} {\k20}mu{\k16}ne {\k16}ni {\k29}ki{\k55}za{\k32}mi{\k54}kon{\k579}da
+Dialogue: 0,0:00:00.00,0:00:05.00,romanji,,0,0,0,,
+Dialogue: 0,0:00:11.32,0:00:21.41,tradu,,0,0,0,,Una vez le prometí a mi corazón
+Dialogue: 0,0:00:22.03,0:00:32.03,tradu,,0,0,0,,que te salvaría de la tristeza que te envuelve y sofoca.
+Dialogue: 0,0:00:32.34,0:00:37.66,tradu,,0,0,0,,El tiempo vuela y los cambios se amontonan.
+Dialogue: 0,0:00:37.72,0:00:42.82,tradu,,0,0,0,,Cuando la rueda del destino sea orín,
+Dialogue: 0,0:00:43.06,0:00:47.88,tradu,,0,0,0,,no habrá vuelta atrás. Odio este mundo.
+Dialogue: 0,0:00:48.24,0:00:55.41,tradu,,0,0,0,,Quiero destruirlo todo, ya no puedo seguir evadiéndome.
+Dialogue: 0,0:00:55.73,0:00:58.82,tradu,,0,0,0,,Los recuerdos que me quedan
+Dialogue: 0,0:00:58.85,0:01:06.10,tradu,,0,0,0,,son de aquellos días en los que era feliz.
+Dialogue: 0,0:01:06.40,0:01:21.48,tradu,,0,0,0,,Entierro mis sueños en el corazón mientras las pisadas se desvanecen.

@@ -1,0 +1,55 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Karaokes
+Audio File: ?video
+Video File: ESAO_ED2.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 1285
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kara,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
+Style: Tradu,Arial,20,&H00FEEEFF,&H000000FF,&H006736B4,&H009F7ED7,0,0,0,0,100,100,0,0,1,1,0.1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.52,0:00:01.73,Kara,,0000,0000,0000,,{\k20}fu{\k10}ta{\k25}shi{\k21}ka {\k45}na
+Dialogue: 0,0:00:02.85,0:00:04.85,Kara,,0000,0000,0000,,{\k26}bo{\k18}ku {\k15}no {\k17}se{\k21}ka{\k21}i {\k32}ga {\k15}i{\k35}ma
+Dialogue: 0,0:00:06.02,0:00:09.86,Kara,,0000,0000,0000,,{\k22}ma{\k15}ta{\k18}ta{\k17}ku{\k36}ma {\k34}ni {\k34}ka{\k17}wa{\k13}ri {\k20}ha{\k38}ji{\k34}me{\k86}te
+Dialogue: 0,0:00:09.86,0:00:12.57,Kara,,0000,0000,0000,,{\k52}hi{\k71}ro{\k67}ga{\k68}ru
+Dialogue: 0,0:00:23.16,0:00:28.17,Kara,,0000,0000,0000,,{\k29}a{\k14}no {\k35}hi {\k33}mi{\k37}tsu{\k40}ke{\k34}ta {\k18}yu{\k29}me {\k21}no {\k32}tsu{\k39}du{\k36}ki {\k33}wa {\k33}do{\k38}ko?
+Dialogue: 0,0:00:28.54,0:00:32.72,Kara,,0000,0000,0000,,{\k42}su{\k21}gu {\k25}ni {\k44}sa{\k25}ga{\k45}shi{\k33}te {\k11}mi{\k110}se{\k18}ru {\k44}yo
+Dialogue: 0,0:00:34.13,0:00:39.18,Kara,,0000,0000,0000,,{\k34}i{\k21}ma {\k34}mo {\k34}bo{\k37}ku {\k32}da{\k35}ke {\k17}wa {\k33}o{\k20}bo{\k28}e{\k43}te {\k31}i{\k69}run{\k37}da
+Dialogue: 0,0:00:39.81,0:00:42.89,Kara,,0000,0000,0000,,{\k19}na{\k18}tsu{\k21}ka{\k40}shii {\k41}nu{\k37}ku{\k33}mo{\k99}ri
+Dialogue: 0,0:00:44.69,0:00:49.98,Kara,,0000,0000,0000,,{\k133}saa {\k122}mou {\k32}i{\k71}ko{\k45}u {\k126}ka
+Dialogue: 0,0:00:49.98,0:00:55.36,Kara,,0000,0000,0000,,{\k33}ma{\k57}chi{\k51}u{\k54}ke{\k52}te{\k65}ru {\k102}un{\k22}me{\k18}i {\k84}ni
+Dialogue: 0,0:00:55.36,0:01:00.91,Kara,,0000,0000,0000,,{\k46}ta{\k48}chi{\k59}su{\k53}ku{\k54}mi {\k31}o{\k37}bi{\k104}e{\k21}te{\k105}ta
+Dialogue: 0,0:01:00.91,0:01:06.08,Kara,,0000,0000,0000,,{\k44}mo{\k38}u {\k17}kes{\k34}shi{\k35}te {\k34}ma{\k36}yo{\k15}wa{\k37}na{\k33}i {\k53}yo{\k51}u {\k90}ni
+Dialogue: 0,0:01:06.08,0:01:08.96,Kara,,0000,0000,0000,,{\k34}tsu{\k35}yo{\k16}ku {\k31}nat{\k25}te {\k26}yu{\k31}ku {\k90}yo
+Dialogue: 0,0:01:09.21,0:01:14.72,Kara,,0000,0000,0000,,{\k43}ni{\k49}do{\k51}to {\k56}mo{\k52}do{\k33}re{\k32}na{\k100}i {\k21}ka{\k23}ko {\k91}mo
+Dialogue: 0,0:01:14.72,0:01:20.14,Kara,,0000,0000,0000,,{\k34}a{\k61}shi{\k52}ta {\k37}ka{\k64}ra {\k36}ka{\k36}te {\k104}ni {\k18}shi{\k100}te
+Dialogue: 0,0:01:20.14,0:01:25.35,Kara,,0000,0000,0000,,{\k35}so{\k16}u {\k36}yat{\k20}te {\k30}no{\k33}ri{\k41}ko{\k29}e{\k50}te {\k41}yu{\k49}ku {\k38}no {\k103}sa
+Dialogue: 0,0:01:25.35,0:01:29.31,Kara,,0000,0000,0000,,{\k44}so{\k23}u{\k19}shi{\k32}te {\k20}bo{\k34}ku {\k33}wa {\k49}bo{\k22}ku {\k33}ni {\k20}na{\k67}ru
+Dialogue: 0,0:00:00.43,0:00:01.73,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(250,0)}
+Dialogue: 0,0:00:02.85,0:00:05.06,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,350)}
+Dialogue: 0,0:00:06.02,0:00:09.86,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:00:09.86,0:00:12.99,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,800)}
+Dialogue: 0,0:00:23.16,0:00:28.17,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:00:28.54,0:00:32.76,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,600)}
+Dialogue: 0,0:00:34.13,0:00:39.18,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:00:39.64,0:00:42.89,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,500)}
+Dialogue: 0,0:00:44.69,0:00:49.44,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,400)}
+Dialogue: 0,0:00:49.90,0:00:55.36,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(250,0)}
+Dialogue: 0,0:00:55.36,0:01:00.91,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:01:00.91,0:01:06.08,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:01:06.08,0:01:08.96,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,400)}
+Dialogue: 0,0:01:09.21,0:01:14.72,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:01:14.72,0:01:20.14,Tradu,,0000,0000,0000,,{\be6\pos(320,435)}
+Dialogue: 0,0:01:20.14,0:01:25.23,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,500)}
+Dialogue: 0,0:01:25.35,0:01:29.31,Tradu,,0000,0000,0000,,{\be6\pos(320,435)\fad(0,500)}

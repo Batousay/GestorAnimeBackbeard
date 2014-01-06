@@ -1,0 +1,42 @@
+/* Version 2.3.2; portal_rtl */
+
+/* ************************************* */
+/* Common styles                         */
+/* ************************************* */
+.sp_right
+{
+	text-align: left;
+}
+.sp_left
+{
+	text-align: right;
+}
+.sp_float_left
+{
+	float: right;
+}
+.sp_float_right
+{
+	float: left;
+}
+
+/* ************************************* */
+/* List styles                           */
+/* ************************************* */
+.sp_list
+{
+	text-align: right;
+}
+.sp_list_indent
+{
+	padding-right: 10px;
+}
+
+/* ************************************* */
+/* Block specific styles                 */
+/* ************************************* */
+#sp_menu li ul
+{
+	left: 0;
+	right: 75%;
+}

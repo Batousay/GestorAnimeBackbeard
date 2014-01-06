@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Last Style Storage: FF
+Audio File: ?video
+Video File: FF\FFXV_RAW.avi
+Video Aspect Ratio: 0
+Video Zoom: 3
+Video Position: 6411
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Aristocrat,50,&H00EFECDB,&H000000FF,&H003B3100,&H003D0E02,-1,0,0,0,100,110,0,0,1,1,1,2,70,70,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.03,0:00:09.48,Default,,0000,0000,0000,,{\be2}Noctis, ¿tú también ves la luz?
+Dialogue: 0,0:00:09.99,0:00:13.66,Default,,0000,0000,0000,,{\be2}Hay cosas que simplemente "sé", y no tengo ni idea de cómo.
+Comment: 0,0:00:13.63,0:00:17.32,Default,,0000,0000,0000,,{\be2}A MEETING PREDESTINED BY THE DIVINE --> título que aparece
+Comment: 0,0:00:14.26,0:00:17.32,Default,,0000,0000,0000,,{\be2}{\fad(1500,0)}Un encuentro predestinado por la voluntad divina
+Dialogue: 0,0:00:17.32,0:00:19.33,Default,,0000,0000,0000,,{\be2}No puedo quedarme más tiempo.
+Comment: 0,0:00:19.31,0:00:22.81,Default,,0000,0000,0000,,{\be2}EYES THAT SEE THE LIGHT OF EXPIRING SOULS ---> título que aparece
+Comment: 0,0:00:19.31,0:00:22.81,Default,,0000,0000,0000,,{\be2}{\fad(1500,0)}Unos ojos que ven la luz de las almas que se apagan
+Dialogue: 0,0:00:22.83,0:00:24.94,Default,,0000,0000,0000,,{\be2}No puedo dejar que te vayas.
+Dialogue: 0,0:00:26.04,0:00:29.59,Default,,0000,0000,0000,,{\be2}No te preocupes por mí. Vive como te dicte el corazón.
+Comment: 0,0:00:30.30,0:00:34.97,Default,,0000,0000,0000,,{\be2}THIS IS A FANTASY BASED ON REALITY. ---> título que aparece
+Comment: 0,0:00:30.30,0:00:34.97,Default,,0000,0000,0000,,{\be2}{\fad(1500,1500)}Esta es una fantasía basada en la realidad.
+Dialogue: 0,0:00:34.04,0:00:37.54,Default,,0000,0000,0000,,{\be2}{\a6}Teníamos una visión equivocada del mundo.
+Dialogue: 0,0:00:38.11,0:00:46.25,Default,,0000,0000,0000,,{\be2}Vivíamos aferrados a ideas preconcebidas que ahora se desmoronan.
+Dialogue: 0,0:00:57.10,0:00:59.07,Default,,0000,0000,0000,,{\be2}¿No te gusta la comida?
+Dialogue: 0,0:00:59.84,0:01:01.37,Default,,0000,0000,0000,,{\be2}Está asquerosa.
+Dialogue: 0,0:01:01.67,0:01:05.41,Default,,0000,0000,0000,,{\be2}No deberías hablar así, podrían despedir al cocinero.
+Dialogue: 0,0:01:15.79,0:01:18.93,Default,,0000,0000,0000,,{\be2}Ha llegado el momento de exterminar el linaje de Lucis de una vez por todas.
+Dialogue: 0,0:01:21.18,0:01:24.65,Default,,0000,0000,0000,,{\be2}Las cosas van a complicarse bastante.
+Dialogue: 0,0:01:33.61,0:01:35.96,Default,,0000,0000,0000,,{\be2}Noct, tenemos que llegar a la Ciudadela.
+Dialogue: 0,0:01:35.96,0:01:38.11,Default,,0000,0000,0000,,{\be2}¿Qué es lo que buscan?
+Dialogue: 0,0:01:38.11,0:01:39.21,Default,,0000,0000,0000,,{\be2}Seguramente sea el cristal.
+Dialogue: 0,0:01:39.62,0:01:45.38,Default,,0000,0000,0000,,{\be2}Niflheim ya ha entrado en guerra con Solheim, Tenebrae y Accordo por sus cristales.
+Dialogue: 0,0:01:45.38,0:01:47.31,Default,,0000,0000,0000,,{\be2}Parece que mi padre ha escapado.
+Dialogue: 0,0:01:47.65,0:01:48.94,Default,,0000,0000,0000,,{\be2}Debemos alcanzarlo antes que ellos.
+Dialogue: 0,0:01:50.14,0:01:51.51,Default,,0000,0000,0000,,{\be2}¡Tened cuidado!
+Dialogue: 0,0:01:51.51,0:01:54.02,Default,,0000,0000,0000,,{\be2}Estos tíos no se andan con tonterías.
+Dialogue: 0,0:02:00.36,0:02:02.82,Default,,0000,0000,0000,,{\be2}Tras este ataque, la guerra será inevitable.
+Dialogue: 0,0:02:02.82,0:02:05.36,Default,,0000,0000,0000,,{\be2}Nunca he querido evitarla.
+Dialogue: 0,0:02:05.36,0:02:07.79,Default,,0000,0000,0000,,{\be2}¡Noct! ¿¡Adónde crees que vas!?
+Dialogue: 0,0:02:07.79,0:02:08.83,Default,,0000,0000,0000,,{\be2}¡Espera!
+Dialogue: 0,0:02:07.79,0:02:10.91,Default,,0000,0000,0000,,{\be2}{\a6}Noct, si sigues atacando así irán todos a por ti.
+Dialogue: 0,0:02:11.20,0:02:13.37,Default,,0000,0000,0000,,{\be2}Tranquilo, puedo con ello.
+Dialogue: 0,0:02:28.23,0:02:29.98,Default,,0000,0000,0000,,{\be2}¿Estáis aquí por el cristal?
+Dialogue: 0,0:02:30.82,0:02:33.33,Default,,0000,0000,0000,,{\be2}Eso es evidente.
+Dialogue: 0,0:02:34.57,0:02:38.00,Default,,0000,0000,0000,,{\be2}El último de los cristales del mundo...
+Dialogue: 0,0:02:40.50,0:02:44.32,Default,,0000,0000,0000,,{\be2}Planean llevarse el cristal de la ciudad. Debemos evitarlo, cueste lo que cueste...
+Dialogue: 0,0:02:44.68,0:02:46.40,Default,,0000,0000,0000,,{\be2}Lo recuperaré.
+Dialogue: 0,0:02:46.86,0:02:49.51,Default,,0000,0000,0000,,{\be2}Acabad con la resistencia de Lucis.
+Dialogue: 0,0:02:49.51,0:02:53.34,Default,,0000,0000,0000,,{\be2}En cuanto al príncipe, el hijo de Regis, encontradlo y matadlo.
+Dialogue: 0,0:03:04.00,0:03:05.36,Default,,0000,0000,0000,,{\be2}¿Quieres la verdad?
+Dialogue: 0,0:03:06.16,0:03:07.28,Default,,0000,0000,0000,,{\be2}¿Por qué no?
+Dialogue: 0,0:03:07.88,0:03:08.83,Default,,0000,0000,0000,,{\be2}No te gustará.
+Dialogue: 0,0:03:15.25,0:03:17.66,Default,,0000,0000,0000,,{\be2}He aquí otra versión de la leyenda.
+Dialogue: 0,0:03:18.72,0:03:19.71,Default,,0000,0000,0000,,{\be2}Sin embargo...
+Dialogue: 0,0:03:20.27,0:03:22.50,Default,,0000,0000,0000,,{\be2}El mundo siempre está en constante cambio...
+Dialogue: 0,0:03:23.37,0:03:25.01,Default,,0000,0000,0000,,{\be2}Ya llega el decimoquinto.
+Comment: 0,0:03:33.89,0:03:37.58,Default,,0000,0000,0000,,{\be2}A WORLD OF THE VERSUS EPIC ---> título que aparece
+Comment: 0,0:03:33.89,0:03:37.58,Default,,0000,0000,0000,,{\be2}El Mundo del VERSUS Épico
+Dialogue: 0,0:03:33.92,0:03:37.58,Default,,0000,0000,0000,,{\be2}

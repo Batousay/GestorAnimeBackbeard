@@ -1,0 +1,52 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 848
+PlayResY: 480
+Video Zoom Percent: 0.5
+Scroll Position: 8
+Active Line: 17
+Audio URI: (30500) Insert.avi
+Video File: (30500) Insert.avi
+Video Aspect Ratio: c1.76667
+Video Position: 839
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.10,0:00:22.42,Default,,0,0,0,,{\k52}fu{\k36}ka{\k36}i {\k42}ya{\k30}mi {\k46}no {\k42}ho{\k38}to{\k38}ri {\k28}ne{\k40}mu{\k32}ru {\k48}chou {\k42}ta{\k42}chi {\k140}yo
+Dialogue: 0,0:00:23.08,0:00:29.90,Default,,0,0,0,,{\k114}ao{\k63}ki {\k41}so{\k30}ra {\k72}sae{\k69}mo {\k19}shi{\k32}ra{\k29}zu {\k12}ni {\k52}i{\k28}ru {\k48}no {\k73}ka
+Dialogue: 0,0:00:31.26,0:00:34.98,Default,,0,0,0,,{\k36}tsu{\k24}mi{\k24}ki {\k41}no {\k25}you{\k29}ni {\k26}mo{\k25}roi {\k19}se{\k28}kai {\k95}wo
+Dialogue: 0,0:00:34.98,0:00:39.16,Default,,0,0,0,,{\k31}ha{\k38}ba{\k56}ta{\k42}ku {\k33}su{\k39}be {\k30}ga {\k22}ho{\k51}shi{\k76}i
+Dialogue: 0,0:00:39.16,0:00:43.02,Default,,0,0,0,,{\k32}hi{\k23}to{\k32}tsu {\k14}da{\k12}ke {\k56}{\k71}sou {\k21}ne{\k52}ga{\k73}tta
+Dialogue: 0,0:00:43.02,0:00:46.85,Default,,0,0,0,,{\k42}ai {\k39}su{\k34}be{\k44}ki {\k32}hi{\k25}to {\k47}no {\k36}ta{\k22}me{\k61}ni
+Dialogue: 0,0:00:48.56,0:00:52.61,Default,,0,0,0,,{\k51}sai {\k45}wa {\k35}chi{\k17}j{\k53}you {\k34}ta{\k21}ka{\k40}ku {\k35}na{\k30}ga{\k26}re{\k17}ta
+Dialogue: 0,0:00:52.61,0:00:56.76,Default,,0,0,0,,{\k40}ra{\k20}ku{\k44}en {\k34}so{\k26}re {\k30}wa {\k62}hii{\k45}zu{\k37}ru {\k33}mi{\k44}rai
+Dialogue: 0,0:00:56.76,0:01:00.49,Default,,0,0,0,,{\k37}You {\k36}and {\k31}I {\k63}tooi {\k25}yu{\k34}me {\k27}ni {\k16}mu{\k36}su{\k23}ba{\k22}re{\k23}ru
+Dialogue: 0,0:01:01.05,0:01:04.66,Default,,0,0,0,,{\k25}ko{\k35}no {\k25}a{\k85}kai {\k31}ka{\k64}wa {\k51}wo {\k26}koe{\k19}te
+Dialogue: 0,0:01:04.66,0:01:08.42,Default,,0,0,0,,{\k24}ha{\k33}na {\k36}wa {\k24}mu{\k18}j{\k41}you {\k21}sa{\k48}rau {\k14}j{\k35}yuu{\k24}ji{\k35}ka {\k23}wo
+Dialogue: 0,0:01:08.68,0:01:12.69,Default,,0,0,0,,{\k30}da{\k29}i{\k26}te {\k60}sai{\k37}ta {\k23}{\k28}ha{\k18}ka{\k32}na{\k26}ki {\k16}ten{\k76}shi
+Dialogue: 0,0:01:12.69,0:01:16.79,Default,,0,0,0,,{\k34}You {\k20}and {\k23}I {\k55}i{\k18}tsu{\k52}ka {\k33}{\k19}mi{\k30}tsu{\k24}ke{\k25}ru {\k15}na{\k62}ra
+Dialogue: 0,0:01:16.94,0:01:21.28,Default,,0,0,0,,{\k32}ki{\k43}mi {\k24}ni {\k26}sa{\k50}sa{\k36}ge {\k47}you {\k79}pa{\k27}ra{\k29}di{\k41}se
+Dialogue: 0,0:00:15.10,0:00:22.42,Default,,0,0,0,,En la más profunda oscuridad duermen las mariposas encantadas.
+Dialogue: 0,0:00:23.08,0:00:29.90,Default,,0,0,0,,¿Eras consciente de que resides en el amplio cielo azul?
+Dialogue: 0,0:00:31.26,0:00:34.98,Default,,0,0,0,,Este frágil mundo me recuerda a una montaña de bloques
+Dialogue: 0,0:00:34.98,0:00:39.16,Default,,0,0,0,,que desean volar hasta las estrellas.
+Dialogue: 0,0:00:39.16,0:00:43.02,Default,,0,0,0,,Solo tengo un deseo y quiero que lo oigas.
+Dialogue: 0,0:00:43.02,0:00:46.85,Default,,0,0,0,,Solo amaré a esa persona.
+Dialogue: 0,0:00:48.56,0:00:52.61,Default,,0,0,0,,Los dados del destino están echados decidiendo nuestra suerte.
+Dialogue: 0,0:00:52.61,0:00:56.76,Default,,0,0,0,,Un paraíso soñado se alzará en el futuro.
+Dialogue: 0,0:00:56.76,0:01:00.49,Default,,0,0,0,,Tú y yo nos encontraremos en algún sueño distante.
+Dialogue: 0,0:01:01.05,0:01:04.66,Default,,0,0,0,,Y juntos, conseguiremos atravesar este río teñido de sangre.
+Dialogue: 0,0:01:04.66,0:01:08.42,Default,,0,0,0,,Una flor que abraza una cruz con temor.
+Dialogue: 0,0:01:08.68,0:01:12.69,Default,,0,0,0,,Un ángel que florece en su cálido seno.
+Dialogue: 0,0:01:12.69,0:01:16.79,Default,,0,0,0,,Estoy convencido de que tú y yo nos encontraremos.
+Dialogue: 0,0:01:16.94,0:01:21.28,Default,,0,0,0,,¡Y cuando lo hagamos, tendrás tu paraíso!
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

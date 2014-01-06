@@ -1,0 +1,340 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:43.70,0:03:45.70,Default,,0000,0000,0000,,[Sueños pasajeros]
+Dialogue: 0,0:01:08.08,0:01:10.80,Default,,0000,0000,0000,,Se están metiendo con ella. Y de una forma bastante cutre, además.
+Dialogue: 0,0:01:10.80,0:01:12.59,Default,,0000,0000,0000,,¡Voy a girar a la derecha!
+Dialogue: 0,0:01:13.21,0:01:17.84,Default,,0000,0000,0000,,Bueno, ¿qué tal si me hablas sobre los experimentos con humanos que estáis realizando?
+Dialogue: 0,0:01:17.84,0:01:20.68,Default,,0000,0000,0000,,Esa era yo. Estoy segura.
+Dialogue: 0,0:01:20.68,0:01:22.97,Default,,0000,0000,0000,,¿Adónde estaría yendo?
+Dialogue: 0,0:01:22.97,0:01:25.31,Default,,0000,0000,0000,,Te encontré. Amor mío...
+Dialogue: 0,0:01:25.31,0:01:29.56,Default,,0000,0000,0000,,Basta de excusas. ¿Quieres convertirte en un sujeto de estudio?
+Dialogue: 0,0:01:29.56,0:01:32.61,Default,,0000,0000,0000,,Ríndete. Puede que no te pase nada por no tener la cabeza.
+Dialogue: 0,0:01:32.61,0:01:33.61,Default,,0000,0000,0000,,[Kanra-san ha entrado en la sala]
+Dialogue: 0,0:01:33.61,0:01:34.61,Default,,0000,0000,0000,,[Tanaka Taro-san ha entrado en la sala.]
+Dialogue: 0,0:01:34.61,0:01:35.61,Default,,0000,0000,0000,,[Buenas noches.]
+Dialogue: 0,0:01:35.61,0:01:36.61,Default,,0000,0000,0000,,[Buenas noches.]
+Dialogue: 0,0:01:56.17,0:01:59.30,Default,,0000,0000,0000,,La gente siempre pierde lo que más les importa, ¿no?
+Dialogue: 0,0:01:56.17,0:01:59.30,Default,,0000,0000,0000,,[La gente siempre pierde lo que más les importa, ¿no?]
+Dialogue: 0,0:01:59.30,0:02:01.39,Default,,0000,0000,0000,,Como el paraguas que acabas de comprarte y esas cosas.
+Dialogue: 0,0:01:59.30,0:02:01.39,Default,,0000,0000,0000,,[Como el paraguas que acabas de comprarte y esas cosas.]
+Dialogue: 0,0:02:01.39,0:02:04.27,Default,,0000,0000,0000,,Aunque siempre puedes conseguir uno de plástico...
+Dialogue: 0,0:02:01.39,0:02:04.27,Default,,0000,0000,0000,,[Aunque siempre puedes conseguir uno de plástico...]
+Dialogue: 0,0:02:04.27,0:02:07.48,Default,,0000,0000,0000,,Olvídate de los paraguas; ¿qué hay de ganar la lotería?
+Dialogue: 0,0:02:04.27,0:02:07.48,Default,,0000,0000,0000,,[Olvídate de los paraguas; ¿qué hay de ganar la lotería?]
+Dialogue: 0,0:02:07.48,0:02:10.44,Default,,0000,0000,0000,,Pones el boleto a buen recaudo y luego olvidas dónde lo dejaste.
+Dialogue: 0,0:02:07.48,0:02:10.44,Default,,0000,0000,0000,,[Pones el boleto a buen recaudo y luego olvidas dónde lo dejaste.]
+Dialogue: 0,0:02:10.44,0:02:13.94,Default,,0000,0000,0000,,Y luego encuentras un montón de estupideces mientras lo vas buscando.
+Dialogue: 0,0:02:10.44,0:02:13.94,Default,,0000,0000,0000,,[Y luego encuentras un montón de estupideces mientras lo vas buscando.]
+Dialogue: 0,0:02:13.94,0:02:17.90,Default,,0000,0000,0000,,Aunque en realidad lo único que te importa es lo que perdiste.
+Dialogue: 0,0:02:13.94,0:02:17.90,Default,,0000,0000,0000,,[Aunque en realidad lo único que te importa es lo que perdiste.]
+Dialogue: 0,0:02:17.90,0:02:18.90,Default,,0000,0000,0000,,[Setton-san ha entrado en la sala]
+Dialogue: 0,0:02:17.90,0:02:19.16,Default,,0000,0000,0000,,¡Buenas noches!
+Dialogue: 0,0:02:17.90,0:02:19.16,Default,,0000,0000,0000,,[¡Buenas noches!]
+Dialogue: 0,0:02:19.16,0:02:21.70,Default,,0000,0000,0000,,¿Hay alguien buscando algo?
+Dialogue: 0,0:02:19.16,0:02:21.70,Default,,0000,0000,0000,,[¿Hay alguien buscando algo?]
+Dialogue: 0,0:02:24.29,0:02:26.12,Default,,0000,0000,0000,,A veces pienso una cosa...
+Dialogue: 0,0:02:27.12,0:02:32.67,Default,,0000,0000,0000,,¿Duermo cuando la otra está despierta y cierra los ojos cuando yo me despierto?
+Dialogue: 0,0:02:33.79,0:02:39.51,Default,,0000,0000,0000,,Tengo la sensación de que el paso del tiempo se ha vuelto bastante borroso.
+Dialogue: 0,0:02:41.80,0:02:43.30,Default,,0000,0000,0000,,¿Cuándo empezó?
+Dialogue: 0,0:02:44.10,0:02:49.56,Default,,0000,0000,0000,,Ya no me veo completa ni en mis sueños.
+Dialogue: 0,0:02:52.56,0:02:54.48,Default,,0000,0000,0000,,Aquí y allí...
+Dialogue: 0,0:02:55.78,0:03:00.11,Default,,0000,0000,0000,,¿Qué puede ver la parte que no está aquí?
+Dialogue: 0,0:03:00.99,0:03:02.49,Default,,0000,0000,0000,,¿Qué está mirando?
+Dialogue: 0,0:03:03.45,0:03:06.87,Default,,0000,0000,0000,,En un recurrente sueño que he tenido innumerables veces...
+Dialogue: 0,0:03:07.54,0:03:10.71,Default,,0000,0000,0000,,hago el intento de averiguarlo.
+Dialogue: 0,0:03:18.09,0:03:19.30,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:03:19.30,0:03:21.76,Default,,0000,0000,0000,,el sueño siempre es el mismo.
+Dialogue: 0,0:03:57.80,0:03:59.96,Default,,0000,0000,0000,,¡Celty! ¡Es fascinante!
+Dialogue: 0,0:03:59.96,0:04:02.84,Default,,0000,0000,0000,,Anoche dijiste que no ibas a trabajar hoy, ¿no?
+Dialogue: 0,0:04:03.09,0:04:09.10,Default,,0000,0000,0000,,¡Acabo de calcularlo y resulta que es tu primer día libre en 265 días!
+Dialogue: 0,0:04:13.89,0:04:16.06,Default,,0000,0000,0000,,Pareces triste.
+Dialogue: 0,0:04:16.06,0:04:20.28,Default,,0000,0000,0000,,Siempre intenta interpretar mis expresiones faciales de este modo.
+Dialogue: 0,0:04:24.24,0:04:28.95,Default,,0000,0000,0000,,He oído que soñar es una forma para que la gente ponga en orden sus recuerdos. ¿Es eso cierto?
+Dialogue: 0,0:04:24.24,0:04:28.95,Default,,0000,0000,0000,,[He oído que soñar es una forma para que la gente ponga en orden sus recuerdos. ¿Es eso cierto?]
+Dialogue: 0,0:04:28.95,0:04:31.25,Default,,0000,0000,0000,,¿Por qué dices eso?
+Dialogue: 0,0:04:31.25,0:04:33.46,Default,,0000,0000,0000,,¿"Por qué sueña la gente"?
+Dialogue: 0,0:04:33.46,0:04:36.90,Default,,0000,0000,0000,,Pues si te digo la verdad, no lo sé.
+Dialogue: 0,0:04:37.42,0:04:42.47,Default,,0000,0000,0000,,Hay muchas cosas para las que la ciencia médica no tiene una respuesta, sobre todo en relación a eso.
+Dialogue: 0,0:04:42.47,0:04:47.60,Default,,0000,0000,0000,,Asociamos los sueños con el REM. Se sabe comúnmente que soñamos durante los movimientos oculares rápidos...
+Dialogue: 0,0:04:47.60,0:04:51.43,Default,,0000,0000,0000,,Es un médico. O mejor dicho, es un médico clandestino.
+Dialogue: 0,0:04:51.43,0:04:54.73,Default,,0000,0000,0000,,Pero la verdad es que no sé exactamente qué tipo de trabajo hace.
+Dialogue: 0,0:04:55.77,0:05:03.24,Default,,0000,0000,0000,,Me deja vivir aquí, y también es el que hizo que pudiera trabajar como repartidora.
+Dialogue: 0,0:05:04.53,0:05:08.28,Default,,0000,0000,0000,,De todos modos, saber exactamente qué son los recuerdos también es un problema.
+Dialogue: 0,0:05:09.74,0:05:11.12,Default,,0000,0000,0000,,¿Estás escuchando?
+Dialogue: 0,0:05:11.12,0:05:12.87,Default,,0000,0000,0000,,Estoy agradecida.
+Dialogue: 0,0:05:13.25,0:05:20.67,Default,,0000,0000,0000,,Además, hace poco empecé a comprender que tenemos una relación de apego mutuo.
+Dialogue: 0,0:05:21.50,0:05:22.84,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:05:22.84,0:05:28.05,Default,,0000,0000,0000,,Crees que los recuerdos están dentro de tu cabeza, pero tampoco lo sabemos con seguridad.
+Dialogue: 0,0:05:28.84,0:05:30.18,Default,,0000,0000,0000,,¡Claro que sí!
+Dialogue: 0,0:05:28.84,0:05:30.18,Default,,0000,0000,0000,,[¡Claro que sí!]
+Dialogue: 0,0:05:31.72,0:05:34.89,Default,,0000,0000,0000,,A todo esto, deberías vestirte.
+Dialogue: 0,0:05:34.89,0:05:37.06,Default,,0000,0000,0000,,Vamos a salir.
+Dialogue: 0,0:05:37.06,0:05:39.06,Default,,0000,0000,0000,,Yo también me tomaré el día libre.
+Dialogue: 0,0:05:39.06,0:05:41.57,Default,,0000,0000,0000,,Mira, incluso voy a apagar el móvil.
+Dialogue: 0,0:05:44.07,0:05:47.45,Default,,0000,0000,0000,,Y también voy a quitar la conexión de red. Así no tendré ningún modo de revisar el correo.
+Dialogue: 0,0:05:47.82,0:05:50.78,Default,,0000,0000,0000,,¡Es hora de descansar y relajarse un poco!
+Dialogue: 0,0:05:50.78,0:05:52.79,Default,,0000,0000,0000,,Bueno, ¿dónde quieres que vayamos?
+Dialogue: 0,0:05:52.79,0:05:55.25,Default,,0000,0000,0000,,¿Llevamos a tu amado caballo al mar?
+Dialogue: 0,0:05:55.25,0:05:56.71,Default,,0000,0000,0000,,¿O quieres que vayamos a unas fuentes termales?
+Dialogue: 0,0:05:57.37,0:05:58.87,Default,,0000,0000,0000,,No quiero ir a ningún lado.
+Dialogue: 0,0:05:57.37,0:05:58.87,Default,,0000,0000,0000,,[No quiero ir a ningún lado.]
+Dialogue: 0,0:05:59.08,0:06:00.13,Default,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:06:00.75,0:06:05.13,Default,,0000,0000,0000,,Como es mi día libre, quiero hacerte algo de comida para agradecerte todo lo que haces por mí.
+Dialogue: 0,0:06:00.75,0:06:05.13,Default,,0000,0000,0000,,[Como es mi día libre, quiero hacerte algo de comida para agradecerte todo lo que haces por mí.]
+Dialogue: 0,0:06:05.46,0:06:06.38,Default,,0000,0000,0000,,¡¿Comida casera?!
+Dialogue: 0,0:06:06.88,0:06:09.76,Default,,0000,0000,0000,,¿Qué quieres comer? Miraré algunas recetas.
+Dialogue: 0,0:06:06.88,0:06:09.76,Default,,0000,0000,0000,,[¿Qué quieres comer? Miraré algunas recetas.]
+Dialogue: 0,0:06:14.27,0:06:16.48,Default,,0000,0000,0000,,¡La emoción me embarga, Celty!
+Dialogue: 0,0:06:18.14,0:06:20.10,Default,,0000,0000,0000,,¿Qué podemos comer...?
+Dialogue: 0,0:06:20.10,0:06:21.10,Default,,0000,0000,0000,,[Estofado de pollo] [Sashimi de berenjena] [Chicharro fresco]
+Dialogue: 0,0:06:25.90,0:06:28.20,Default,,0000,0000,0000,,Muchas gracias por dejármelo.
+Dialogue: 0,0:06:28.65,0:06:30.11,Default,,0000,0000,0000,,Me has salvado.
+Dialogue: 0,0:06:30.11,0:06:31.87,Default,,0000,0000,0000,,Es que esta mañana me he quedado dormido.
+Dialogue: 0,0:06:32.32,0:06:34.16,Default,,0000,0000,0000,,No te preocupes, socio.
+Dialogue: 0,0:06:34.16,0:06:36.91,Default,,0000,0000,0000,,Ya va siendo hora de que sientas la presión de mudarte a Tokio.
+Dialogue: 0,0:06:36.91,0:06:41.13,Default,,0000,0000,0000,,¡La verdad es que es una gran oportunidad para cazar!
+Dialogue: 0,0:06:41.13,0:06:46.05,Default,,0000,0000,0000,,Acércate a la maravillosa chica que tienes al lado y dile que te deje mirar su libro.
+Dialogue: 0,0:06:46.05,0:06:49.54,Default,,0000,0000,0000,,¿Qué pasa? ¿Te cuesta mucho llevar corbata?
+Dialogue: 0,0:06:51.14,0:06:52.47,Default,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:06:52.47,0:06:54.43,Default,,0000,0000,0000,,No se te habrá olvidado también la cartera, ¿no?
+Dialogue: 0,0:06:54.64,0:06:56.18,Default,,0000,0000,0000,,Qué va...
+Dialogue: 0,0:06:56.18,0:06:57.93,Default,,0000,0000,0000,,¿Eh? ¿Eh?
+Dialogue: 0,0:06:58.48,0:06:59.98,Default,,0000,0000,0000,,¡¿Eh?!
+Dialogue: 0,0:07:09.45,0:07:10.77,Default,,0000,0000,0000,,¡Russia Sushi! ¡Está bueno!
+Dialogue: 0,0:07:10.77,0:07:12.11,Default,,0000,0000,0000,,¡Simon!
+Dialogue: 0,0:07:12.11,0:07:13.95,Default,,0000,0000,0000,,¿Has visto a Yuma-chi?
+Dialogue: 0,0:07:13.95,0:07:16.79,Default,,0000,0000,0000,,Ah, Karisawa. ¿Quieres comer sushi?
+Dialogue: 0,0:07:16.79,0:07:18.25,Default,,0000,0000,0000,,No le he visto.
+Dialogue: 0,0:07:19.12,0:07:21.17,Default,,0000,0000,0000,,No está aquí, ¿eh?
+Dialogue: 0,0:07:21.17,0:07:24.96,Default,,0000,0000,0000,,Hoy era el día en que salía la edición de bolsillo de Accel World.
+Dialogue: 0,0:07:19.71,0:07:22.79,Default,,0000,0000,0000,,Esta mañana el jefe se tuvo que marchar antes y dijo: []
+Dialogue: 0,0:07:24.96,0:07:28.59,Default,,0000,0000,0000,,"Voy a tomar unas medicinas". []
+Dialogue: 0,0:07:23.79,0:07:26.92,Default,,0000,0000,0000,,Pero no ha vuelto aún. Así que ahora no tenemos ingredientes... []
+Dialogue: 0,0:07:28.59,0:07:32.68,Default,,0000,0000,0000,,Y entonces la criada de la cafetería vino corriendo a darme este móvil.
+Dialogue: 0,0:07:32.68,0:07:34.14,Default,,0000,0000,0000,,Es el de Yuma-chi, así que...
+Dialogue: 0,0:07:32.13,0:07:34.14,Default,,0000,0000,0000,,Ahora le estoy buscando.
+Dialogue: 0,0:07:34.14,0:07:35.97,Default,,0000,0000,0000,,¡Entonces no atraigas clientes! []
+Dialogue: 0,0:07:35.97,0:07:37.97,Default,,0000,0000,0000,,Hola. Disculpa.
+Dialogue: 0,0:07:37.97,0:07:40.10,Default,,0000,0000,0000,,¿Qué estás buscando?
+Dialogue: 0,0:07:40.10,0:07:41.23,Default,,0000,0000,0000,,¡He dicho que a Yu...!
+Dialogue: 0,0:07:41.69,0:07:42.60,Default,,0000,0000,0000,,¿Quién eres?
+Dialogue: 0,0:07:41.23,0:07:42.23,Default,,0000,0000,0000,,[Objetos perdidos]
+Dialogue: 0,0:07:44.65,0:07:46.23,Default,,0000,0000,0000,,¿"Objetos perdidos"?
+Dialogue: 0,0:07:46.23,0:07:49.99,Default,,0000,0000,0000,,Por favor, escribe aquí lo que estés buscando.
+Dialogue: 0,0:07:49.99,0:07:51.11,Default,,0000,0000,0000,,Dímelo, por favor.
+Dialogue: 0,0:07:53.78,0:07:56.83,Default,,0000,0000,0000,,¿Vas a estar aquí todo el día?
+Dialogue: 0,0:07:56.83,0:07:59.12,Default,,0000,0000,0000,,Se lo estoy preguntando a todo el mundo.
+Dialogue: 0,0:08:05.33,0:08:06.34,Default,,0000,0000,0000,,¡Mi móvil!
+Dialogue: 0,0:08:07.75,0:08:09.59,Default,,0000,0000,0000,,Bienvenido.
+Dialogue: 0,0:08:13.55,0:08:16.85,Default,,0000,0000,0000,,¿Qué estoy buscando?
+Dialogue: 0,0:08:17.68,0:08:20.06,Default,,0000,0000,0000,,Me alegro de que Kaztano esté bien.
+Dialogue: 0,0:08:20.06,0:08:25.10,Default,,0000,0000,0000,,Les prometí a Karisawa y Yumasaki que no iríamos a investigar.
+Dialogue: 0,0:08:26.73,0:08:28.36,Default,,0000,0000,0000,,Farmacéuticas Yagiri...
+Dialogue: 0,0:08:29.02,0:08:35.61,Default,,0000,0000,0000,,Se rumorea que están vinculados en secreto con la Asociación Awakusu y que tienen negocios con la empresa americana Nebula.
+Dialogue: 0,0:08:36.12,0:08:41.12,Default,,0000,0000,0000,,Pero no voy a descubrir nada haciendo esto.
+Dialogue: 0,0:09:09.44,0:09:11.23,Default,,0000,0000,0000,,¿Has visto a Karisawa-san?
+Dialogue: 0,0:09:11.57,0:09:13.15,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:09:13.15,0:09:14.82,Default,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:09:14.82,0:09:17.74,Default,,0000,0000,0000,,Vengan al Russia Sushi.
+Dialogue: 0,0:09:26.50,0:09:30.09,Default,,0000,0000,0000,,¡Celty! ¡En serio, córtalo con un cuchillo normal!
+Dialogue: 0,0:09:34.47,0:09:36.68,Default,,0000,0000,0000,,¡Delicioso! ¡Realmente delicioso!
+Dialogue: 0,0:09:38.55,0:09:39.18,Default,,0000,0000,0000,,Delicioso.
+Dialogue: 0,0:09:41.68,0:09:43.68,Default,,0000,0000,0000,,Espera. ¿Por qué estás llorando?
+Dialogue: 0,0:09:41.68,0:09:43.68,Default,,0000,0000,0000,,[Espera. ¿Por qué estás llorando?]
+Dialogue: 0,0:09:44.10,0:09:45.56,Default,,0000,0000,0000,,¿Estoy llorando?
+Dialogue: 0,0:09:45.56,0:09:47.81,Default,,0000,0000,0000,,Simplemente estoy emocionado.
+Dialogue: 0,0:09:47.81,0:09:49.77,Default,,0000,0000,0000,,Esto es maravilloso.
+Dialogue: 0,0:09:49.77,0:09:53.69,Default,,0000,0000,0000,,Esta increíble raíz de bardana dulce, el amargo y salado sabor de la sopa de miso...
+Dialogue: 0,0:09:53.69,0:09:55.32,Default,,0000,0000,0000,,Hay algo raro.
+Dialogue: 0,0:09:55.32,0:10:00.07,Default,,0000,0000,0000,,¡No, tu cocina es fresca y original, igual que tú!
+Dialogue: 0,0:10:01.12,0:10:02.74,Default,,0000,0000,0000,,¡Eso no es un halago!
+Dialogue: 0,0:10:01.12,0:10:02.74,Default,,0000,0000,0000,,[¡Eso no es un halago!]
+Dialogue: 0,0:10:03.16,0:10:06.33,Default,,0000,0000,0000,,Ya veo. No lo he sazonado bien.
+Dialogue: 0,0:10:03.16,0:10:06.33,Default,,0000,0000,0000,,[Ya veo. No lo he sazonado bien.]
+Dialogue: 0,0:10:06.33,0:10:08.12,Default,,0000,0000,0000,,Déjalo. No tienes por qué forzarte.
+Dialogue: 0,0:10:06.33,0:10:08.12,Default,,0000,0000,0000,,[Déjalo. No tienes por qué forzarte.]
+Dialogue: 0,0:10:08.71,0:10:12.29,Default,,0000,0000,0000,,¿Forzarme a qué? Si está buenísimo.
+Dialogue: 0,0:10:12.75,0:10:14.13,Default,,0000,0000,0000,,¡He dicho que no te lo comas!
+Dialogue: 0,0:10:12.75,0:10:14.13,Default,,0000,0000,0000,,[¡He dicho que no te lo comas!]
+Dialogue: 0,0:10:19.09,0:10:20.14,Default,,0000,0000,0000,,¡¿Qué haces?!
+Dialogue: 0,0:10:28.94,0:10:30.60,Default,,0000,0000,0000,,¿Qué leches es esto?
+Dialogue: 0,0:10:31.23,0:10:35.11,Default,,0000,0000,0000,,Tienes bastante talento para la cocina.
+Dialogue: 0,0:10:35.57,0:10:37.98,Default,,0000,0000,0000,,Es verdad. Y eso a pesar de que no tienes papilas gustativas.
+Dialogue: 0,0:10:40.11,0:10:41.70,Default,,0000,0000,0000,,¿Qué? ¿Papilas gustativas?
+Dialogue: 0,0:10:42.45,0:10:44.16,Default,,0000,0000,0000,,Es tu sentido del gusto.
+Dialogue: 0,0:10:44.16,0:10:48.62,Default,,0000,0000,0000,,El cerebro no entiende los sabores que no están incluidos en tu ADN.
+Dialogue: 0,0:10:49.54,0:10:53.50,Default,,0000,0000,0000,,Pero tú no tienes la necesidad de comer, así que tu cerebro no está involucrado.
+Dialogue: 0,0:10:56.13,0:10:57.71,Default,,0000,0000,0000,,No te deprimas.
+Dialogue: 0,0:10:58.84,0:11:00.63,Default,,0000,0000,0000,,Venga, juguemos a algo.
+Dialogue: 0,0:11:01.76,0:11:03.85,Default,,0000,0000,0000,,No me trates como a una niña.
+Dialogue: 0,0:11:01.76,0:11:03.85,Default,,0000,0000,0000,,[No me trates como a una niña.]
+Dialogue: 0,0:11:03.85,0:11:05.97,Default,,0000,0000,0000,,Eso es lo que más me enfada.
+Dialogue: 0,0:11:03.85,0:11:05.97,Default,,0000,0000,0000,,[Eso es lo que más me enfada.]
+Dialogue: 0,0:11:05.97,0:11:07.31,Default,,0000,0000,0000,,No lo decía de esa forma...
+Dialogue: 0,0:11:07.68,0:11:16.11,Default,,0000,0000,0000,,La verdad es que me has enseñado mucho, pero tengo vagos recuerdos de hace unos cien años.
+Dialogue: 0,0:11:07.68,0:11:16.11,Default,,0000,0000,0000,,[La verdad es que me has enseñado mucho, pero tengo vagos recuerdos de hace unos cien años.]
+Dialogue: 0,0:11:16.11,0:11:17.69,Default,,0000,0000,0000,,Mi cabeza debería tener más...
+Dialogue: 0,0:11:18.24,0:11:20.61,Default,,0000,0000,0000,,¿Necesitas recuerdos de hace cientos de años?
+Dialogue: 0,0:11:22.41,0:11:23.37,Default,,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:11:22.41,0:11:23.37,Default,,0000,0000,0000,,[¿A qué te refieres?]
+Dialogue: 0,0:11:24.12,0:11:26.29,Default,,0000,0000,0000,,Siempre te lo estoy diciendo, ¿no?
+Dialogue: 0,0:11:26.87,0:11:29.25,Default,,0000,0000,0000,,Estás bien tal y como estás ahora.
+Dialogue: 0,0:11:30.04,0:11:31.25,Default,,0000,0000,0000,,¡¿Y tú qué sabes?!
+Dialogue: 0,0:11:30.04,0:11:31.25,Default,,0000,0000,0000,,[¡¿Y tú qué sabes?!]
+Dialogue: 0,0:11:33.92,0:11:37.59,Default,,0000,0000,0000,,¡Quizás pronto no recuerde ni mi cara!
+Dialogue: 0,0:11:33.92,0:11:37.59,Default,,0000,0000,0000,,[¡Quizás pronto no recuerde ni mi cara!]
+Dialogue: 0,0:11:41.09,0:11:42.87,Default,,0000,0000,0000,,¡Espera! ¡Lo siento!
+Dialogue: 0,0:11:55.06,0:11:56.27,Default,,0000,0000,0000,,¡¿Celty?!
+Dialogue: 0,0:11:56.82,0:11:58.82,Default,,0000,0000,0000,,¡¿Has vuelto?!
+Dialogue: 0,0:12:01.45,0:12:06.70,Default,,0000,0000,0000,,Muy mal, doctor. []
+Dialogue: 0,0:12:01.45,0:12:06.70,Default,,0000,0000,0000,,Tenemos un paciente urgente, pero no he podido contactar contigo. []
+Dialogue: 0,0:12:21.92,0:12:24.34,Default,,0000,0000,0000,,¿Ocurre algo, Sonohara-san?
+Dialogue: 0,0:12:24.34,0:12:25.47,Default,,0000,0000,0000,,No están.
+Dialogue: 0,0:12:25.47,0:12:26.35,Default,,0000,0000,0000,,¿"No están"?
+Dialogue: 0,0:12:26.35,0:12:27.51,Default,,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:12:27.51,0:12:29.68,Default,,0000,0000,0000,,¿Qué pasa ahora, Mikado?
+Dialogue: 0,0:12:29.68,0:12:31.85,Default,,0000,0000,0000,,Los zapatos de Sonohara-san...
+Dialogue: 0,0:12:31.85,0:12:33.19,Default,,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:12:33.19,0:12:34.81,Default,,0000,0000,0000,,Qué cruel...
+Dialogue: 0,0:12:35.73,0:12:38.77,Default,,0000,0000,0000,,Creo que sé quién ha podido hacerlo.
+Dialogue: 0,0:12:39.15,0:12:40.11,Default,,0000,0000,0000,,¿Kida-kun?
+Dialogue: 0,0:12:40.19,0:12:41.03,Default,,0000,0000,0000,,Bien.
+Dialogue: 0,0:12:41.90,0:12:43.20,Default,,0000,0000,0000,,¡E-Espera, Kida-kun!
+Dialogue: 0,0:12:47.07,0:12:52.58,Default,,0000,0000,0000,,Kida-kun se comporta de una forma distinta y da algo de miedo, ¿eh?
+Dialogue: 0,0:12:53.16,0:12:54.33,Default,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:12:54.33,0:12:57.45,Default,,0000,0000,0000,,A mí lo que me molesta es que haya salido corriendo.
+Dialogue: 0,0:13:12.81,0:13:23.82,Default,,0000,0000,0000,,Perdía muchas cosas cuando era pequeña, me ponía a gimotear diciendo "No está, no está" y mi madre me ayudaba a buscar.
+Dialogue: 0,0:13:24.82,0:13:26.20,Default,,0000,0000,0000,,Tienes una buena madre.
+Dialogue: 0,0:13:26.82,0:13:30.24,Default,,0000,0000,0000,,Sí, tanto mi padre como mi madre.
+Dialogue: 0,0:13:35.33,0:13:36.71,Default,,0000,0000,0000,,Déjalo ya.
+Dialogue: 0,0:13:37.08,0:13:39.79,Default,,0000,0000,0000,,Me voy a marchar a casa.
+Dialogue: 0,0:13:39.79,0:13:43.84,Default,,0000,0000,0000,,Gracias por ayudarme a buscar, Ryugamine-kun.
+Dialogue: 0,0:13:50.05,0:13:53.64,Default,,0000,0000,0000,,No te molestes en buscar al culpable, Kida-kun.
+Dialogue: 0,0:13:54.27,0:13:57.14,Default,,0000,0000,0000,,No. Sonohara-san se ha ido ya.
+Dialogue: 0,0:13:58.02,0:14:00.27,Default,,0000,0000,0000,,No lo sé. []
+Dialogue: 0,0:14:01.23,0:14:04.36,Default,,0000,0000,0000,,¿Yo? Yo todavía los estoy buscando.
+Dialogue: 0,0:14:05.49,0:14:07.86,Default,,0000,0000,0000,,Bueno, te veo mañana.
+Dialogue: 0,0:14:14.83,0:14:15.62,Default,,0000,0000,0000,,¡Los encontré!
+Dialogue: 0,0:14:23.17,0:14:26.67,Default,,0000,0000,0000,,¿Qué estoy haciendo?
+Dialogue: 0,0:14:30.39,0:14:32.47,Default,,0000,0000,0000,,Es raro, ¿verdad?
+Dialogue: 0,0:14:34.60,0:14:36.52,Default,,0000,0000,0000,,No me acuerdo.
+Dialogue: 0,0:14:36.52,0:14:38.39,Default,,0000,0000,0000,,Los terrenos sin construir son muy raros.
+Dialogue: 0,0:14:39.06,0:14:42.02,Default,,0000,0000,0000,,Cuando ya no están los edificios, tiendes a olvidarte de lo que había ahí.
+Dialogue: 0,0:14:43.19,0:14:45.03,Default,,0000,0000,0000,,Estaba ahí hasta hace un tiempo, ¿no?
+Dialogue: 0,0:14:45.57,0:14:47.86,Default,,0000,0000,0000,,Era bastante grande...
+Dialogue: 0,0:14:51.28,0:14:53.49,Default,,0000,0000,0000,,¿Qué estoy haciendo?
+Dialogue: 0,0:14:54.12,0:14:58.46,Default,,0000,0000,0000,,Me enfado cuando Shinra me dice que deje de buscar mi cabeza.
+Dialogue: 0,0:14:59.33,0:15:03.79,Default,,0000,0000,0000,,Pero trabajo, conozco a gente que podría considerar mis amigos...
+Dialogue: 0,0:15:04.42,0:15:07.26,Default,,0000,0000,0000,,¿Tengo pensado hacerme humana o qué?
+Dialogue: 0,0:15:08.26,0:15:12.18,Default,,0000,0000,0000,,Oye. ¿Querías algo de mí?
+Dialogue: 0,0:15:18.35,0:15:22.77,Default,,0000,0000,0000,,Ya me acuerdo. Era un edificio alto, delgado y azul.
+Dialogue: 0,0:15:18.35,0:15:22.77,Default,,0000,0000,0000,,[Ya me acuerdo. Era un edificio alto, delgado y azul.]
+Dialogue: 0,0:15:25.32,0:15:27.73,Default,,0000,0000,0000,,Ah, ¿esa cosa vieja?
+Dialogue: 0,0:15:27.73,0:15:30.03,Default,,0000,0000,0000,,Una mujer solía vender tabaco en el primer piso.
+Dialogue: 0,0:15:30.03,0:15:32.03,Default,,0000,0000,0000,,No esperaba menos de la repartidora.
+Dialogue: 0,0:15:34.41,0:15:38.79,Default,,0000,0000,0000,,Noto claramente la presencia de mi cabeza en este barrio, pero...
+Dialogue: 0,0:15:38.79,0:15:39.79,Default,,0000,0000,0000,,[Objetos perdidos]
+Dialogue: 0,0:15:51.17,0:15:52.93,Default,,0000,0000,0000,,Hola. Buenas tardes.
+Dialogue: 0,0:15:53.80,0:15:54.80,Default,,0000,0000,0000,,¿Yo?
+Dialogue: 0,0:15:54.80,0:15:58.47,Default,,0000,0000,0000,,Yo, guapo japonés, estoy buscando.
+Dialogue: 0,0:15:58.47,0:16:03.35,Default,,0000,0000,0000,,Por favor, dime qué estás buscando con todo tu empeño.
+Dialogue: 0,0:16:05.31,0:16:09.03,Default,,0000,0000,0000,,Umm... ¿Me dejas verlo?
+Dialogue: 0,0:16:09.03,0:16:10.11,Default,,0000,0000,0000,,Claro.
+Dialogue: 0,0:16:10.11,0:16:11.11,Default,,0000,0000,0000,,[Hanejima Yuuhei]
+Dialogue: 0,0:16:11.11,0:16:12.11,Default,,0000,0000,0000,,[Un gato que se ha escapado]
+Dialogue: 0,0:16:12.11,0:16:13.11,Default,,0000,0000,0000,,[¡¡Un curro!!]
+Dialogue: 0,0:16:13.11,0:16:14.11,Default,,0000,0000,0000,,[Yuma-chi: Te espero en el Toranoana]
+Dialogue: 0,0:16:22.71,0:16:24.29,Default,,0000,0000,0000,,Me pregunto si le habrá encontrado.
+Dialogue: 0,0:16:24.29,0:16:25.29,Default,,0000,0000,0000,,[Mi cabeza]
+Dialogue: 0,0:16:29.46,0:16:32.67,Default,,0000,0000,0000,,Hoy he estado buscando muchas cosas.
+Dialogue: 0,0:16:32.84,0:16:36.76,Default,,0000,0000,0000,,Algunas las he encontrado, pero otras no.
+Dialogue: 0,0:16:58.37,0:17:01.54,Default,,0000,0000,0000,,Su bolsa no estaba ahí, así que pensé que estaría en el trabajo.
+Dialogue: 0,0:17:02.00,0:17:03.37,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:17:04.29,0:17:07.25,Default,,0000,0000,0000,,noté que había algo diferente.
+Dialogue: 0,0:17:07.25,0:17:08.25,Default,,0000,0000,0000,,[Centro de investigación de Farmacéuticas Yagiri]
+Dialogue: 0,0:17:15.34,0:17:16.68,Default,,0000,0000,0000,,¿Fuegos artificiales?
+Dialogue: 0,0:17:16.68,0:17:19.18,Default,,0000,0000,0000,,Sí, estaba como loco.
+Dialogue: 0,0:17:19.18,0:17:21.89,Default,,0000,0000,0000,,Necesitamos unas cuantas personas para traerlo hasta aquí.
+Dialogue: 0,0:17:22.18,0:17:24.43,Default,,0000,0000,0000,,¿Todo esto por unos fuegos artificiales?
+Dialogue: 0,0:17:24.43,0:17:27.15,Default,,0000,0000,0000,,Tienes unos empleados muy brutos.
+Dialogue: 0,0:17:28.10,0:17:30.19,Default,,0000,0000,0000,,Es un engorro.
+Dialogue: 0,0:17:30.48,0:17:34.53,Default,,0000,0000,0000,,Hizo la extraña acusación de que su novia había sido secuestrada...
+Dialogue: 0,0:17:34.99,0:17:37.82,Default,,0000,0000,0000,,y este era el único sitio que ella recordaba.
+Dialogue: 0,0:17:37.82,0:17:40.33,Default,,0000,0000,0000,,Estaba chillando, "¡Decidme qué le habéis hecho!".
+Dialogue: 0,0:17:40.33,0:17:43.20,Default,,0000,0000,0000,,Pero no es una acusación, sino la verdad, ¿no?
+Dialogue: 0,0:17:43.62,0:17:52.34,Default,,0000,0000,0000,,Vas a asegurarte de que no recuerde nada de nuestra compañía cuando se despierte, ¿verdad, doctor?
+Dialogue: 0,0:17:52.88,0:17:56.84,Default,,0000,0000,0000,,No existe una forma tan cómoda de borrar la memoria de alguien.
+Dialogue: 0,0:17:56.84,0:17:59.93,Default,,0000,0000,0000,,Además, yo me acordaré de él.
+Dialogue: 0,0:18:00.39,0:18:02.14,Default,,0000,0000,0000,,Le vamos a soltar.
+Dialogue: 0,0:18:03.22,0:18:05.89,Default,,0000,0000,0000,,Aunque no sé si conseguirá llegar a casa o no.
+Dialogue: 0,0:18:09.65,0:18:15.44,Default,,0000,0000,0000,,Doctor, la directora y yo confiamos en ti.
+Dialogue: 0,0:18:15.82,0:18:19.45,Default,,0000,0000,0000,,Y nosotros guardamos tu secreto acerca de "eso".
+Dialogue: 0,0:18:20.45,0:18:26.83,Default,,0000,0000,0000,,Ah, sí. Parece que estás viviendo con una persona bastante particular.
+Dialogue: 0,0:18:27.83,0:18:31.71,Default,,0000,0000,0000,,En ese momento lo había olvidado.
+Dialogue: 0,0:18:31.71,0:18:37.34,Default,,0000,0000,0000,,Mi cabeza, mis cientos de años de recuerdos como Dullahan...
+Dialogue: 0,0:18:39.26,0:18:41.89,Default,,0000,0000,0000,,No estaba pensando en nada.
+Dialogue: 0,0:18:41.89,0:18:43.99,Default,,0000,0000,0000,,Estaba... Estaba...
+Dialogue: 0,0:19:01.53,0:19:04.58,Default,,0000,0000,0000,,Oye, ¿quieres venirte conmigo?
+Dialogue: 0,0:19:04.58,0:19:08.62,Default,,0000,0000,0000,,No me importará pagar la cuenta en el restaurante.
+Dialogue: 0,0:19:09.33,0:19:10.83,Default,,0000,0000,0000,,Conozco un buen sitio.
+Dialogue: 0,0:19:10.83,0:19:12.50,Default,,0000,0000,0000,,Por favor, Celty.
+Dialogue: 0,0:19:13.08,0:19:16.46,Default,,0000,0000,0000,,Comer solo resulta muy solitario.
+Dialogue: 0,0:19:18.55,0:19:21.55,Default,,0000,0000,0000,,¡¿Qué es esta extraña y misteriosa comida?!
+Dialogue: 0,0:19:25.93,0:19:34.31,Default,,0000,0000,0000,,Sushi de pollo frito, sushi de queso, sushi de tofu, sushi de borscht y sushi de crema agria.
+Dialogue: 0,0:19:34.31,0:19:36.19,Default,,0000,0000,0000,,¡No hacía falta usar eso para hacer sushi!
+Dialogue: 0,0:19:36.19,0:19:37.40,Default,,0000,0000,0000,,¿Qué estás diciendo?
+Dialogue: 0,0:19:37.40,0:19:40.40,Default,,0000,0000,0000,,¡Es un menú especial muy barato!
+Dialogue: 0,0:19:42.86,0:19:46.62,Default,,0000,0000,0000,,Y una galleta de la fortuna de postre, ¿eh?
+Dialogue: 0,0:19:46.62,0:19:47.62,Default,,0000,0000,0000,,Joder...
+Dialogue: 0,0:19:48.16,0:19:51.00,Default,,0000,0000,0000,,Dentro hay un trozo de papel con una predicción.
+Dialogue: 0,0:19:51.00,0:19:52.87,Default,,0000,0000,0000,,Es una predicción de la suerte.
+Dialogue: 0,0:19:52.87,0:19:54.25,Default,,0000,0000,0000,,Trae, voy a abrirlas.
+Dialogue: 0,0:19:54.25,0:19:55.88,Default,,0000,0000,0000,,Esta es tuya.
+Dialogue: 0,0:20:02.38,0:20:03.18,Default,,0000,0000,0000,,Déjame ver.
+Dialogue: 0,0:20:06.43,0:20:08.85,Default,,0000,0000,0000,,Aquí pone que encontrarás lo que estás buscando.
+Dialogue: 0,0:20:12.10,0:20:13.85,Default,,0000,0000,0000,,Seguro que estás contenta por eso.
+Dialogue: 0,0:20:13.85,0:20:14.85,Default,,0000,0000,0000,,[Amor no correspondido]
+Dialogue: 0,0:20:26.57,0:20:28.09,Default,,0000,0000,0000,,¡Estoy muy contenta, Shinra!
+Dialogue: 0,0:20:28.99,0:20:30.70,Default,,0000,0000,0000,,¿Qué pone en la tuya?
+Dialogue: 0,0:20:32.21,0:20:35.13,Default,,0000,0000,0000,,Parece que no había nada dentro.
+Dialogue: 0,0:20:36.46,0:20:39.84,Default,,0000,0000,0000,,No puedo llorar.
+Dialogue: 0,0:20:39.84,0:20:40.84,Default,,0000,0000,0000,,[Objetos perdidos]
+Dialogue: 0,0:20:47.85,0:20:50.01,Default,,0000,0000,0000,,Cuando estoy triste...
+Dialogue: 0,0:20:50.01,0:20:51.01,Default,,0000,0000,0000,,[Un vínculo]
+Dialogue: 0,0:20:50.72,0:20:54.06,Default,,0000,0000,0000,,¿allí caerá alguna lágrima?
+Dialogue: 0,0:21:05.24,0:21:06.32,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:21:11.24,0:21:12.66,Default,,0000,0000,0000,,Espero que no.
+Dialogue: 0,0:21:17.38,0:21:20.13,Default,,0000,0000,0000,,Preferiría que estuviera sonriendo.
+Dialogue: 0,0:21:23.21,0:21:24.51,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:21:25.97,0:21:27.51,Default,,0000,0000,0000,,¿Ya tienes miedo otra vez?
+Dialogue: 0,0:21:27.84,0:21:31.39,Default,,0000,0000,0000,,No hay nadie. Estamos a solas.
+Dialogue: 0,0:21:33.22,0:21:35.81,Default,,0000,0000,0000,,¿Estás a punto de recordar algo?
+Dialogue: 0,0:21:40.44,0:21:42.86,Default,,0000,0000,0000,,No es necesario.
+Dialogue: 0,0:21:42.86,0:21:44.53,Default,,0000,0000,0000,,Ya te lo dije, ¿no?
+Dialogue: 0,0:21:44.53,0:21:47.11,Default,,0000,0000,0000,,No necesito tu pasado ni tu futuro.
+Dialogue: 0,0:21:47.99,0:21:49.49,Default,,0000,0000,0000,,Me vale tu yo presente.
+Dialogue: 0,0:21:50.20,0:21:52.37,Default,,0000,0000,0000,,Estaremos juntos para siempre.
+Dialogue: 0,0:21:56.46,0:21:59.08,Default,,0000,0000,0000,,Te amo, Celty.
+Dialogue: 0,0:22:16.06,0:22:17.52,Default,,0000,0000,0000,,Aquella noche,
+Dialogue: 0,0:22:17.52,0:22:19.77,Default,,0000,0000,0000,,por primera vez en mucho tiempo,
+Dialogue: 0,0:22:19.77,0:22:22.86,Default,,0000,0000,0000,,tuve un sueño de cuando estaba completa.
+Dialogue: 0,0:22:42.42,0:22:44.00,Default,,0000,0000,0000,,Estoy aquí.
+Dialogue: 0,0:22:44.96,0:22:46.51,Default,,0000,0000,0000,,Aquí mismo.
+Dialogue: 0,0:22:45.46,0:22:46.46,Default,,0000,0000,0000,,[Esta obra es ficticia. No está basada en hechos reales, grupos o personas.]
+Dialogue: 0,0:22:46.46,0:22:47.46,Default,,0000,0000,0000,,[Próximo episodio] [Amor dependiente]
+Dialogue: 0,0:24:16.43,0:24:18.31,Default,,0000,0000,0000,,Mi amor es diferente.
+Dialogue: 0,0:24:18.31,0:24:21.48,Default,,0000,0000,0000,,Es diferente del amor en el que sólo codicias y adulas a una persona.
+Dialogue: 0,0:24:21.98,0:24:23.60,Default,,0000,0000,0000,,Es mucho más completo.
+Dialogue: 0,0:24:24.52,0:24:26.36,Default,,0000,0000,0000,,En el próximo episodio: "Amor dependiente".
+Dialogue: 0,0:24:26.36,0:24:29.11,Default,,0000,0000,0000,,A quien necesita Seiji es a mí.

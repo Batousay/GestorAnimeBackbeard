@@ -1,0 +1,378 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.67,0:01:09.79,Default,,0000,0000,0000,,¿Por qué nos preguntas sobre los Dollars?
+Dialogue: 0,0:01:09.79,0:01:10.79,Default,,0000,0000,0000,,[Hoy me ha contado un rumor un amigo...]
+Dialogue: 0,0:01:10.79,0:01:11.79,Default,,0000,0000,0000,,[Bueno...]
+Dialogue: 0,0:01:11.79,0:01:12.79,Default,,0000,0000,0000,,[Yo no los he visto en la vida real, ¿tú crees que existen?]
+Dialogue: 0,0:01:12.79,0:01:13.79,Default,,0000,0000,0000,,[¿Crees que son un mito de Internet?]
+Dialogue: 0,0:01:13.79,0:01:14.79,Default,,0000,0000,0000,,[No, no lo sé, pero...]
+Dialogue: 0,0:01:09.79,0:01:12.21,Default,,0000,0000,0000,,No estarás pensando en meterte en los Dollars, ¿no?
+Dialogue: 0,0:01:12.21,0:01:16.18,Default,,0000,0000,0000,,¡¿Cómo has dicho?!
+Dialogue: 0,0:01:16.18,0:01:19.64,Default,,0000,0000,0000,,¡¿Qué hace mi cabeza en el cuerpo de otra persona?!
+Dialogue: 0,0:01:19.64,0:01:21.85,Default,,0000,0000,0000,,Puede que haya encontrado un cadáver nuevo.
+Dialogue: 0,0:01:21.85,0:01:24.93,Default,,0000,0000,0000,,¡Estoy impaciente! ¡Estoy impaciente! ¡Estoy impaciente!
+Dialogue: 0,0:01:24.93,0:01:28.81,Default,,0000,0000,0000,,¡¿Qué crees que nos pasará si la policía se entera de esto?!
+Dialogue: 0,0:01:28.81,0:01:32.61,Default,,0000,0000,0000,,Me da igual si muere o no. Si la situación lo requiere, deshaceos de ella ahí mismo.
+Dialogue: 0,0:01:59.18,0:02:03.18,Default,,0000,0000,0000,,Creo que este mes voy justo de dinero.
+Dialogue: 0,0:02:03.18,0:02:06.02,Default,,0000,0000,0000,,Ahora necesito un estropajo y...
+Dialogue: 0,0:02:06.02,0:02:08.02,Default,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:02:11.98,0:02:13.61,Default,,0000,0000,0000,,¡El motorista de negro!
+Dialogue: 0,0:02:18.20,0:02:20.03,Default,,0000,0000,0000,,¡Debería estar al doblar la esquina!
+Dialogue: 0,0:02:27.50,0:02:28.79,Default,,0000,0000,0000,,L-Lo siento.
+Dialogue: 0,0:02:28.79,0:02:30.54,Default,,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:02:32.88,0:02:33.92,Default,,0000,0000,0000,,Tú eres...
+Dialogue: 0,0:02:35.42,0:02:36.30,Default,,0000,0000,0000,,¡Ayúdame!
+Dialogue: 0,0:02:40.97,0:02:42.51,Default,,0000,0000,0000,,¡Por favor!
+Dialogue: 0,0:03:23.72,0:03:24.47,Default,,0000,0000,0000,,¡El motorista de negro!
+Dialogue: 0,0:03:24.93,0:03:26.60,Default,,0000,0000,0000,,¡¿Qué es eso?! ¡Mola un huevo!
+Dialogue: 0,0:03:26.60,0:03:27.31,Default,,0000,0000,0000,,¿Podemos hacerte una foto?
+Dialogue: 0,0:03:27.31,0:03:28.43,Default,,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:03:28.43,0:03:30.56,Default,,0000,0000,0000,,¡Esto es la leche!
+Dialogue: 0,0:03:29.02,0:03:31.10,Default,,0000,0000,0000,,¡Esta foto es tremenda!
+Dialogue: 0,0:03:31.10,0:03:32.10,Default,,0000,0000,0000,,[Primera y última vez]
+Dialogue: 0,0:03:36.11,0:03:39.65,Default,,0000,0000,0000,,Entonces, la chica con la que te topaste al doblar la esquina estaba siendo perseguida por un tío en una moto,
+Dialogue: 0,0:03:39.65,0:03:41.28,Default,,0000,0000,0000,,ha perdido la memoria...
+Dialogue: 0,0:03:41.28,0:03:44.12,Default,,0000,0000,0000,,y se ha quedado dormida por el cansancio antes de que llegase aquí.
+Dialogue: 0,0:03:44.12,0:03:47.91,Default,,0000,0000,0000,,Y esperas que me crea ese sueño que has tenido, el cual no parece un sueño en muchos aspectos.
+Dialogue: 0,0:03:47.91,0:03:50.12,Default,,0000,0000,0000,,Es cierto, ¿qué quieres que le haga?
+Dialogue: 0,0:03:50.12,0:03:54.67,Default,,0000,0000,0000,,Sería mejor si esto te hubiera hecho llegar tarde a clase.
+Dialogue: 0,0:03:54.67,0:03:57.84,Default,,0000,0000,0000,,Y ya sería maravilloso si fuera una estudiante de intercambio.
+Dialogue: 0,0:03:57.84,0:04:02.47,Default,,0000,0000,0000,,Y ya si fuera una reina y tu amiga de la infancia, sería perfecto.
+Dialogue: 0,0:04:02.47,0:04:06.18,Default,,0000,0000,0000,,¿Te has dado cuenta de que la situación ha ido mejorando?
+Dialogue: 0,0:04:06.18,0:04:09.06,Default,,0000,0000,0000,,Decir eso deliberadamente es lo más cutre que podrías hacer.
+Dialogue: 0,0:04:09.93,0:04:16.48,Default,,0000,0000,0000,,No sé qué hacer, no puedo ir a la policía porque no es que solo haya perdido la memoria.
+Dialogue: 0,0:04:17.36,0:04:19.82,Default,,0000,0000,0000,,Veremos cómo se desarrolla la situación.
+Dialogue: 0,0:04:20.65,0:04:26.07,Default,,0000,0000,0000,,De momento esperaremos a mañana y le preguntaremos por su situación.
+Dialogue: 0,0:04:26.07,0:04:27.37,Default,,0000,0000,0000,,Vale.
+Dialogue: 0,0:04:27.37,0:04:29.83,Default,,0000,0000,0000,,Hasta mañana.
+Dialogue: 0,0:04:29.83,0:04:31.54,Default,,0000,0000,0000,,Gracias por venir tan tarde.
+Dialogue: 0,0:04:35.96,0:04:39.67,Default,,0000,0000,0000,,Puede que el motorista de negro se quedase con mi cara.
+Dialogue: 0,0:04:39.67,0:04:42.92,Default,,0000,0000,0000,,El motorista de negro de la leyenda urbana...
+Dialogue: 0,0:04:42.92,0:04:47.05,Default,,0000,0000,0000,,¿Qué voy a hacer si ahora me enemisto con él?
+Dialogue: 0,0:04:48.89,0:04:51.47,Default,,0000,0000,0000,,Odiaba las cosas normales.
+Dialogue: 0,0:04:51.47,0:04:53.02,Default,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:04:55.31,0:04:58.81,Default,,0000,0000,0000,,Quería llevar una vida diferente de las demás personas.
+Dialogue: 0,0:04:59.86,0:05:03.57,Default,,0000,0000,0000,,Puede que esos sentimientos me llevaran a juntarme con esta chica.
+Dialogue: 0,0:05:04.24,0:05:07.07,Default,,0000,0000,0000,,Solo hay una cosa que Kida-kun no sabe.
+Dialogue: 0,0:05:07.49,0:05:09.78,Default,,0000,0000,0000,,Es sobre la cicatriz del cuello.
+Dialogue: 0,0:05:09.78,0:05:14.50,Default,,0000,0000,0000,,Parece como si le hubieran cortado la cabeza con una sierra y se la hubieran pegado a la fuerza.
+Dialogue: 0,0:05:15.83,0:05:17.83,Default,,0000,0000,0000,,Esto es un anuncio de la tienda del instituto:
+Dialogue: 0,0:05:17.83,0:05:21.13,Default,,0000,0000,0000,,Nuestros bollos de melón se nos han agotado.
+Dialogue: 0,0:05:21.13,0:05:22.88,Default,,0000,0000,0000,,¡Eh, Mikado!
+Dialogue: 0,0:05:22.88,0:05:25.26,Default,,0000,0000,0000,,¿Cómo le va a la bella durmiente de tu piso?
+Dialogue: 0,0:05:25.63,0:05:27.43,Default,,0000,0000,0000,,¡Kida-kun, calla!
+Dialogue: 0,0:05:27.43,0:05:30.85,Default,,0000,0000,0000,,¿Qué es eso de la chica guapa?
+Dialogue: 0,0:05:28.51,0:05:30.85,Default,,0000,0000,0000,,Me gusta oír cosas de ese estilo.
+Dialogue: 0,0:05:30.85,0:05:37.02,Default,,0000,0000,0000,,Resulta que cuando Mikado dobló la esquina, se topó con una chica que tiene amnesia y estaba siendo perseguida.
+Dialogue: 0,0:05:37.02,0:05:40.11,Default,,0000,0000,0000,,¡Así que ahora está viviendo con una chica guapa!
+Dialogue: 0,0:05:40.69,0:05:44.49,Default,,0000,0000,0000,,Venga ya. Eso es un sueño que ha tenido Kirigamine.
+Dialogue: 0,0:05:44.49,0:05:46.28,Default,,0000,0000,0000,,Umm... es Ryugamine.
+Dialogue: 0,0:05:46.28,0:05:49.32,Default,,0000,0000,0000,,¿Alguien quiere el resto de mi comida?
+Dialogue: 0,0:05:50.91,0:05:54.62,Default,,0000,0000,0000,,Nadie se lo va a tragar, así que da igual.
+Dialogue: 0,0:05:54.62,0:05:56.83,Default,,0000,0000,0000,,Bueno, ¿cómo le va entonces?
+Dialogue: 0,0:05:56.83,0:05:59.08,Default,,0000,0000,0000,,Estaba dormida cuando me fui esta mañana.
+Dialogue: 0,0:05:59.08,0:06:01.21,Default,,0000,0000,0000,,Hay que descansar para estar hermosa, ¿eh?
+Dialogue: 0,0:06:01.21,0:06:03.50,Default,,0000,0000,0000,,Bueno, vamos al tema.
+Dialogue: 0,0:06:03.50,0:06:04.42,Default,,0000,0000,0000,,¿Qué tema?
+Dialogue: 0,0:06:04.42,0:06:11.39,Default,,0000,0000,0000,,Es lo que he estado haciendo durante la comida y el motivo por el que he comido a cuarta hora.
+Dialogue: 0,0:06:11.85,0:06:13.64,Default,,0000,0000,0000,,"¿Quién está en los Dollars?".
+Dialogue: 0,0:06:13.64,0:06:17.43,Default,,0000,0000,0000,,Es un tema bastante popular entre nuestros compañeros.
+Dialogue: 0,0:06:17.43,0:06:20.35,Default,,0000,0000,0000,,Todo lo relacionado con los Dollars está envuelto en misterio.
+Dialogue: 0,0:06:20.35,0:06:25.07,Default,,0000,0000,0000,,Así que si alguien del insti dijera, "Eh, ¿no te parece que ese tío podría estar en los Dollars?",
+Dialogue: 0,0:06:25.07,0:06:27.53,Default,,0000,0000,0000,,les haría votar a esa persona.
+Dialogue: 0,0:06:27.53,0:06:30.16,Default,,0000,0000,0000,,Vaya, parece que hay bastantes votos.
+Dialogue: 0,0:06:30.16,0:06:33.08,Default,,0000,0000,0000,,Eso es porque una persona puede votar a varias personas.
+Dialogue: 0,0:06:33.08,0:06:38.04,Default,,0000,0000,0000,,¿Eh? Ese tal Takiguchi, de la clase 1-D, solo tiene un voto.
+Dialogue: 0,0:06:38.04,0:06:39.58,Default,,0000,0000,0000,,¿Te has fijado?
+Dialogue: 0,0:06:39.58,0:06:44.09,Default,,0000,0000,0000,,¿Y quién le ha votado? Pues yo mismo, Kida Masaomi.
+Dialogue: 0,0:06:44.09,0:06:51.09,Default,,0000,0000,0000,,Mi clase tiene Educación Física con la suya y tengo bien claro que debe estar en los Dollars.
+Dialogue: 0,0:06:51.09,0:06:52.47,Default,,0000,0000,0000,,¿Por qué lo dices?
+Dialogue: 0,0:06:52.47,0:06:53.14,Default,,0000,0000,0000,,Es intuición.
+Dialogue: 0,0:06:56.31,0:06:58.52,Default,,0000,0000,0000,,Así que nada, voy a ver si estoy en lo cierto.
+Dialogue: 0,0:06:58.52,0:06:59.31,Default,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:07:00.14,0:07:01.60,Default,,0000,0000,0000,,¡Disculpad!
+Dialogue: 0,0:07:01.60,0:07:03.98,Default,,0000,0000,0000,,¿Está aquí Takiguchi Ryo-kun?
+Dialogue: 0,0:07:03.98,0:07:06.44,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:07:06.44,0:07:07.74,Default,,0000,0000,0000,,¿Está en la cafetería?
+Dialogue: 0,0:07:07.74,0:07:09.32,Default,,0000,0000,0000,,No sé. Igual está en la azotea.
+Dialogue: 0,0:07:09.32,0:07:12.70,Default,,0000,0000,0000,,Sube muchas veces durante la comida.
+Dialogue: 0,0:07:13.03,0:07:16.12,Default,,0000,0000,0000,,Seguramente se pondrá a fumar ahí.
+Dialogue: 0,0:07:16.12,0:07:18.04,Default,,0000,0000,0000,,¿No crees que deberíamos dejarle en paz?
+Dialogue: 0,0:07:18.04,0:07:20.08,Default,,0000,0000,0000,,Puede que ahí haya mucha gente temible.
+Dialogue: 0,0:07:20.08,0:07:22.00,Default,,0000,0000,0000,,Era broma.
+Dialogue: 0,0:07:22.00,0:07:26.05,Default,,0000,0000,0000,,Lo de fumar en la azotea solo se ve en los mangas viejos y típicos.
+Dialogue: 0,0:07:26.05,0:07:32.30,Default,,0000,0000,0000,,Pero dudo que fuera a decirte la verdad si le preguntases directamente si está en los Dollars.
+Dialogue: 0,0:07:32.30,0:07:34.18,Default,,0000,0000,0000,,Déjame a mí.
+Dialogue: 0,0:07:34.18,0:07:35.60,Default,,0000,0000,0000,,Tengo una idea.
+Dialogue: 0,0:07:37.60,0:07:39.64,Default,,0000,0000,0000,,A ver...
+Dialogue: 0,0:07:41.35,0:07:44.40,Default,,0000,0000,0000,,E-Está fumando...
+Dialogue: 0,0:07:44.40,0:07:46.86,Default,,0000,0000,0000,,¡Eh, Takiguchi!
+Dialogue: 0,0:07:46.86,0:07:48.03,Default,,0000,0000,0000,,¡Buenas!
+Dialogue: 0,0:07:48.03,0:07:49.03,Default,,0000,0000,0000,,Hola.
+Dialogue: 0,0:07:49.99,0:07:52.70,Default,,0000,0000,0000,,Vaya, ¿compones canciones?
+Dialogue: 0,0:07:53.51,0:07:54.28,Default,,0000,0000,0000,,Sí...
+Dialogue: 0,0:07:54.28,0:07:56.08,Default,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:07:56.08,0:07:57.16,Default,,0000,0000,0000,,¿Queríais hablar conmigo?
+Dialogue: 0,0:07:57.16,0:07:58.66,Default,,0000,0000,0000,,Quería preguntarte una cosa.
+Dialogue: 0,0:07:58.66,0:08:00.45,Default,,0000,0000,0000,,Dispara.
+Dialogue: 0,0:08:01.33,0:08:03.71,Default,,0000,0000,0000,,¿Estás en los Dollars?
+Dialogue: 0,0:08:03.71,0:08:04.96,Default,,0000,0000,0000,,Kida-kun, ¿pero qué haces?
+Dialogue: 0,0:08:04.96,0:08:06.54,Default,,0000,0000,0000,,Pues sí.
+Dialogue: 0,0:08:07.25,0:08:08.75,Default,,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:08:08.75,0:08:10.59,Default,,0000,0000,0000,,Sabía que tenías que estar dentro.
+Dialogue: 0,0:08:10.59,0:08:13.80,Default,,0000,0000,0000,,¿Ves? Mi intuición no me ha fallado.
+Dialogue: 0,0:08:14.84,0:08:17.85,Default,,0000,0000,0000,,Es mi amigo de la infancia.
+Dialogue: 0,0:08:17.85,0:08:20.64,Default,,0000,0000,0000,,Soy Ryugamine Mikado.
+Dialogue: 0,0:08:20.64,0:08:22.73,Default,,0000,0000,0000,,Ah, tú eres el tío famoso.
+Dialogue: 0,0:08:22.73,0:08:24.23,Default,,0000,0000,0000,,¿Eh? ¿Tío famoso?
+Dialogue: 0,0:08:24.23,0:08:25.35,Default,,0000,0000,0000,,Tu nombre.
+Dialogue: 0,0:08:26.86,0:08:28.36,Default,,0000,0000,0000,,¿Queréis?
+Dialogue: 0,0:08:28.70,0:08:29.48,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:08:31.03,0:08:32.07,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:08:34.91,0:08:37.74,Default,,0000,0000,0000,,Umm... Takiguchi-kun...
+Dialogue: 0,0:08:37.74,0:08:40.70,Default,,0000,0000,0000,,¿Por qué te uniste a los Dollars?
+Dialogue: 0,0:08:43.08,0:08:46.83,Default,,0000,0000,0000,,Ojalá la gente dejase de preguntarme eso mismo.
+Dialogue: 0,0:08:47.38,0:08:49.71,Default,,0000,0000,0000,,Creo que fue hace unos seis meses.
+Dialogue: 0,0:08:49.71,0:08:52.63,Default,,0000,0000,0000,,Recibí una invitación de alguien que no conocía.
+Dialogue: 0,0:08:52.63,0:08:56.09,Default,,0000,0000,0000,,Ponía: "Los Dollars no tienen normas ni reglas".
+Dialogue: 0,0:08:56.09,0:09:03.35,Default,,0000,0000,0000,,Al principio pensé que no existiría un grupo así, pero luego pensé que podría estar bien si fuera cierto.
+Dialogue: 0,0:09:04.39,0:09:09.27,Default,,0000,0000,0000,,No me gusta dar ni recibir órdenes.
+Dialogue: 0,0:09:10.65,0:09:13.24,Default,,0000,0000,0000,,¿Y qué tipo de grupo es?
+Dialogue: 0,0:09:14.45,0:09:17.57,Default,,0000,0000,0000,,Si tuviera que explicarlo, diría que son claramente incoloros.
+Dialogue: 0,0:09:17.57,0:09:19.16,Default,,0000,0000,0000,,¿Claramente incoloros?
+Dialogue: 0,0:09:19.16,0:09:27.37,Default,,0000,0000,0000,,Sí, no hacen que sus miembros lleven prendas del mismo color ni tienen peleas de poder como los Bufandas Amarillas o los Blue Squares.
+Dialogue: 0,0:09:27.37,0:09:28.63,Default,,0000,0000,0000,,¿Quiénes son los Blue Squares?
+Dialogue: 0,0:09:29.00,0:09:32.84,Default,,0000,0000,0000,,Son una Banda de Colores que existía cuando iba al instituto medio.
+Dialogue: 0,0:09:32.84,0:09:38.18,Default,,0000,0000,0000,,No sé mucho sobre ellos, pero parece ser que tuvieron una movida y se separaron.
+Dialogue: 0,0:09:38.18,0:09:39.51,Default,,0000,0000,0000,,¿Kida-kun?
+Dialogue: 0,0:09:39.80,0:09:43.02,Default,,0000,0000,0000,,¿Y te molan los Dollars?
+Dialogue: 0,0:09:43.02,0:09:44.14,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:44.14,0:09:45.93,Default,,0000,0000,0000,,¿Has quedado con algún miembro?
+Dialogue: 0,0:09:45.93,0:09:49.52,Default,,0000,0000,0000,,Solo conocemos los apodos de los demás, así que...
+Dialogue: 0,0:09:49.52,0:09:51.36,Default,,0000,0000,0000,,Pero sí que he visto a alguno...
+Dialogue: 0,0:09:51.36,0:09:53.57,Default,,0000,0000,0000,,en mi trabajo o por el barrio.
+Dialogue: 0,0:09:53.57,0:09:55.03,Default,,0000,0000,0000,,Aunque siempre ha sido sin querer.
+Dialogue: 0,0:09:55.03,0:09:58.70,Default,,0000,0000,0000,,De alguna manera sabes que son miembros.
+Dialogue: 0,0:09:58.70,0:10:00.12,Default,,0000,0000,0000,,¿Qué tipo de personas son?
+Dialogue: 0,0:10:00.12,0:10:04.83,Default,,0000,0000,0000,,Son como son, así que tendrás que preguntarles igual que has hecho conmigo.
+Dialogue: 0,0:10:04.83,0:10:07.33,Default,,0000,0000,0000,,Apuesto a que la mayoría te lo dirán.
+Dialogue: 0,0:10:09.46,0:10:11.34,Default,,0000,0000,0000,,Ah, mierda.
+Dialogue: 0,0:10:11.34,0:10:13.17,Default,,0000,0000,0000,,¡Ahí os quedáis!
+Dialogue: 0,0:10:13.92,0:10:20.55,Default,,0000,0000,0000,,Cuando descubrí que Takiguchi-kun estaba de verdad en los Dollars, decidí que no se lo contaría a nadie.
+Dialogue: 0,0:10:20.55,0:10:25.27,Default,,0000,0000,0000,,Supuse que Takiguchi-kun no querría que nadie montase mucho revuelo por ello.
+Dialogue: 0,0:10:25.68,0:10:28.89,Default,,0000,0000,0000,,Venga, chicos. Comencemos.
+Dialogue: 0,0:10:26.27,0:10:29.31,Default,,0000,0000,0000,,Imaginé que solo tendrían que saberlo quienes lo preguntasen.
+Dialogue: 0,0:10:29.73,0:10:30.94,Default,,0000,0000,0000,,Levantaos.
+Dialogue: 0,0:10:32.06,0:10:32.98,Default,,0000,0000,0000,,Saludad.
+Dialogue: 0,0:10:36.90,0:10:40.03,Default,,0000,0000,0000,,Ya ha terminado la reunión de delegados.
+Dialogue: 0,0:10:40.36,0:10:43.91,Default,,0000,0000,0000,,Me pregunto si Kida-kun todavía estará haciendo cosas en el comité disciplinario.
+Dialogue: 0,0:10:44.45,0:10:46.91,Default,,0000,0000,0000,,Seguramente acabará enseguida.
+Dialogue: 0,0:10:51.58,0:10:58.13,Default,,0000,0000,0000,,Harima Mika-san, la chica que acosaba a Yagiri Seiji-kun, lleva desaparecida desde el día de antes de la ceremonia de apertura.
+Dialogue: 0,0:10:58.13,0:11:01.18,Default,,0000,0000,0000,,¿Has sabido algo sobre su paradero desde entonces?
+Dialogue: 0,0:11:01.18,0:11:03.26,Default,,0000,0000,0000,,No, nada.
+Dialogue: 0,0:11:03.76,0:11:06.22,Default,,0000,0000,0000,,¡Ryugamine!
+Dialogue: 0,0:11:06.22,0:11:09.31,Default,,0000,0000,0000,,¡Kida dice que te vayas a casa sin él!
+Dialogue: 0,0:11:10.02,0:11:11.81,Default,,0000,0000,0000,,¿Le ha pasado algo?
+Dialogue: 0,0:11:11.81,0:11:16.90,Default,,0000,0000,0000,,Por lo visto está en una acalorada discusión en el comité disciplinario.
+Dialogue: 0,0:11:16.90,0:11:18.74,Default,,0000,0000,0000,,Hasta luego.
+Dialogue: 0,0:11:20.40,0:11:21.82,Default,,0000,0000,0000,,Umm...
+Dialogue: 0,0:11:21.82,0:11:23.41,Default,,0000,0000,0000,,¿Nos vamos?
+Dialogue: 0,0:11:23.41,0:11:23.95,Default,,0000,0000,0000,,Vale.
+Dialogue: 0,0:11:29.58,0:11:33.08,Default,,0000,0000,0000,,Me pregunto de qué irá la discusión de Kida-kun...
+Dialogue: 0,0:11:33.08,0:11:36.25,Default,,0000,0000,0000,,Puede que sea sobre el código de vestimenta o los peinados.
+Dialogue: 0,0:11:34.75,0:11:36.84,Default,,0000,0000,0000,,¡Mikado!
+Dialogue: 0,0:11:36.84,0:11:40.09,Default,,0000,0000,0000,,¡Escucha bien lo que te diga esa chica tan guapa!
+Dialogue: 0,0:11:40.09,0:11:42.80,Default,,0000,0000,0000,,¡Preséntamela algún día!
+Dialogue: 0,0:11:42.80,0:11:44.75,Default,,0000,0000,0000,,¡Venga! ¡Nos vemos!
+Dialogue: 0,0:11:48.14,0:11:54.35,Default,,0000,0000,0000,,E-Esa chica de la que está hablando es una francesa que conocimos en el Russia Sushi y...
+Dialogue: 0,0:11:54.35,0:11:56.94,Default,,0000,0000,0000,,¡Tiene un piercing en la nariz!
+Dialogue: 0,0:11:56.94,0:12:02.45,Default,,0000,0000,0000,,¡Así que Kida-kun debe de estar discutiendo sobre los piercings!
+Dialogue: 0,0:12:04.16,0:12:08.91,Default,,0000,0000,0000,,La verdad es que te conozco desde hace mucho, Ryugamine-san.
+Dialogue: 0,0:12:09.75,0:12:15.71,Default,,0000,0000,0000,,Cuando entregué el formulario de matrícula, había un listado en la mesa de recepción.
+Dialogue: 0,0:12:15.71,0:12:21.42,Default,,0000,0000,0000,,Pensé que tu nombre molaba, y me fijé que alguien ya le había echado un vistazo.
+Dialogue: 0,0:12:21.42,0:12:26.47,Default,,0000,0000,0000,,Y ahora resulta que soy delegada de clase junto a ti...
+Dialogue: 0,0:12:24.64,0:12:26.26,Default,,0000,0000,0000,,Para el carro.
+Dialogue: 0,0:12:26.47,0:12:30.39,Default,,0000,0000,0000,,¿Esto no se parece un montón a lo que pasó entre Harima Mika-san y Yagiri Seiji-kun?
+Dialogue: 0,0:12:30.39,0:12:32.10,Default,,0000,0000,0000,,¡No quiero tener una acosadora!
+Dialogue: 0,0:12:32.10,0:12:34.56,Default,,0000,0000,0000,,Bueno, es guapa, así que puede que no importe.
+Dialogue: 0,0:12:34.56,0:12:36.69,Default,,0000,0000,0000,,¡No, espera! ¡De eso nada!
+Dialogue: 0,0:12:37.23,0:12:38.82,Default,,0000,0000,0000,,Si las cosas salen mal...
+Dialogue: 0,0:12:42.11,0:12:44.40,Default,,0000,0000,0000,,¡I-I-Igual me apuñala!
+Dialogue: 0,0:12:44.20,0:12:46.78,Default,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:12:44.40,0:12:46.82,Default,,0000,0000,0000,,¡P-P-Podría matarme!
+Dialogue: 0,0:12:46.82,0:12:47.82,Default,,0000,0000,0000,,[Papá] [Mamá]
+Dialogue: 0,0:12:46.82,0:12:50.83,Default,,0000,0000,0000,,¡Puede que incluso secuestrase a mis padres!
+Dialogue: 0,0:12:50.83,0:12:54.50,Default,,0000,0000,0000,,Pero si es buena persona, tampoco importaría que fuera una...
+Dialogue: 0,0:12:54.50,0:12:58.63,Default,,0000,0000,0000,,¡Espera, los acosadores no son buenas personas!
+Dialogue: 0,0:12:58.63,0:13:00.13,Default,,0000,0000,0000,,Era broma.
+Dialogue: 0,0:13:00.46,0:13:04.42,Default,,0000,0000,0000,,Te causaría demasiados problemas que alguien como yo te estuviese siguiendo.
+Dialogue: 0,0:13:04.42,0:13:05.30,Default,,0000,0000,0000,,Q-Qué va...
+Dialogue: 0,0:13:05.68,0:13:07.43,Default,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:13:07.43,0:13:09.55,Default,,0000,0000,0000,,No soy una acosadora.
+Dialogue: 0,0:13:09.93,0:13:11.97,Default,,0000,0000,0000,,Umm... esto...
+Dialogue: 0,0:13:13.39,0:13:14.31,Default,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:13:15.19,0:13:18.27,Default,,0000,0000,0000,,No, soy yo la que te estaba tomando el pelo.
+Dialogue: 0,0:13:18.27,0:13:19.98,Default,,0000,0000,0000,,Por favor, no te disculpes.
+Dialogue: 0,0:13:22.07,0:13:22.92,Default,,0000,0000,0000,,Umm...
+Dialogue: 0,0:13:23.86,0:13:25.61,Default,,0000,0000,0000,,Bueno...
+Dialogue: 0,0:13:25.61,0:13:28.16,Default,,0000,0000,0000,,¡E-Espero que trabajemos bien juntos!
+Dialogue: 0,0:13:28.16,0:13:30.41,Default,,0000,0000,0000,,Lo mismo digo.
+Dialogue: 0,0:13:39.63,0:13:43.26,Default,,0000,0000,0000,,¡Es él, Takeshi! ¡Es ese!
+Dialogue: 0,0:13:47.26,0:13:49.18,Default,,0000,0000,0000,,¿Qué querrá decir con eso?
+Dialogue: 0,0:13:49.18,0:13:51.31,Default,,0000,0000,0000,,No se referirá a mí, ¿no?
+Dialogue: 0,0:13:56.98,0:13:58.65,Default,,0000,0000,0000,,¡Hablo de ti!
+Dialogue: 0,0:13:58.65,0:14:00.69,Default,,0000,0000,0000,,¡¿Por qué te haces el sueco?!
+Dialogue: 0,0:14:01.57,0:14:03.90,Default,,0000,0000,0000,,Umm... ¿Quiénes sois?
+Dialogue: 0,0:14:03.90,0:14:09.24,Default,,0000,0000,0000,,¡Tuve que comprarme un móvil nuevo gracias a tu amigo!
+Dialogue: 0,0:14:09.24,0:14:13.79,Default,,0000,0000,0000,,Umm... me temo que no te sigo...
+Dialogue: 0,0:14:20.00,0:14:25.13,Default,,0000,0000,0000,,¿Eres amigo del tío que se cargó el móvil de mi novia?
+Dialogue: 0,0:14:25.13,0:14:28.43,Default,,0000,0000,0000,,Bueno, yo no diría que es mi amigo...
+Dialogue: 0,0:14:28.43,0:14:33.81,Default,,0000,0000,0000,,¡¿Y qué es?! ¡¿Tu padre?! ¡¿Tu consignatario?!
+Dialogue: 0,0:14:32.64,0:14:35.10,Default,,0000,0000,0000,,Creo que tu razonamiento es un pelín parcial...
+Dialogue: 0,0:14:35.97,0:14:38.52,Default,,0000,0000,0000,,¡¿Es que vas a sermonearme?!
+Dialogue: 0,0:14:39.14,0:14:42.94,Default,,0000,0000,0000,,¡¿Quieres que te enseñe a comportarte con tus mayo...?!
+Dialogue: 0,0:14:57.33,0:15:02.54,Default,,0000,0000,0000,,Es encomiable que alguien como yo diga que mi afición no es pegar a las tías.
+Dialogue: 0,0:15:02.54,0:15:05.42,Default,,0000,0000,0000,,Incluso podríamos salir juntos, pero lo siento,
+Dialogue: 0,0:15:05.42,0:15:07.09,Default,,0000,0000,0000,,no eres mi tipo.
+Dialogue: 0,0:15:07.42,0:15:09.42,Default,,0000,0000,0000,,¡Piérdete!
+Dialogue: 0,0:15:11.51,0:15:12.51,Default,,0000,0000,0000,,¡Eres asqueroso!
+Dialogue: 0,0:15:12.51,0:15:13.89,Default,,0000,0000,0000,,¡Hasta otra!
+Dialogue: 0,0:15:15.60,0:15:22.06,Default,,0000,0000,0000,,Bueno, Ryugamine Mikado-kun, estaba escondido detrás de la puerta del instituto porque quería verte.
+Dialogue: 0,0:15:22.94,0:15:24.69,Default,,0000,0000,0000,,Tengo algo pendiente contigo.
+Dialogue: 0,0:15:25.23,0:15:26.40,Default,,0000,0000,0000,,Por cierto...
+Dialogue: 0,0:15:26.78,0:15:29.12,Default,,0000,0000,0000,,¿Qué hace aquí la motorista de negro?
+Dialogue: 0,0:15:34.07,0:15:36.62,Default,,0000,0000,0000,,¡Está buscando a la chica!
+Dialogue: 0,0:15:37.37,0:15:39.12,Default,,0000,0000,0000,,¡Se me había olvidado!
+Dialogue: 0,0:15:39.12,0:15:42.08,Default,,0000,0000,0000,,¡L-Lo siento, pero tengo mucha prisa!
+Dialogue: 0,0:15:42.08,0:15:43.92,Default,,0000,0000,0000,,Hasta luego, Sonohara-san.
+Dialogue: 0,0:15:55.30,0:15:56.39,Default,,0000,0000,0000,,Esto es irreal.
+Dialogue: 0,0:15:57.72,0:16:02.27,Default,,0000,0000,0000,,De todos modos, estos dos van a seguirme hasta mi piso.
+Dialogue: 0,0:16:02.27,0:16:03.27,Default,,0000,0000,0000,,Y en ese caso...
+Dialogue: 0,0:16:04.15,0:16:04.98,Default,,0000,0000,0000,,¡Ayúdame!
+Dialogue: 0,0:16:09.89,0:16:11.16,Default,,0000,0000,0000,,U-Umm...
+Dialogue: 0,0:16:11.61,0:16:13.28,Default,,0000,0000,0000,,Bueno...
+Dialogue: 0,0:16:13.95,0:16:16.62,Default,,0000,0000,0000,,Si queréis hablar conmigo, hagámoslo aquí.
+Dialogue: 0,0:16:21.00,0:16:24.00,Default,,0000,0000,0000,,Hablaré contigo cuando la motorista de negro haya terminado.
+Dialogue: 0,0:16:24.54,0:16:26.75,Default,,0000,0000,0000,,¿Hola?
+Dialogue: 0,0:16:26.75,0:16:28.25,Default,,0000,0000,0000,,Gracias por todo.
+Dialogue: 0,0:16:29.30,0:16:32.72,Default,,0000,0000,0000,,M-Me gustaría preguntarte una cosa.
+Dialogue: 0,0:16:33.38,0:16:34.51,Default,,0000,0000,0000,,Dime.
+Dialogue: 0,0:16:34.51,0:16:37.22,Default,,0000,0000,0000,,¿Puede transmitir sus pensamientos?
+Dialogue: 0,0:16:37.93,0:16:40.89,Default,,0000,0000,0000,,Umm... ¿Quién eres?
+Dialogue: 0,0:16:48.48,0:16:55.99,Default,,0000,0000,0000,,Estoy buscando a la hija de un familiar. La encontré ayer, pero no sé por qué, salió corriendo.
+Dialogue: 0,0:16:48.48,0:16:55.99,Default,,0000,0000,0000,,[Estoy buscando a la hija de un familiar. La encontré ayer, pero no sé por qué, salió corriendo.]
+Dialogue: 0,0:16:56.45,0:16:58.58,Default,,0000,0000,0000,,M-Miente de pena.
+Dialogue: 0,0:16:58.95,0:17:02.33,Default,,0000,0000,0000,,L-Lo siento, pero no te creo.
+Dialogue: 0,0:17:04.83,0:17:08.34,Default,,0000,0000,0000,,¿Qué sabes de mí?
+Dialogue: 0,0:17:08.34,0:17:11.67,Default,,0000,0000,0000,,Umm... Eres una especie de leyenda urbana,
+Dialogue: 0,0:17:11.67,0:17:16.34,Default,,0000,0000,0000,,que montas en una moto que no lleva faros y cuyo motor no hace ruido.
+Dialogue: 0,0:17:17.01,0:17:18.72,Default,,0000,0000,0000,,Y también...
+Dialogue: 0,0:17:19.60,0:17:21.47,Default,,0000,0000,0000,,se dice que no tienes cabeza.
+Dialogue: 0,0:17:24.10,0:17:27.27,Default,,0000,0000,0000,,¿Tú crees eso?
+Dialogue: 0,0:17:28.81,0:17:33.74,Default,,0000,0000,0000,,Umm... ¿Me dejas ver lo que hay dentro del casco?
+Dialogue: 0,0:17:33.74,0:17:38.20,Default,,0000,0000,0000,,Nunca pensé que pudiera preguntar eso.
+Dialogue: 0,0:17:36.49,0:17:39.28,Default,,0000,0000,0000,,¿Me prometes que no chillarás?
+Dialogue: 0,0:17:40.58,0:17:45.25,Default,,0000,0000,0000,,Sin embargo, siento que llevo mucho tiempo...
+Dialogue: 0,0:17:45.62,0:17:48.21,Default,,0000,0000,0000,,esperando este momento.
+Dialogue: 0,0:17:49.75,0:17:53.76,Default,,0000,0000,0000,,Todavía no sé describir cómo me sentí en aquel momento.
+Dialogue: 0,0:17:54.05,0:18:00.26,Default,,0000,0000,0000,,No paraba de repetir en mi cabeza, "Lo sabía, lo sabía".
+Dialogue: 0,0:18:01.30,0:18:03.43,Default,,0000,0000,0000,,M-Muchas gracias.
+Dialogue: 0,0:18:06.89,0:18:13.69,Default,,0000,0000,0000,,Tras eso, la motorista de negro me dijo el verdadero motivo por el que iba persiguiendo a la chica.
+Dialogue: 0,0:18:13.69,0:18:16.82,Default,,0000,0000,0000,,Era una Dullahan llamada Celty...
+Dialogue: 0,0:18:17.50,0:18:20.20,Default,,0000,0000,0000,,que vino a Japón en busca de la cabeza que le robaron.
+Dialogue: 0,0:18:20.82,0:18:25.41,Default,,0000,0000,0000,,Y la chica que tiene la cicatriz en el cuello tiene una cara exactamente igual a la suya.
+Dialogue: 0,0:18:25.41,0:18:28.75,Default,,0000,0000,0000,,Normalmente nadie se creería cualquier parte de esta historia.
+Dialogue: 0,0:18:28.75,0:18:32.42,Default,,0000,0000,0000,,Pero curiosamente, yo sí que la creí.
+Dialogue: 0,0:18:32.96,0:18:35.30,Default,,0000,0000,0000,,¿Eres su amigo?
+Dialogue: 0,0:18:35.30,0:18:38.72,Default,,0000,0000,0000,,No, la conocí ayer.
+Dialogue: 0,0:18:38.72,0:18:40.80,Default,,0000,0000,0000,,Le pregunté todo tipo de cosas,
+Dialogue: 0,0:18:40.80,0:18:44.22,Default,,0000,0000,0000,,pero parece que ha perdido la memoria.
+Dialogue: 0,0:18:44.93,0:18:46.10,Default,,0000,0000,0000,,¿Celty-san?
+Dialogue: 0,0:18:48.89,0:18:51.44,Default,,0000,0000,0000,,¿Me dejarías verla?
+Dialogue: 0,0:18:51.44,0:18:58.61,Default,,0000,0000,0000,,Seguramente sea porque empezaste a perseguirla sin motivo, pero me temo que te tiene miedo.
+Dialogue: 0,0:19:02.41,0:19:04.70,Default,,0000,0000,0000,,¡Tengo que verla sea como sea!
+Dialogue: 0,0:19:05.37,0:19:08.08,Default,,0000,0000,0000,,¿Podrías hacer algo para ayudar a aclarar este malentendido?
+Dialogue: 0,0:19:11.21,0:19:12.96,Default,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:19:17.76,0:19:20.22,Default,,0000,0000,0000,,No hay nada como un batido de frutas por la tarde.
+Dialogue: 0,0:19:20.22,0:19:25.51,Default,,0000,0000,0000,,¡Creo que este desarrollo es la señal de que Biribiri va a ser la prota!
+Dialogue: 0,0:19:25.51,0:19:29.39,Default,,0000,0000,0000,,¡Anda ya! ¡Seguro que la protagonista es una diosa!
+Dialogue: 0,0:19:41.61,0:19:42.36,Default,,0000,0000,0000,,¡Eh!
+Dialogue: 0,0:19:45.70,0:19:47.70,Default,,0000,0000,0000,,¡¿Qué estás haciendo?!
+Dialogue: 0,0:19:48.58,0:19:50.71,Default,,0000,0000,0000,,Esos cabrones han tirado una piedrecilla...
+Dialogue: 0,0:19:51.96,0:19:54.42,Default,,0000,0000,0000,,¡Han tirado una piedrecilla a mi furgo!
+Dialogue: 0,0:19:55.84,0:19:57.09,Default,,0000,0000,0000,,¡Cálmate, Togusa!
+Dialogue: 0,0:19:57.09,0:19:58.76,Default,,0000,0000,0000,,¡No pienso perdonarles!
+Dialogue: 0,0:19:58.76,0:19:59.76,Default,,0000,0000,0000,,¡Está en rojo!
+Dialogue: 0,0:19:59.76,0:20:01.51,Default,,0000,0000,0000,,¡Está en rojo! ¡Está en rojo!
+Dialogue: 0,0:20:03.09,0:20:05.30,Default,,0000,0000,0000,,Esperad aquí.
+Dialogue: 0,0:20:05.30,0:20:07.43,Default,,0000,0000,0000,,Voy a explicárselo todo.
+Dialogue: 0,0:20:07.81,0:20:14.10,Default,,0000,0000,0000,,No quiero que piense que la he traicionado si te ve de primeras, Celty-san.
+Dialogue: 0,0:20:14.10,0:20:16.31,Default,,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:20:17.23,0:20:19.98,Default,,0000,0000,0000,,Es un chico muy cuidadoso.
+Dialogue: 0,0:20:24.24,0:20:25.70,Default,,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:20:32.08,0:20:35.75,Default,,0000,0000,0000,,Es la primera vez que oigo tu nombre.
+Dialogue: 0,0:20:35.75,0:20:38.13,Default,,0000,0000,0000,,No sabía que fueras extranjera.
+Dialogue: 0,0:20:38.13,0:20:39.00,Default,,0000,0000,0000,,Mentiroso.
+Dialogue: 0,0:20:39.96,0:20:43.51,Default,,0000,0000,0000,,No voy a dejarlo pasar la próxima vez que le tires una piedra a mi caballo.
+Dialogue: 0,0:20:39.96,0:20:43.51,Default,,0000,0000,0000,,[No voy a dejarlo pasar la próxima vez que le tires una piedra a mi caballo.]
+Dialogue: 0,0:20:43.76,0:20:46.80,Default,,0000,0000,0000,,¿Eh? ¿Eso es un caballo?
+Dialogue: 0,0:20:47.60,0:20:53.39,Default,,0000,0000,0000,,¿No te parece que está tardando lo suyo?
+Dialogue: 0,0:20:55.02,0:20:58.23,Default,,0000,0000,0000,,¿Qué hace un equipo de limpieza en este bloque de pisos tan destartalado?
+Dialogue: 0,0:20:59.98,0:21:01.48,Default,,0000,0000,0000,,¡No me digas que...!
+Dialogue: 0,0:21:02.86,0:21:09.45,Default,,0000,0000,0000,,Venga, solo queremos saber dónde ha ido la chica que estaba contigo.
+Dialogue: 0,0:21:09.45,0:21:13.66,Default,,0000,0000,0000,,Este pelo que he encontrado en tu futón es de una chica, ¿no?
+Dialogue: 0,0:21:13.66,0:21:16.00,Default,,0000,0000,0000,,¡E-Es que no lo sé!
+Dialogue: 0,0:21:16.00,0:21:18.59,Default,,0000,0000,0000,,P-Por favor... Por favor, tened piedad...
+Dialogue: 0,0:21:18.59,0:21:21.76,Default,,0000,0000,0000,,Ya has visto nuestras caras.
+Dialogue: 0,0:21:21.76,0:21:24.55,Default,,0000,0000,0000,,Quizás tengamos que matarte aquí mismo.
+Dialogue: 0,0:21:26.63,0:21:27.84,Default,,0000,0000,0000,,¡Eh, viene alguien!
+Dialogue: 0,0:21:30.93,0:21:33.43,Default,,0000,0000,0000,,E-E-Estoy salvado...
+Dialogue: 0,0:21:37.40,0:21:38.81,Default,,0000,0000,0000,,No tienes por qué ir tras ellos.
+Dialogue: 0,0:21:38.81,0:21:39.94,Default,,0000,0000,0000,,Sé adónde van.
+Dialogue: 0,0:21:39.94,0:21:42.07,Default,,0000,0000,0000,,He reconocido esa furgoneta.
+Dialogue: 0,0:21:42.07,0:21:44.99,Default,,0000,0000,0000,,Seguramente sean de Farmacéuticas Yagiri.
+Dialogue: 0,0:21:44.99,0:21:47.86,Default,,0000,0000,0000,,¿Farmacéuticas Yagiri?
+Dialogue: 0,0:21:47.86,0:21:48.87,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:48.87,0:21:53.58,Default,,0000,0000,0000,,Es una empresa de pacotilla que como no les está yendo demasiado bien, está a punto de ser absorbida por una empresa extranjera.
+Dialogue: 0,0:21:53.87,0:21:56.04,Default,,0000,0000,0000,,Una chica que ha perdido su cabeza.
+Dialogue: 0,0:21:56.79,0:21:57.87,Default,,0000,0000,0000,,Una Dullahan.
+Dialogue: 0,0:21:57.87,0:21:58.87,Default,,0000,0000,0000,,[pero que nadie se haya dado cuenta de ello...]
+Dialogue: 0,0:21:58.87,0:21:59.87,Default,,0000,0000,0000,,[porque no hayan encontrado los cadáveres o algo así...]
+Dialogue: 0,0:21:59.87,0:22:00.87,Default,,0000,0000,0000,,[Qué mal gusto.]
+Dialogue: 0,0:22:00.87,0:22:01.87,Default,,0000,0000,0000,,[Por cierto, últimamente han estado desapareciendo muchas personas...]
+Dialogue: 0,0:21:58.88,0:22:00.00,Default,,0000,0000,0000,,Gente que desaparece.
+Dialogue: 0,0:22:01.28,0:22:02.38,Default,,0000,0000,0000,,Harima Mika.
+Dialogue: 0,0:22:03.13,0:22:04.59,Default,,0000,0000,0000,,Yagiri Seiji.
+Dialogue: 0,0:22:05.67,0:22:06.67,Default,,0000,0000,0000,,Tráfico de humanos.
+Dialogue: 0,0:22:06.67,0:22:07.67,Default,,0000,0000,0000,,[Y aparentemente, la mayoría de ellos ocurren en Ikebukuro y Shibuya]
+Dialogue: 0,0:22:07.67,0:22:08.67,Default,,0000,0000,0000,,[Y lo que es más, cuando desaparecen, nunca más se vuelve a saber de ellos.]
+Dialogue: 0,0:22:08.67,0:22:09.67,Default,,0000,0000,0000,,[¿En serio?]
+Dialogue: 0,0:22:09.67,0:22:10.67,Default,,0000,0000,0000,,[Algunos rumores dan más miedo aún...]
+Dialogue: 0,0:22:07.59,0:22:09.76,Default,,0000,0000,0000,,Y los Dollars.
+Dialogue: 0,0:22:19.23,0:22:20.61,Default,,0000,0000,0000,,¿Qué demonios va a hacer?
+Dialogue: 0,0:22:21.48,0:22:23.36,Default,,0000,0000,0000,,Estaba cansado de las cosas normales.
+Dialogue: 0,0:22:23.36,0:22:26.19,Default,,0000,0000,0000,,La verdad es que tenía mis dudas sobre si lo era o no.
+Dialogue: 0,0:22:28.74,0:22:30.20,Default,,0000,0000,0000,,Por favor.
+Dialogue: 0,0:22:30.20,0:22:33.20,Default,,0000,0000,0000,,Aunque sea por poco tiempo, haced el favor de ayudar.
+Dialogue: 0,0:22:33.20,0:22:37.25,Default,,0000,0000,0000,,Quería llevar una vida diferente de la de los demás.
+Dialogue: 0,0:22:37.25,0:22:40.79,Default,,0000,0000,0000,,Esta tarde, las piezas del ajedrez están en mi poder.
+Dialogue: 0,0:22:41.92,0:22:43.34,Default,,0000,0000,0000,,Y por eso...
+Dialogue: 0,0:22:43.34,0:22:44.25,Default,,0000,0000,0000,,¡Premio!
+Dialogue: 0,0:22:44.25,0:22:45.76,Default,,0000,0000,0000,,Yo...
+Dialogue: 0,0:22:45.46,0:22:46.46,Default,,0000,0000,0000,,[Esta obra es ficticia. No está basada en hechos reales, grupos o personas.]
+Dialogue: 0,0:22:46.46,0:22:47.46,Default,,0000,0000,0000,,[Próximo episodio] [Arrebato y asalto]
+Dialogue: 0,0:24:16.43,0:24:18.35,Default,,0000,0000,0000,,Estaba cansado de las cosas normales.
+Dialogue: 0,0:24:18.35,0:24:20.85,Default,,0000,0000,0000,,Quería llevar una vida diferente de la de los demás.
+Dialogue: 0,0:24:20.85,0:24:26.44,Default,,0000,0000,0000,,No puedo creer que ese simple deseo cambiara el destino de tantísimas personas.
+Dialogue: 0,0:24:26.44,0:24:29.57,Default,,0000,0000,0000,,En el próximo episodio: "Arrebato y asalto".

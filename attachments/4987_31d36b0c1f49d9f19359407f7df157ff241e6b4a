@@ -1,0 +1,65 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 15
+Active Line: 38
+Video Zoom Percent: 0.75
+PlayResX: 848
+PlayResY: 480
+Audio URI: ED OVA - Workraw (33285 - 35447).avi
+Video File: ED OVA - Workraw (33285 - 35447).avi
+Video Aspect Ratio: c1.76667
+Video Position: 1809
+Last Style Storage: Air Gear
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Romaji,Amaranth,31,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,8,10,10,10,1
+Style: Tradu,Amaranth,31,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:05.45,Romaji,,0,0,0,,{\k61}ki{\k59}ra{\k43}ki{\k43}ra {\k37}ta{\k25}i{\k23}yo{\k15}u {\k16}wo {\k18}a{\k14}bi{\k18}na{\k17}ga{\k96}ra
+Dialogue: 0,0:00:05.74,0:00:10.97,Romaji,,0,0,0,,{\k76}ki{\k54}mo{\k37}chi {\k48}i{\k30}i {\k34}ka{\k37}ze {\k17}ni {\k13}yu{\k17}ra{\k17}re{\k27}ru {\k116}yo
+Dialogue: 0,0:00:11.34,0:00:16.08,Romaji,,0,0,0,,{\k26}to{\k18}ki{\k13}do{\k50}ki {\k57}no {\k41}o{\k24}ya{\k26}su{\k13}mi {\k20}wa {\k16}mi{\k11}n{\k20}na {\k14}to {\k27}i{\k8}s{\k26}sho {\k64}ni
+Dialogue: 0,0:00:16.08,0:00:20.64,Romaji,,0,0,0,,{\k38}ga{\k9}s{\k26}shu{\k29}ku {\k51}da {\k61}ne {\k41}ho{\k27}n{\k23}to{\k11}u {\k17}ta{\k11}no{\k20}shi{\k48}i {\k44}ne
+Dialogue: 0,0:00:21.49,0:00:25.93,Romaji,,0,0,0,,{\k64}Wa{\k51}i{\k0}-{\k31}wa{\k45}i {\k26}ha{\k42}sha{\k32}i{\k15}da {\k19}so{\k14}no {\k17}yo{\k19}ru {\k69}wa
+Dialogue: 0,0:00:26.49,0:00:31.51,Romaji,,0,0,0,,{\k68}tsu{\k68}ki{\k29}ru {\k49}ko{\k31}to {\k32}na{\k31}i {\k24}o{\k27}sha{\k14}be{\k34}ri {\k95}de
+Dialogue: 0,0:00:32.16,0:00:36.84,Romaji,,0,0,0,,{\k20}ta{\k12}i{\k19}se{\k52}tsu {\k32}na{\k31} {\k32}ki{\k31}mo{\k20}chi {\k14}wo {\k18}wa{\k18}ka{\k18}ri{\k14}a{\k14}e{\k17}ru {\k35}ka{\k15}ra {\k57}ne
+Dialogue: 0,0:00:36.84,0:00:41.11,Romaji,,0,0,0,,{\k24}ko{\k29}re {\k36}ka{\k16}ra {\k41}mo {\k37}yo{\k29}ro{\k34}shi{\k34}ku {\k147}ne
+Dialogue: 0,0:00:42.49,0:00:47.09,Romaji,,0,0,0,,{\k21}to{\k18}ki{\k14}do{\k15}ki {\k23}wa {\k16}o{\k30}mo{\k31}i{\k38}ki{\k25}ri {\k37}ke{\k15}n{\k26}ka {\k42}shi{\k109}te
+Dialogue: 0,0:00:47.65,0:00:52.07,Romaji,,0,0,0,,{\k26}da {\k16}ke{\k18}do {\k13}i{\k21}tsu {\k16}no {\k32}ma {\k30}ni {\k31}na{\k37}ka{\k32}na{\k20}o{\k18}ri {\k34}shi{\k98}te
+Dialogue: 0,0:00:52.76,0:00:56.95,Romaji,,0,0,0,,{\k31}so{\k21}shi{\k16}te {\k14}o{\k19}mo{\k16}i{\k34}ki{\k21}ri {\k44}shi{\k29}n{\k34}ji{\k25}a{\k21}e{\k34}ru {\k60}yo
+Dialogue: 0,0:00:57.20,0:00:59.92,Romaji,,0,0,0,,{\k30}so{\k17}ra {\k16}mi{\k31}a{\k17}ge{\k32}te {\k16}te {\k15}to {\k17}te {\k35}tsu{\k14}na{\k32}gi
+Dialogue: 0,0:01:00.00,0:01:04.55,Romaji,,0,0,0,,{\k40}ma{\k44}ho{\k22}u {\k67}wo {\k32}to{\k31}do{\k32}ke{\k30}ta{\k157}i
+Dialogue: 0,0:01:03.19,0:01:04.24,Romaji,,0,0,0,,{\k40}Yes {\k27}We {\k38}Let's
+Dialogue: 0,0:01:04.24,0:01:05.43,Romaji,,0,0,0,,{\k33}1, {\k33}2, {\k54}JUMP!
+Dialogue: 0,0:01:05.14,0:01:07.18,Romaji,,0,0,0,,{\k11}ko{\k16}ko {\k16}ni {\k32}u{\k17}tsu{\k112}ru
+Dialogue: 0,0:01:07.54,0:01:09.99,Romaji,,0,0,0,,{\k33}mi{\k20}na{\k13}re{\k25}ta {\k22}so{\k33}no {\k14}e{\k19}ga{\k66}o
+Dialogue: 0,0:01:10.23,0:01:15.34,Romaji,,0,0,0,,{\k25}ma{\k13}ta {\k12}a{\k37}su {\k20}ka{\k129}ra{\k60} {\k23}ga{\k32}n{\k18}ba{\k29}re{\k12}ru {\k23}yo {\k78}ne
+Dialogue: 0,0:01:15.45,0:01:20.19,Romaji,,0,0,0,,{\k21}ki{\k15}zu{\k18}tsu{\k23}i{\k37}ta {\k28}ko{\k43}ko{\k29}ro {\k32}sa{\k35}e {\k32}mo {\k33}i{\k25}ya{\k39}shi{\k32}te{\k32}ku
+Dialogue: 0,0:01:20.44,0:01:29.08,Romaji,,0,0,0,,{\k41}ho{\k28}ra {\k49}mi{\k49}n{\k48}na {\k35}a{\k16}tsu{\k36}ma{\k28}ru {\k66}e{\k63}ga{\k63}o {\k66}no {\k48}ma{\k30}ho{\k198}u
+Dialogue: 0,0:00:00.60,0:00:05.45,Tradu,,0,0,0,,El radiante sol remoja nuestra piel
+Dialogue: 0,0:00:05.74,0:00:10.97,Tradu,,0,0,0,,mientras una suave brisa nos balancea
+Dialogue: 0,0:00:11.34,0:00:16.08,Tradu,,0,0,0,,y disfrutamos de nuestro tiempo juntas.
+Dialogue: 0,0:00:16.08,0:00:20.64,Tradu,,0,0,0,,Estamos de vacaciones, así que nos lo pasamos pipa.
+Dialogue: 0,0:00:21.49,0:00:25.93,Tradu,,0,0,0,,Esa noche fue realmente un desmadre;
+Dialogue: 0,0:00:26.49,0:00:31.51,Tradu,,0,0,0,,hablamos y hablamos sin parar.
+Dialogue: 0,0:00:32.16,0:00:36.84,Tradu,,0,0,0,,Ahora sabemos cuáles son nuestros sentimientos,
+Dialogue: 0,0:00:36.84,0:00:41.11,Tradu,,0,0,0,,así que podremos trabajar mucho mejor juntas.
+Dialogue: 0,0:00:42.49,0:00:47.09,Tradu,,0,0,0,,Hay veces en las que nos dejamos la piel,
+Dialogue: 0,0:00:47.65,0:00:52.07,Tradu,,0,0,0,,y siempre nos volvemos a levantar si fracasamos.
+Dialogue: 0,0:00:52.76,0:00:56.95,Tradu,,0,0,0,,¡Y como ahora confiamos la una en la otra,
+Dialogue: 0,0:00:57.20,0:00:59.92,Tradu,,0,0,0,,queremos mirar hacia el cielo, extender nuestras manos
+Dialogue: 0,0:01:00.00,0:01:04.55,Tradu,,0,0,0,,y lanzar nuestra magia!
+Dialogue: 0,0:01:03.19,0:01:04.24,Tradu,,0,0,0,,(Sí, venga, vamos)
+Dialogue: 0,0:01:04.24,0:01:05.43,Tradu,,0,0,0,,(¡1, 2, SALTA!)
+Dialogue: 0,0:01:05.14,0:01:07.18,Tradu,,0,0,0,,Las sonrisas de esa fotografía
+Dialogue: 0,0:01:07.54,0:01:09.99,Tradu,,0,0,0,,que estoy tan acostumbrada a ver
+Dialogue: 0,0:01:10.23,0:01:15.34,Tradu,,0,0,0,,me ayudan a superarme cada día.
+Dialogue: 0,0:01:15.45,0:01:20.19,Tradu,,0,0,0,,Son capaces de curar incluso un corazón dolido.
+Dialogue: 0,0:01:20.44,0:01:29.08,Tradu,,0,0,0,,Ese es el poder de la magia de nuestras sonrisas.

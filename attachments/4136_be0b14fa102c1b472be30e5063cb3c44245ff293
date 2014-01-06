@@ -1,0 +1,410 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:07.67,0:01:09.71,Default,,0000,0000,0000,,¡Confío en los números!
+Dialogue: 0,0:01:10.21,0:01:11.46,Default,,0000,0000,0000,,¡Ahí está!
+Dialogue: 0,0:01:11.46,0:01:13.13,Default,,0000,0000,0000,,¡¿Esos son los Dollars?!
+Dialogue: 0,0:01:13.13,0:01:14.13,Default,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:01:14.13,0:01:15.93,Default,,0000,0000,0000,,No puede ser, ¿todos estos son de los Dollars?
+Dialogue: 0,0:01:15.93,0:01:16.93,Default,,0000,0000,0000,,[Que mis esfuerzos durante estos veinte años han sido en vano...]
+Dialogue: 0,0:01:15.93,0:01:18.22,Default,,0000,0000,0000,,Por ejemplo, podrías casarte conmigo.
+Dialogue: 0,0:01:18.22,0:01:22.01,Default,,0000,0000,0000,,Y nosotros guardamos tu secreto acerca de "eso".
+Dialogue: 0,0:01:22.01,0:01:23.01,Default,,0000,0000,0000,,[¿Cómo te llamas?]
+Dialogue: 0,0:01:22.01,0:01:23.10,Default,,0000,0000,0000,,Celty...
+Dialogue: 0,0:01:23.10,0:01:25.73,Default,,0000,0000,0000,,Esto es mucho más divertido de lo que había pensado.
+Dialogue: 0,0:01:25.73,0:01:26.73,Default,,0000,0000,0000,,[La persona que no esté mirando a su móvil ahora mismo es el enemigo. No le ataquéis, pero quedaos mirándole.]
+Dialogue: 0,0:01:25.73,0:01:29.02,Default,,0000,0000,0000,,¡Estoy gritando que he nacido aquí y ahora!
+Dialogue: 0,0:01:29.94,0:01:32.61,Default,,0000,0000,0000,,¡Devuélveme a Celty!
+Dialogue: 0,0:01:32.61,0:01:33.61,Default,,0000,0000,0000,,[Todo es relativo]
+Dialogue: 0,0:02:05.47,0:02:07.98,Default,,0000,0000,0000,,Creo que tengo que darte las gracias.
+Dialogue: 0,0:02:07.98,0:02:13.48,Default,,0000,0000,0000,,De no ser por ti, mi hermana estaría otra vez encerrada en ese estrecho centro de investigaciones.
+Dialogue: 0,0:02:13.98,0:02:14.86,Default,,0000,0000,0000,,Yagiri-kun...
+Dialogue: 0,0:02:17.32,0:02:18.28,Default,,0000,0000,0000,,¡¿Estás bien?!
+Dialogue: 0,0:02:18.61,0:02:20.66,Default,,0000,0000,0000,,Bueno, devuélveme a Celty.
+Dialogue: 0,0:02:20.66,0:02:23.95,Default,,0000,0000,0000,,Tengo que irme de aquí con ella antes de que llegue la policía.
+Dialogue: 0,0:02:23.95,0:02:25.54,Default,,0000,0000,0000,,¡¿Por eso estabas...?!
+Dialogue: 0,0:02:25.54,0:02:26.54,Default,,0000,0000,0000,,¿Tú qué sabes? []
+Dialogue: 0,0:02:25.95,0:02:31.63,Default,,0000,0000,0000,,Llevo viéndola desde que era niño. []
+Dialogue: 0,0:02:31.63,0:02:33.38,Default,,0000,0000,0000,,Quería dejarla libre.
+Dialogue: 0,0:02:33.38,0:02:35.55,Default,,0000,0000,0000,,Dejarla en libertad en un mundo totalmente abierto...
+Dialogue: 0,0:02:35.55,0:02:38.30,Default,,0000,0000,0000,,y vivir allí con ella.
+Dialogue: 0,0:02:38.30,0:02:43.68,Default,,0000,0000,0000,,Nunca, nunca, nunca he dejado de tener eso en mente.
+Dialogue: 0,0:02:44.39,0:02:48.89,Default,,0000,0000,0000,,No se puede detener el poder del amor.
+Dialogue: 0,0:02:48.89,0:02:51.48,Default,,0000,0000,0000,,En cambio, ¿tú qué eres?
+Dialogue: 0,0:02:51.48,0:02:54.42,Default,,0000,0000,0000,,Siempre has confiado únicamente en los números.
+Dialogue: 0,0:02:56.82,0:02:59.45,Default,,0000,0000,0000,,¡Mi amor no fracasará con tanta facilidad!
+Dialogue: 0,0:03:02.37,0:03:03.49,Default,,0000,0000,0000,,¡No funcionará!
+Dialogue: 0,0:03:03.49,0:03:05.37,Default,,0000,0000,0000,,¡Siento dolor, pero lo ignoraré!
+Dialogue: 0,0:03:05.37,0:03:07.95,Default,,0000,0000,0000,,¡No necesito el dolor en la vida que llevaré junto a Celty!
+Dialogue: 0,0:03:07.95,0:03:11.21,Default,,0000,0000,0000,,¡Y por eso no sentiré el dolor que me estás infligiendo!
+Dialogue: 0,0:03:11.21,0:03:12.25,Default,,0000,0000,0000,,¡Eso es ridículo!
+Dialogue: 0,0:03:21.22,0:03:22.97,Default,,0000,0000,0000,,¡Detente!
+Dialogue: 0,0:03:26.39,0:03:27.64,Default,,0000,0000,0000,,¡Detente, por favor!
+Dialogue: 0,0:03:27.64,0:03:32.77,Default,,0000,0000,0000,,¡Seiji-san es estricto, violento y diferente de los demás, pero no es mala persona!
+Dialogue: 0,0:03:33.06,0:03:36.77,Default,,0000,0000,0000,,¡Y además, también quiere a alguien!
+Dialogue: 0,0:03:35.15,0:03:36.77,Default,,0000,0000,0000,,Esa no es ella.
+Dialogue: 0,0:03:36.77,0:03:38.36,Default,,0000,0000,0000,,No puede ser...
+Dialogue: 0,0:03:38.36,0:03:39.78,Default,,0000,0000,0000,,¡No puede ser! ¡No puede ser! ¡No puede ser!
+Dialogue: 0,0:03:37.78,0:03:38.36,Default,,0000,0000,0000,,Por eso...
+Dialogue: 0,0:03:39.78,0:03:41.78,Default,,0000,0000,0000,,Esa no es ella. Esa chica...
+Dialogue: 0,0:03:43.86,0:03:45.87,Default,,0000,0000,0000,,Esa no es mi cabeza.
+Dialogue: 0,0:03:46.37,0:03:47.66,Default,,0000,0000,0000,,Esa chica...
+Dialogue: 0,0:03:47.66,0:03:49.12,Default,,0000,0000,0000,,Su nombre es...
+Dialogue: 0,0:03:50.00,0:03:51.62,Default,,0000,0000,0000,,¿Harima Mika-san?
+Dialogue: 0,0:03:53.00,0:03:54.42,Default,,0000,0000,0000,,Es así, ¿no?
+Dialogue: 0,0:03:54.42,0:03:59.13,Default,,0000,0000,0000,,Tú eres Harima Mika-san, la chica que supuestamente fue asesinada por Yagiri-kun, ¿no?
+Dialogue: 0,0:04:00.92,0:04:02.38,Default,,0000,0000,0000,,No puede ser cierto.
+Dialogue: 0,0:04:03.63,0:04:04.51,Default,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:04:05.59,0:04:06.55,Default,,0000,0000,0000,,Está mintiendo, ¿verdad?
+Dialogue: 0,0:04:07.85,0:04:08.97,Default,,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:04:09.39,0:04:12.02,Default,,0000,0000,0000,,Eh, Seiji-san, ¿estás ahí?
+Dialogue: 0,0:04:12.02,0:04:12.98,Default,,0000,0000,0000,,¡He venido de nuevo!
+Dialogue: 0,0:04:13.56,0:04:16.27,Default,,0000,0000,0000,,Vaya, se te ha vuelto a olvidar dejar abierta la puerta.
+Dialogue: 0,0:04:16.27,0:04:18.07,Default,,0000,0000,0000,,Así no voy a poder pasar.
+Dialogue: 0,0:04:18.07,0:04:19.98,Default,,0000,0000,0000,,¿Estás durmiendo?
+Dialogue: 0,0:04:20.61,0:04:21.99,Default,,0000,0000,0000,,¿Te acuerdas?
+Dialogue: 0,0:04:21.99,0:04:25.82,Default,,0000,0000,0000,,Me senté a tu lado durante los exámenes de ingreso.
+Dialogue: 0,0:04:26.62,0:04:30.33,Default,,0000,0000,0000,,Como la persona de mi derecha tenía un nombre tan asombroso como Ryugamine,
+Dialogue: 0,0:04:30.33,0:04:33.50,Default,,0000,0000,0000,,me preguntaba qué tipo de nombre tendría la persona de mi izquierda.
+Dialogue: 0,0:04:33.50,0:04:35.83,Default,,0000,0000,0000,,Y cuando miré, me enamoré a primera vista.
+Dialogue: 0,0:04:35.83,0:04:37.67,Default,,0000,0000,0000,,Incluso sonreíste cuando se cruzaron nuestras miradas.
+Dialogue: 0,0:04:40.71,0:04:43.51,Default,,0000,0000,0000,,Por favor, Seiji-san, déjame verte.
+Dialogue: 0,0:04:43.51,0:04:45.18,Default,,0000,0000,0000,,Por favor, por favor.
+Dialogue: 0,0:04:45.18,0:04:47.18,Default,,0000,0000,0000,,¿No te encuentras bien?
+Dialogue: 0,0:04:47.18,0:04:48.60,Default,,0000,0000,0000,,¿Por eso no me abres?
+Dialogue: 0,0:04:48.60,0:04:51.10,Default,,0000,0000,0000,,Ya abro yo. Espera un poquito.
+Dialogue: 0,0:04:51.47,0:04:52.98,Default,,0000,0000,0000,,Ahora mismo voy.
+Dialogue: 0,0:04:54.94,0:04:58.23,Default,,0000,0000,0000,,Investigué un par de cosas después de aquel día.
+Dialogue: 0,0:04:58.23,0:05:01.61,Default,,0000,0000,0000,,Como tu cumpleaños y algunas cosas de tu familia...
+Dialogue: 0,0:05:12.29,0:05:14.46,Default,,0000,0000,0000,,S-Seiji-san...
+Dialogue: 0,0:05:15.58,0:05:16.46,Default,,0000,0000,0000,,Así que lo has visto.
+Dialogue: 0,0:05:16.46,0:05:18.88,Default,,0000,0000,0000,,Umm... bueno...
+Dialogue: 0,0:05:18.88,0:05:21.21,Default,,0000,0000,0000,,Umm... ¡no se lo diré a nadie!
+Dialogue: 0,0:05:21.21,0:05:23.76,Default,,0000,0000,0000,,Tranquilo...
+Dialogue: 0,0:05:23.76,0:05:26.47,Default,,0000,0000,0000,,¡Me convertiré en lo que tú quieras, da igual qué aficiones puedas tener!
+Dialogue: 0,0:05:26.47,0:05:28.43,Default,,0000,0000,0000,,Así que no...
+Dialogue: 0,0:05:28.43,0:05:29.22,Default,,0000,0000,0000,,No importa.
+Dialogue: 0,0:05:29.22,0:05:31.56,Default,,0000,0000,0000,,Seiji-san...
+Dialogue: 0,0:05:32.01,0:05:33.02,Default,,0000,0000,0000,,No importa.
+Dialogue: 0,0:05:33.43,0:05:35.73,Default,,0000,0000,0000,,¿Seiji-san...?
+Dialogue: 0,0:05:35.73,0:05:37.27,Default,,0000,0000,0000,,No importa.
+Dialogue: 0,0:05:40.15,0:05:41.57,Default,,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:05:41.57,0:05:43.86,Default,,0000,0000,0000,,¡En realidad no había muerto!
+Dialogue: 0,0:05:43.86,0:05:46.65,Default,,0000,0000,0000,,Después de eso, tu hermana...
+Dialogue: 0,0:05:47.07,0:05:49.41,Default,,0000,0000,0000,,¿Quieres que Seiji te ame?
+Dialogue: 0,0:05:51.03,0:05:52.28,Default,,0000,0000,0000,,Eres buena chica.
+Dialogue: 0,0:05:52.28,0:05:55.41,Default,,0000,0000,0000,,Y también vino otro médico.
+Dialogue: 0,0:05:55.41,0:06:01.29,Default,,0000,0000,0000,,Dijo que con un poco de cirugía plástica y algo de maquillaje quedaría igual que esa cabeza de la que estás enamorado.
+Dialogue: 0,0:06:01.59,0:06:05.80,Default,,0000,0000,0000,,Dijo, "Ahora te llamas Celty, ya que ese es su nombre".
+Dialogue: 0,0:06:06.09,0:06:09.30,Default,,0000,0000,0000,,¡Así que intenté ser como Celty solo por ti!
+Dialogue: 0,0:06:09.30,0:06:11.93,Default,,0000,0000,0000,,Pero Namie-san dijo que no era suficiente.
+Dialogue: 0,0:06:11.93,0:06:16.89,Default,,0000,0000,0000,,Dijo que te darías cuenta, así que usarían la cirugía y una medicación para borrarme la memoria.
+Dialogue: 0,0:06:16.89,0:06:23.32,Default,,0000,0000,0000,,¡Pero yo no quería perder mis recuerdos!
+Dialogue: 0,0:06:17.06,0:06:19.77,Default,,0000,0000,0000,,Alguien que conoce mi nombre.
+Dialogue: 0,0:06:20.15,0:06:23.32,Default,,0000,0000,0000,,Un médico que sabe que soy una Dullahan.
+Dialogue: 0,0:06:23.69,0:06:28.07,Default,,0000,0000,0000,,¡Solo hay una persona así en esta ciudad!
+Dialogue: 0,0:06:28.07,0:06:30.07,Default,,0000,0000,0000,,¡Yo solo quería estar contigo!
+Dialogue: 0,0:06:30.07,0:06:31.32,Default,,0000,0000,0000,,¡Por eso pasé por todo esto!
+Dialogue: 0,0:06:36.58,0:06:39.21,Default,,0000,0000,0000,,No puede ser verdad...
+Dialogue: 0,0:06:39.21,0:06:40.62,Default,,0000,0000,0000,,Entonces yo...
+Dialogue: 0,0:06:40.62,0:06:45.13,Default,,0000,0000,0000,,Al final no pudiste distinguir a la impostora de la auténtica.
+Dialogue: 0,0:06:45.13,0:06:47.84,Default,,0000,0000,0000,,Eso significa que tu amor no vale gran cosa.
+Dialogue: 0,0:06:47.84,0:06:49.63,Default,,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:06:51.68,0:06:53.05,Default,,0000,0000,0000,,¡Seiji-san!
+Dialogue: 0,0:06:53.80,0:06:59.44,Default,,0000,0000,0000,,Umm... creo que es asombroso que arriesgases tu vida para recuperarla.
+Dialogue: 0,0:06:59.44,0:07:02.73,Default,,0000,0000,0000,,Te había malinterpretado, Harima-san.
+Dialogue: 0,0:07:02.73,0:07:07.28,Default,,0000,0000,0000,,Es cierto que tienes problemas de personalidad, pero no eres ninguna acosadora.
+Dialogue: 0,0:07:07.90,0:07:14.66,Default,,0000,0000,0000,,Te has jugado la vida solo por él, y eso es algo que no se puede hacer siendo una egoísta.
+Dialogue: 0,0:07:15.58,0:07:18.95,Default,,0000,0000,0000,,El hecho de que sigas queriendo a la persona que casi te mata es alucinante.
+Dialogue: 0,0:07:18.95,0:07:20.54,Default,,0000,0000,0000,,En muchos aspectos.
+Dialogue: 0,0:07:20.54,0:07:25.71,Default,,0000,0000,0000,,Harima-san, creo que te pareces mucho a Yagiri-kun.
+Dialogue: 0,0:07:30.13,0:07:31.88,Default,,0000,0000,0000,,Bienvenida.
+Dialogue: 0,0:07:35.80,0:07:38.39,Default,,0000,0000,0000,,Quieres preguntarme qué significa todo esto, ¿verdad?
+Dialogue: 0,0:07:39.31,0:07:41.69,Default,,0000,0000,0000,,Y luego dirías:
+Dialogue: 0,0:07:41.69,0:07:46.23,Default,,0000,0000,0000,,"Entonces sabías que mi cabeza estaba en ese centro de investigaciones".
+Dialogue: 0,0:07:46.23,0:07:50.90,Default,,0000,0000,0000,,"Tanto tú como tu padre estabais trabajando en secreto con Farmacéuticas Yagiri".
+Dialogue: 0,0:07:50.90,0:07:54.62,Default,,0000,0000,0000,,"¡Tu padre probablemente fuera quien me robó la cabeza!".
+Dialogue: 0,0:07:54.91,0:08:00.83,Default,,0000,0000,0000,,"Pero tú me lo ocultaste y le cortaste la cara a una chica moribunda".
+Dialogue: 0,0:08:00.83,0:08:05.50,Default,,0000,0000,0000,,"Puedo ser un monstruo, pero vosotros, que devoráis a los humanos, sí que sois auténticos monstruos!
+Dialogue: 0,0:08:05.50,0:08:06.84,Default,,0000,0000,0000,,¿No es así?
+Dialogue: 0,0:08:07.13,0:08:10.59,Default,,0000,0000,0000,,Ah, sí. Diré esto para aclarar cualquier tipo de malentendido.
+Dialogue: 0,0:08:10.59,0:08:14.80,Default,,0000,0000,0000,,Ni sé ni me importa si fue mi padre quien te robó la cabeza.
+Dialogue: 0,0:08:14.80,0:08:18.39,Default,,0000,0000,0000,,Y la chica quería que le hiciéramos una cirugía menor.
+Dialogue: 0,0:08:18.39,0:08:21.93,Default,,0000,0000,0000,,Puede que fueran los Yagiri quienes la llevaron a tomar esa decisión.
+Dialogue: 0,0:08:21.93,0:08:23.94,Default,,0000,0000,0000,,Pero eso no es problema mío.
+Dialogue: 0,0:08:25.44,0:08:30.15,Default,,0000,0000,0000,,"¿Es que sabes en qué estoy pensando?".
+Dialogue: 0,0:08:30.65,0:08:32.70,Default,,0000,0000,0000,,Así es.
+Dialogue: 0,0:08:32.70,0:08:35.16,Default,,0000,0000,0000,,Llevo queriéndote veinte años.
+Dialogue: 0,0:08:35.16,0:08:36.70,Default,,0000,0000,0000,,Claro que sabría algo así.
+Dialogue: 0,0:08:37.53,0:08:39.20,Default,,0000,0000,0000,,¡¿Y por qué ahora...?!
+Dialogue: 0,0:08:39.20,0:08:41.62,Default,,0000,0000,0000,,¡¿Por qué me ocultaste que sabías dónde estaba mi cabeza?!
+Dialogue: 0,0:08:43.04,0:08:44.96,Default,,0000,0000,0000,,Porque te quiero.
+Dialogue: 0,0:08:44.96,0:08:47.29,Default,,0000,0000,0000,,Por eso no dije nada.
+Dialogue: 0,0:08:47.29,0:08:50.84,Default,,0000,0000,0000,,Podrías desaparecer si la hubieras encontrado.
+Dialogue: 0,0:08:50.84,0:08:53.09,Default,,0000,0000,0000,,No podría haberlo soportado.
+Dialogue: 0,0:08:53.09,0:08:56.30,Default,,0000,0000,0000,,No diré que me rendiré para que puedas ser feliz.
+Dialogue: 0,0:08:57.01,0:09:00.18,Default,,0000,0000,0000,,Nuestro amor está en juego en esta pelea.
+Dialogue: 0,0:09:00.93,0:09:03.14,Default,,0000,0000,0000,,No te dejaré marchar.
+Dialogue: 0,0:09:03.14,0:09:11.28,Default,,0000,0000,0000,,Y para asegurarme, me aprovecharé del amor de los demás, de sus muertes, de mí mismo... []
+Dialogue: 0,0:09:11.28,0:09:12.28,Default,,0000,0000,0000,,y aunque suene contradictorio, de tus sentimientos. []
+Dialogue: 0,0:09:14.90,0:09:19.66,Default,,0000,0000,0000,,Aunque recuperase mi cabeza, no habría pensado en marcharme.
+Dialogue: 0,0:09:19.99,0:09:23.75,Default,,0000,0000,0000,,Aunque tú pienses eso, quizás tu cabeza no opine igual.
+Dialogue: 0,0:09:24.54,0:09:26.08,Default,,0000,0000,0000,,He estado pensando...
+Dialogue: 0,0:09:26.08,0:09:31.88,Default,,0000,0000,0000,,¿Por qué apareció un duende como tú ante los humanos de este mundo?
+Dialogue: 0,0:09:31.88,0:09:37.51,Default,,0000,0000,0000,,Quizás pudiste manifestarte en este mundo precisamente porque perdiste la cabeza.
+Dialogue: 0,0:09:37.51,0:09:44.52,Default,,0000,0000,0000,,Y entonces, puede que cuando hayas recuperado tu cabeza y vuelva tu memoria, desaparezcas del mundo como si fueras humo...
+Dialogue: 0,0:09:44.52,0:09:47.27,Default,,0000,0000,0000,,Como si todo lo que ha pasado hasta ahora hubiera sido una ilusión.
+Dialogue: 0,0:09:47.27,0:09:49.56,Default,,0000,0000,0000,,Tengo miedo de que ocurra eso.
+Dialogue: 0,0:09:57.57,0:10:00.53,Default,,0000,0000,0000,,¿Creerías lo que voy a decirte?
+Dialogue: 0,0:10:01.37,0:10:03.33,Default,,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:03.33,0:10:05.83,Default,,0000,0000,0000,,Es más, eres la única persona en la que no desconfío.
+Dialogue: 0,0:10:06.50,0:10:09.00,Default,,0000,0000,0000,,Yo también tengo miedo.
+Dialogue: 0,0:10:06.50,0:10:09.00,Default,,0000,0000,0000,,[Yo también tengo miedo.]
+Dialogue: 0,0:10:09.00,0:10:10.83,Default,,0000,0000,0000,,Tengo miedo de morir.
+Dialogue: 0,0:10:09.00,0:10:10.83,Default,,0000,0000,0000,,[Tengo miedo de morir.]
+Dialogue: 0,0:10:11.71,0:10:16.09,Default,,0000,0000,0000,,Sé que aquí no hay nadie que pueda matarme.
+Dialogue: 0,0:10:16.09,0:10:17.67,Default,,0000,0000,0000,,No es arrogancia.
+Dialogue: 0,0:10:17.67,0:10:20.59,Default,,0000,0000,0000,,Lo acepto porque es un hecho.
+Dialogue: 0,0:10:20.59,0:10:23.68,Default,,0000,0000,0000,,Aunque eso no me alegra ni me emociona.
+Dialogue: 0,0:10:23.68,0:10:27.64,Default,,0000,0000,0000,,Pero puede que por eso mismo tenga miedo.
+Dialogue: 0,0:10:27.64,0:10:31.73,Default,,0000,0000,0000,,No hay un núcleo en mi interior que controle mi muerte.
+Dialogue: 0,0:10:31.73,0:10:34.94,Default,,0000,0000,0000,,Mi cabeza es ese núcleo.
+Dialogue: 0,0:10:34.94,0:10:37.11,Default,,0000,0000,0000,,Si alguien destruyese ese núcleo,
+Dialogue: 0,0:10:37.11,0:10:41.20,Default,,0000,0000,0000,,independientemente de mi voluntad o situación...
+Dialogue: 0,0:10:44.16,0:10:45.70,Default,,0000,0000,0000,,¿Me creerías si digo...
+Dialogue: 0,0:10:46.12,0:10:49.54,Default,,0000,0000,0000,,que tengo pesadillas aunque no tengo ojos o cerebro?
+Dialogue: 0,0:10:46.12,0:10:49.54,Default,,0000,0000,0000,,[que tengo pesadillas aunque no tengo ojos o cerebro?]
+Dialogue: 0,0:10:50.00,0:10:53.46,Default,,0000,0000,0000,,¿Creerías que puedo temblar de miedo por las pesadillas que tengo?
+Dialogue: 0,0:10:53.46,0:10:59.80,Default,,0000,0000,0000,,Tengo miedo de eso, así que he estado buscando mi cabeza para poder controlar mi voluntad.
+Dialogue: 0,0:10:59.80,0:11:02.80,Default,,0000,0000,0000,,¿Me creerías si dijera eso?
+Dialogue: 0,0:11:04.01,0:11:07.31,Default,,0000,0000,0000,,Ya te he dicho que eres la única persona en quien confío.
+Dialogue: 0,0:11:07.31,0:11:09.18,Default,,0000,0000,0000,,Estoy totalmente perdido.
+Dialogue: 0,0:11:09.18,0:11:14.02,Default,,0000,0000,0000,,Somos tan tercos que nunca abandonamos el reino de las especulaciones.
+Dialogue: 0,0:11:14.73,0:11:16.28,Default,,0000,0000,0000,,Parecemos idiotas.
+Dialogue: 0,0:11:16.28,0:11:17.53,Default,,0000,0000,0000,,Ya.
+Dialogue: 0,0:11:17.53,0:11:18.61,Default,,0000,0000,0000,,Oye, Shinra.
+Dialogue: 0,0:11:18.61,0:11:20.07,Default,,0000,0000,0000,,Dime.
+Dialogue: 0,0:11:22.87,0:11:24.12,Default,,0000,0000,0000,,Déjame pegarte una vez.
+Dialogue: 0,0:11:22.87,0:11:24.12,Default,,0000,0000,0000,,[Déjame pegarte una vez.]
+Dialogue: 0,0:11:24.83,0:11:26.03,Default,,0000,0000,0000,,Vale.
+Dialogue: 0,0:11:29.58,0:11:32.29,Default,,0000,0000,0000,,Bueno, deja que te pegue yo a ti.
+Dialogue: 0,0:11:44.47,0:11:47.39,Default,,0000,0000,0000,,Mira, estás más guapa con tu cara al descubierto.
+Dialogue: 0,0:11:49.60,0:11:53.27,Default,,0000,0000,0000,,Ese puñetazo ha sido el sustituto del beso de nuestra boda.
+Dialogue: 0,0:11:53.27,0:11:54.23,Default,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:12:04.87,0:12:06.62,Default,,0000,0000,0000,,¿Estás llorando?
+Dialogue: 0,0:12:06.62,0:12:07.62,Default,,0000,0000,0000,,[Eres un completo idiota.]
+Dialogue: 0,0:12:19.17,0:12:22.17,Default,,0000,0000,0000,,La verdad es que es alucinante.
+Dialogue: 0,0:12:26.43,0:12:27.97,Default,,0000,0000,0000,,Hola, Izaya.
+Dialogue: 0,0:12:27.97,0:12:30.06,Default,,0000,0000,0000,,Ah, Dotachin. Cuánto tiempo.
+Dialogue: 0,0:12:30.06,0:12:31.52,Default,,0000,0000,0000,,Deja de llamarme así.
+Dialogue: 0,0:12:31.52,0:12:35.10,Default,,0000,0000,0000,,Por cierto, ¿sabes de dónde salió el nombre de los Dollars?
+Dialogue: 0,0:12:35.10,0:12:37.52,Default,,0000,0000,0000,,¿No será de algo como "Dame tus dólares" o algo así?
+Dialogue: 0,0:12:37.52,0:12:39.57,Default,,0000,0000,0000,,Qué va.
+Dialogue: 0,0:12:39.57,0:12:41.99,Default,,0000,0000,0000,,Es porque la organización en realidad no hace nada.
+Dialogue: 0,0:12:41.99,0:12:44.53,Default,,0000,0000,0000,,Son los Dollars porque se quedan ahí sin hacer nada.
+Dialogue: 0,0:12:44.53,0:12:45.41,Default,,0000,0000,0000,,Por eso.
+Dialogue: 0,0:12:45.95,0:12:48.28,Default,,0000,0000,0000,,Dotachin, ¿has visto eso?
+Dialogue: 0,0:12:48.28,0:12:49.37,Default,,0000,0000,0000,,La motorista de negro ha...
+Dialogue: 0,0:12:49.37,0:12:51.12,Default,,0000,0000,0000,,No jodas. ¿Eso ha sido real?
+Dialogue: 0,0:12:51.12,0:12:53.91,Default,,0000,0000,0000,,Entonces no ha sido una ilusión...
+Dialogue: 0,0:12:53.91,0:12:56.21,Default,,0000,0000,0000,,Puede que fuera alguna movida por ordenador.
+Dialogue: 0,0:12:56.21,0:12:59.25,Default,,0000,0000,0000,,Pues esa movida por ordenador está en los Dollars.
+Dialogue: 0,0:13:00.00,0:13:04.51,Default,,0000,0000,0000,,¡Eso es la leche!
+Dialogue: 0,0:13:00.30,0:13:01.00,Default,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:13:07.72,0:13:09.85,Default,,0000,0000,0000,,Estoy realmente sorprendido.
+Dialogue: 0,0:13:09.85,0:13:14.31,Default,,0000,0000,0000,,Conocía a mucha gente en Internet que afirmaba estar en los Dollars,
+Dialogue: 0,0:13:14.31,0:13:20.02,Default,,0000,0000,0000,,pero no pensé en ningún momento que acudiera tanta gente a una reunión tan improvisada.
+Dialogue: 0,0:13:21.44,0:13:23.53,Default,,0000,0000,0000,,Los humanos sobrepasan mis expectativas.
+Dialogue: 0,0:13:23.94,0:13:32.41,Default,,0000,0000,0000,,Parece que sueñas con escapar de tu vida diaria, pero la vida en Tokio se convertirá en rutina para ti dentro de medio año.
+Dialogue: 0,0:13:32.41,0:13:39.92,Default,,0000,0000,0000,,Además, si quieres romper con la rutina, tendrás que ir a algún otro sitio o hacer cosas más clandestinas.
+Dialogue: 0,0:13:39.92,0:13:45.26,Default,,0000,0000,0000,,Pero cuando te adentres en ese mundo, tardarás tres días en verlo como algo normal.
+Dialogue: 0,0:13:46.72,0:13:51.89,Default,,0000,0000,0000,,Si de verdad quieres escapar de la rutina diaria, no tendrás más remedio que seguir evolucionando.
+Dialogue: 0,0:13:51.89,0:13:55.64,Default,,0000,0000,0000,,Da igual si quieres ir hacia arriba o hacia abajo.
+Dialogue: 0,0:13:56.56,0:13:58.27,Default,,0000,0000,0000,,¡Disfruta de la vida diaria!
+Dialogue: 0,0:13:58.81,0:14:10.12,Default,,0000,0000,0000,,Y como te respeto, no te cobraré por el teléfono de Yagiri Namie... []
+Dialogue: 0,0:14:10.12,0:14:11.12,Default,,0000,0000,0000,,ni le diré a nadie que eres el fundador de los Dollars. []
+Dialogue: 0,0:14:10.99,0:14:12.37,Default,,0000,0000,0000,,Es tu organización.
+Dialogue: 0,0:14:12.37,0:14:14.12,Default,,0000,0000,0000,,Aprovéchate de ella cuando te plazca.
+Dialogue: 0,0:14:21.25,0:14:23.38,Default,,0000,0000,0000,,¡¡Izaya!!
+Dialogue: 0,0:14:23.67,0:14:26.38,Default,,0000,0000,0000,,Parece que es hora de acabar con la reunión.
+Dialogue: 0,0:14:26.72,0:14:30.14,Default,,0000,0000,0000,,¡Buena suerte, Tanaka Taro-kun!
+Dialogue: 0,0:14:30.14,0:14:32.35,Default,,0000,0000,0000,,¡Espera, cabrón!
+Dialogue: 0,0:14:32.35,0:14:35.10,Default,,0000,0000,0000,,¡¡Izaya!!
+Dialogue: 0,0:14:35.10,0:14:36.10,Default,,0000,0000,0000,,[Por cierto...]
+Dialogue: 0,0:14:36.10,0:14:37.10,Default,,0000,0000,0000,,[¿Has oído hablar de los Dollars?]
+Dialogue: 0,0:14:37.10,0:14:38.10,Default,,0000,0000,0000,,[¿Los Dollars?]
+Dialogue: 0,0:14:38.10,0:14:39.10,Default,,0000,0000,0000,,[Sí, conozco esa banda.]
+Dialogue: 0,0:14:39.10,0:14:40.10,Default,,0000,0000,0000,,[Bueno... a decir verdad, es una especie de monstruo.] {está partido en dos} {otro plano}
+Dialogue: 0,0:14:40.10,0:14:41.10,Default,,0000,0000,0000,,[¿A qué te refieres con lo de que es un monstruo?]
+Dialogue: 0,0:14:41.10,0:14:42.10,Default,,0000,0000,0000,,[Dotachin dice que es la muerte.]
+Dialogue: 0,0:14:40.16,0:14:41.14,Default,,0000,0000,0000,,No puede ser...
+Dialogue: 0,0:14:44.19,0:14:48.70,Default,,0000,0000,0000,,Al día siguiente, la vida volvió a ser asombrosamente normal.
+Dialogue: 0,0:14:48.70,0:14:49.36,Default,,0000,0000,0000,,Para él...
+Dialogue: 0,0:14:49.99,0:14:50.91,Default,,0000,0000,0000,,Y para él...
+Dialogue: 0,0:14:51.53,0:14:52.95,Default,,0000,0000,0000,,Y también para ese chico.
+Dialogue: 0,0:14:52.95,0:14:54.12,Default,,0000,0000,0000,,Eh, Mikado.
+Dialogue: 0,0:14:54.12,0:14:57.83,Default,,0000,0000,0000,,¡Vi en Internet que los Dollars ayer tuvieron una reunión!
+Dialogue: 0,0:14:57.83,0:15:02.08,Default,,0000,0000,0000,,¡Y por lo visto, Simon y Shizuo también están en los Dollars!
+Dialogue: 0,0:15:02.08,0:15:04.67,Default,,0000,0000,0000,,¡También he oído que el motorista no tiene cabeza!
+Dialogue: 0,0:15:04.67,0:15:06.82,Default,,0000,0000,0000,,¡Fue corriendo por una pared, sacó una guadaña enorme...
+Dialogue: 0,0:15:06.82,0:15:09.05,Default,,0000,0000,0000,,y la peña se quedó flipando!
+Dialogue: 0,0:15:09.05,0:15:10.43,Default,,0000,0000,0000,,¡Tuvo que ser la leche!
+Dialogue: 0,0:15:10.43,0:15:11.76,Default,,0000,0000,0000,,No he entendido ni jota, tío.
+Dialogue: 0,0:15:12.72,0:15:14.68,Default,,0000,0000,0000,,Y también para ellos.
+Dialogue: 0,0:15:14.68,0:15:17.43,Default,,0000,0000,0000,,No te quiero.
+Dialogue: 0,0:15:17.43,0:15:23.40,Default,,0000,0000,0000,,Pero no puedo olvidar lo que siento por ella cuando te miro.
+Dialogue: 0,0:15:23.40,0:15:25.90,Default,,0000,0000,0000,,Así que aceptaré lo que sientes por mí.
+Dialogue: 0,0:15:25.90,0:15:29.65,Default,,0000,0000,0000,,Hasta que la recupere.
+Dialogue: 0,0:15:29.65,0:15:30.65,Default,,0000,0000,0000,,[Tanaka Taro-san ha entrado en la sala]
+Dialogue: 0,0:15:39.04,0:15:40.12,Default,,0000,0000,0000,,Buenas noches.
+Dialogue: 0,0:15:39.04,0:15:40.12,Default,,0000,0000,0000,,[Buenas noches.]
+Dialogue: 0,0:15:40.12,0:15:42.21,Default,,0000,0000,0000,,Buenas. Os estaba esperando.
+Dialogue: 0,0:15:40.12,0:15:42.21,Default,,0000,0000,0000,,[Buenas. Os estaba esperando.]
+Dialogue: 0,0:15:42.21,0:15:43.08,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:15:42.21,0:15:43.08,Default,,0000,0000,0000,,[Gracias.]
+Dialogue: 0,0:15:43.08,0:15:46.04,Default,,0000,0000,0000,,Hoy estoy bastante cansado, así que me desconectaré pronto.
+Dialogue: 0,0:15:43.08,0:15:46.04,Default,,0000,0000,0000,,[Hoy estoy bastante cansado, así que me desconectaré pronto.]
+Dialogue: 0,0:15:46.04,0:15:48.76,Default,,0000,0000,0000,,¿No has dormido lo suficiente? ¿Has pasado la noche en vela o qué?
+Dialogue: 0,0:15:46.04,0:15:48.76,Default,,0000,0000,0000,,[¿No has dormido lo suficiente? ¿Has pasado la noche en vela o qué?]
+Dialogue: 0,0:15:48.76,0:15:50.17,Default,,0000,0000,0000,,Sí, algo así.
+Dialogue: 0,0:15:48.76,0:15:50.17,Default,,0000,0000,0000,,[Sí, algo así.]
+Dialogue: 0,0:15:50.17,0:15:52.34,Default,,0000,0000,0000,,Parece que Kanra-san no ha venido.
+Dialogue: 0,0:15:50.17,0:15:52.34,Default,,0000,0000,0000,,[Parece que Kanra-san no ha venido.]
+Dialogue: 0,0:15:52.34,0:15:53.39,Default,,0000,0000,0000,,Kanra-san...
+Dialogue: 0,0:15:52.34,0:15:53.39,Default,,0000,0000,0000,,[Kanra-san...]
+Dialogue: 0,0:15:53.39,0:15:54.85,Default,,0000,0000,0000,,vendrá, ¿no?
+Dialogue: 0,0:15:53.39,0:15:54.85,Default,,0000,0000,0000,,[vendrá, ¿no?]
+Dialogue: 0,0:15:54.85,0:15:57.56,Default,,0000,0000,0000,,Ah, por lo visto le ha surgido algo.
+Dialogue: 0,0:15:54.85,0:15:57.56,Default,,0000,0000,0000,,[Ah, por lo visto le ha surgido algo.]
+Dialogue: 0,0:15:57.56,0:15:58.85,Default,,0000,0000,0000,,Ah, ya veo.
+Dialogue: 0,0:15:57.56,0:15:58.85,Default,,0000,0000,0000,,[Ah, ya veo.]
+Dialogue: 0,0:15:58.85,0:16:00.98,Default,,0000,0000,0000,,Lo siento, pero tengo que irme.
+Dialogue: 0,0:15:58.85,0:16:00.98,Default,,0000,0000,0000,,[Lo siento, pero tengo que irme.]
+Dialogue: 0,0:16:00.98,0:16:02.31,Default,,0000,0000,0000,,Nos vemos.
+Dialogue: 0,0:16:00.98,0:16:02.31,Default,,0000,0000,0000,,[Nos vemos.]
+Dialogue: 0,0:16:02.31,0:16:03.31,Default,,0000,0000,0000,,[Setton-san ha abandonado la sala]
+Dialogue: 0,0:16:05.27,0:16:07.61,Default,,0000,0000,0000,,Siento interrumpir tu diversión.
+Dialogue: 0,0:16:07.61,0:16:08.65,Default,,0000,0000,0000,,Es un trabajo urgente.
+Dialogue: 0,0:16:09.48,0:16:10.78,Default,,0000,0000,0000,,Sin problemas.
+Dialogue: 0,0:16:09.48,0:16:10.78,Default,,0000,0000,0000,,[Sin problemas.]
+Dialogue: 0,0:16:11.11,0:16:14.78,Default,,0000,0000,0000,,Y ahora, mi vida diaria sigue igual que siempre.
+Dialogue: 0,0:16:14.78,0:16:19.16,Default,,0000,0000,0000,,El hecho de que me encuentro con gente que no quiero ver no ha cambiado en absoluto.
+Dialogue: 0,0:16:20.66,0:16:22.66,Default,,0000,0000,0000,,Parece que ya te has calmado.
+Dialogue: 0,0:16:22.66,0:16:29.55,Default,,0000,0000,0000,,Bueno, los fantasmas dan miedo porque van por ahí y aparecen de la nada, pero tú montaste un buen numerito.
+Dialogue: 0,0:16:30.38,0:16:33.09,Default,,0000,0000,0000,,Nadie te volverá a tener miedo.
+Dialogue: 0,0:16:33.09,0:16:35.43,Default,,0000,0000,0000,,A todo esto, no mataste a nadie, ¿no?
+Dialogue: 0,0:16:35.43,0:16:36.76,Default,,0000,0000,0000,,¿Para qué tienes la guadaña?
+Dialogue: 0,0:16:36.76,0:16:37.64,Default,,0000,0000,0000,,¿Puede cortar cosas?
+Dialogue: 0,0:16:38.14,0:16:40.35,Default,,0000,0000,0000,,¿Vas a perseguir a esa chica?
+Dialogue: 0,0:16:40.35,0:16:42.56,Default,,0000,0000,0000,,Puedo ayudarte siempre que quieras.
+Dialogue: 0,0:16:42.56,0:16:43.14,Default,,0000,0000,0000,,Llámame.
+Dialogue: 0,0:16:46.23,0:16:47.61,Default,,0000,0000,0000,,Nos vemos.
+Dialogue: 0,0:16:47.61,0:16:50.61,Default,,0000,0000,0000,,No sé dónde está Yagiri Namie.
+Dialogue: 0,0:16:50.61,0:16:52.28,Default,,0000,0000,0000,,Pero me da lo mismo.
+Dialogue: 0,0:16:52.28,0:16:55.11,Default,,0000,0000,0000,,Soy quien soy, y eso no tiene nada de malo.
+Dialogue: 0,0:16:55.53,0:16:57.41,Default,,0000,0000,0000,,Los días continúan como hasta ahora.
+Dialogue: 0,0:16:57.41,0:16:59.99,Default,,0000,0000,0000,,No traen un deseo ni una desesperación excesivos.
+Dialogue: 0,0:16:59.99,0:17:01.54,Default,,0000,0000,0000,,No ha cambiado nada.
+Dialogue: 0,0:17:01.54,0:17:06.08,Default,,0000,0000,0000,,Pero me invade una sensación de satisfacción.
+Dialogue: 0,0:17:06.08,0:17:08.00,Default,,0000,0000,0000,,Yo estoy aquí.
+Dialogue: 0,0:17:08.00,0:17:09.79,Default,,0000,0000,0000,,Tú estás allí.
+Dialogue: 0,0:17:09.79,0:17:14.09,Default,,0000,0000,0000,,Si yo soy tu salvadora, tú eres la mía.
+Dialogue: 0,0:17:18.09,0:17:20.39,Default,,0000,0000,0000,,Y así, el chico se puso a pensar en lo que le dijo Orihara Izaya. []
+Dialogue: 0,0:17:22.89,0:17:29.69,Default,,0000,0000,0000,,¿El chico que anhelaba una realidad imposible podría seguir buscando nuevas realidades por toda la eternidad?
+Dialogue: 0,0:17:29.69,0:17:33.99,Default,,0000,0000,0000,,¿Y esa eternidad acabaría siendo normal para él?
+Dialogue: 0,0:17:34.90,0:17:36.95,Default,,0000,0000,0000,,Siento todo lo que hice.
+Dialogue: 0,0:17:36.95,0:17:37.66,Default,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:17:44.87,0:17:47.21,Default,,0000,0000,0000,,¡Eh, ese es mi asiento!
+Dialogue: 0,0:17:47.21,0:17:49.83,Default,,0000,0000,0000,,Hay un sitio libre detrás del delegado.
+Dialogue: 0,0:17:49.83,0:17:52.71,Default,,0000,0000,0000,,¿Eh? ¿Qué te pasa?
+Dialogue: 0,0:17:52.71,0:17:55.76,Default,,0000,0000,0000,,¿Apareces de la nada y te portas así?
+Dialogue: 0,0:17:59.26,0:18:04.22,Default,,0000,0000,0000,,Nunca más podría interactuar con Harima Mika como lo hacía antes.
+Dialogue: 0,0:18:04.81,0:18:09.40,Default,,0000,0000,0000,,Si eso es bueno o malo, es algo que solo sabrá ella.
+Dialogue: 0,0:18:09.40,0:18:11.19,Default,,0000,0000,0000,,Pero ¿es eso cierto?
+Dialogue: 0,0:18:11.19,0:18:15.19,Default,,0000,0000,0000,,Quizás la gente no sea capaz de comprenderse a sí misma.
+Dialogue: 0,0:18:15.19,0:18:17.86,Default,,0000,0000,0000,,"Lo único que puedes hacer es seguir evolucionando".
+Dialogue: 0,0:18:17.86,0:18:21.12,Default,,0000,0000,0000,,Las palabras de aquel hombre resonaron por su cabeza.
+Dialogue: 0,0:18:21.53,0:18:26.71,Default,,0000,0000,0000,,Después de hacer algo tan atrevido, pensó que podría hacer cualquier cosa.
+Dialogue: 0,0:18:26.71,0:18:30.63,Default,,0000,0000,0000,,No pensó ni por un segundo...
+Dialogue: 0,0:18:30.63,0:18:35.38,Default,,0000,0000,0000,,que necesitaría tantísimo valor para pedir salir a una chica de clase.
+Dialogue: 0,0:18:40.39,0:18:43.89,Default,,0000,0000,0000,,Tiempo para llegar hasta la chica: treinta segundos.
+Dialogue: 0,0:18:44.22,0:18:49.02,Default,,0000,0000,0000,,Tiempo para encontrar a su amigo tirándole los trastos: treinta y cinco segundos.
+Dialogue: 0,0:18:49.02,0:18:53.27,Default,,0000,0000,0000,,Tiempo restante para darle una dura patada a su amigo: cuarenta y cinco segundos.
+Dialogue: 0,0:18:53.27,0:18:57.78,Default,,0000,0000,0000,,Tiempo restante para que ella rechace su ofrecimiento: setenta y cuatro segundos.
+Dialogue: 0,0:18:57.78,0:19:03.28,Default,,0000,0000,0000,,Tiempo restante para que la chica le invite a comer en el tejado: setenta y ocho segundos.
+Dialogue: 0,0:19:03.58,0:19:06.91,Default,,0000,0000,0000,,Tiempo restante para que él se enamore de ella...
+Dialogue: 0,0:19:07.20,0:19:10.67,Default,,0000,0000,0000,,Tiempo restante para que él se declare...
+Dialogue: 0,0:19:15.09,0:19:18.17,Default,,0000,0000,0000,,Pues hiciste una estupidez.
+Dialogue: 0,0:19:20.72,0:19:25.06,Default,,0000,0000,0000,,Te deshiciste de todo únicamente por el retorcido amor de tu hermano.
+Dialogue: 0,0:19:25.06,0:19:26.06,Default,,0000,0000,0000,,[¿Estás bien?] [Mientras sigas en contacto con ellos, nunca estaréis solos.]
+Dialogue: 0,0:19:38.11,0:19:39.11,Default,,0000,0000,0000,,[Tened cuidado, os están siguiendo.] [¿Dónde estáis ahora?]
+Dialogue: 0,0:19:34.52,0:19:38.11,Default,,0000,0000,0000,,¿O prefieres que diga que es tu retorcido amor hacia tu hermano?
+Dialogue: 0,0:19:38.82,0:19:40.74,Default,,0000,0000,0000,,¿No crees que estás en problemas?
+Dialogue: 0,0:19:40.74,0:19:42.82,Default,,0000,0000,0000,,Tienes el tema de la absorción de Nebula, ¿no?
+Dialogue: 0,0:19:42.82,0:19:45.28,Default,,0000,0000,0000,,Si algo de esto saliese a la luz por culpa de aquello,
+Dialogue: 0,0:19:45.28,0:19:51.41,Default,,0000,0000,0000,,la Mafia o algún francotirador hábil podría dispararte entre ceja y ceja.
+Dialogue: 0,0:19:51.41,0:19:52.21,Default,,0000,0000,0000,,Jaque mate.
+Dialogue: 0,0:19:53.08,0:19:53.96,Default,,0000,0000,0000,,¿Una empresa de limpieza?
+Dialogue: 0,0:19:53.96,0:19:56.88,Default,,0000,0000,0000,,Sí, así es como se los llevan siempre.
+Dialogue: 0,0:19:56.88,0:19:57.71,Default,,0000,0000,0000,,Entendido.
+Dialogue: 0,0:20:01.47,0:20:04.97,Default,,0000,0000,0000,,¿Hola? Las cosas se han complicado un poco más.
+Dialogue: 0,0:20:04.97,0:20:06.97,Default,,0000,0000,0000,,¿Puedes salir de ahí ahora mismo?
+Dialogue: 0,0:20:09.93,0:20:14.60,Default,,0000,0000,0000,,No puedes tener un jaque mate doble, ¿no?
+Dialogue: 0,0:20:15.19,0:20:19.15,Default,,0000,0000,0000,,Estoy seguro de que tu tío era como yo.
+Dialogue: 0,0:20:19.15,0:20:26.24,Default,,0000,0000,0000,,Creía en aquel mundo menos que nadie, temía a la muerte más que nadie y veneraba al Cielo más que nadie.
+Dialogue: 0,0:20:26.24,0:20:26.87,Default,,0000,0000,0000,,Pero...
+Dialogue: 0,0:20:27.28,0:20:28.87,Default,,0000,0000,0000,,estoy seguro.
+Dialogue: 0,0:20:28.87,0:20:29.99,Default,,0000,0000,0000,,Aquel mundo existe.
+Dialogue: 0,0:20:29.99,0:20:31.37,Default,,0000,0000,0000,,Dejémoslo ahí.
+Dialogue: 0,0:20:32.54,0:20:37.09,Default,,0000,0000,0000,,Se dice que todos los Dullahans son mujeres.
+Dialogue: 0,0:20:37.09,0:20:38.29,Default,,0000,0000,0000,,¿Sabes por qué?
+Dialogue: 0,0:20:38.29,0:20:39.75,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:20:39.75,0:20:44.30,Default,,0000,0000,0000,,Uno de mis subordinados estuvo investigándolo un tiempo, pero parecía absurdo.
+Dialogue: 0,0:20:44.72,0:20:46.64,Default,,0000,0000,0000,,Vaya, una racionalista.
+Dialogue: 0,0:20:46.64,0:20:48.64,Default,,0000,0000,0000,,Obviemos eso.
+Dialogue: 0,0:20:48.64,0:20:52.02,Default,,0000,0000,0000,,Existe un paraíso, aunque técnicamente no es un paraíso, llamado Valhalla.
+Dialogue: 0,0:20:52.02,0:21:00.65,Default,,0000,0000,0000,,En los mitos escandinavos, hay unos ángeles vestidos con armaduras llamadas valquirias... []
+Dialogue: 0,0:21:00.65,0:21:01.65,Default,,0000,0000,0000,,que se llevan las almas de los soldados valientes al Valhalla. []
+Dialogue: 0,0:21:00.65,0:21:03.11,Default,,0000,0000,0000,,Mujeres que dan la bienvenida a los muertos...
+Dialogue: 0,0:21:03.11,0:21:05.53,Default,,0000,0000,0000,,¿No te suena esa historia?
+Dialogue: 0,0:21:05.53,0:21:10.91,Default,,0000,0000,0000,,Hay una teoría que dice que los Dullahans son la manifestación de las valquirias que campan por la Tierra.
+Dialogue: 0,0:21:10.91,0:21:12.70,Default,,0000,0000,0000,,De ser así,
+Dialogue: 0,0:21:12.70,0:21:14.66,Default,,0000,0000,0000,,ella debe estar esperando...
+Dialogue: 0,0:21:14.66,0:21:17.50,Default,,0000,0000,0000,,A que llegue su despertar, las batallas...
+Dialogue: 0,0:21:17.50,0:21:20.42,Default,,0000,0000,0000,,Y así buscar a los soldados sagrados para llevarlos al Valhalla.
+Dialogue: 0,0:21:21.09,0:21:25.18,Default,,0000,0000,0000,,Aunque está viva, no ha despertado porque esto no es un campo de batalla.
+Dialogue: 0,0:21:25.88,0:21:28.93,Default,,0000,0000,0000,,Si pudiera, me encantaría ser elegido como soldado.
+Dialogue: 0,0:21:29.80,0:21:34.18,Default,,0000,0000,0000,,¿Qué puedo hacer si el Valhalla nos espera de verdad tras la muerte?
+Dialogue: 0,0:21:34.68,0:21:38.27,Default,,0000,0000,0000,,Dudo que pudiera ir a una zona de combate y demostrar mi valía allí.
+Dialogue: 0,0:21:38.27,0:21:41.19,Default,,0000,0000,0000,,Entonces tendré que hacer que estalle una guerra.
+Dialogue: 0,0:21:41.69,0:21:42.44,Default,,0000,0000,0000,,¿No?
+Dialogue: 0,0:21:43.53,0:21:45.70,Default,,0000,0000,0000,,Qué afortunado soy.
+Dialogue: 0,0:21:45.70,0:21:53.08,Default,,0000,0000,0000,,No creo en la vida eterna y llevo una vida que no me permitirá ir al Cielo, []
+Dialogue: 0,0:21:53.08,0:21:54.08,Default,,0000,0000,0000,,pero resulta que he encontrado un ángel de la muerte que ha llegado a la Tierra. []
+Dialogue: 0,0:21:53.08,0:21:54.08,Default,,0000,0000,0000,,No puede ser...
+Dialogue: 0,0:21:54.08,0:21:56.00,Default,,0000,0000,0000,,Eso no son más que especulaciones tuyas.
+Dialogue: 0,0:21:56.00,0:21:58.00,Default,,0000,0000,0000,,Los creyentes serán salvados.
+Dialogue: 0,0:21:58.00,0:22:00.67,Default,,0000,0000,0000,,Además, ¿no te dije que esto es como si fuera mi póliza de seguros?
+Dialogue: 0,0:22:00.67,0:22:07.47,Default,,0000,0000,0000,,Mientras yo siga existiendo, me da igual ir al Infierno o un sitio donde no haya más que sufrimiento.
+Dialogue: 0,0:22:07.47,0:22:12.26,Default,,0000,0000,0000,,Pero a ser posible, me gustaría ir al Cielo.
+Dialogue: 0,0:22:12.26,0:22:15.60,Default,,0000,0000,0000,,Namie-san, vayamos juntos al Cielo.
+Dialogue: 0,0:22:16.27,0:22:19.69,Default,,0000,0000,0000,,Como miembro de los Dollars, me quedaré con esto.
+Dialogue: 0,0:22:19.69,0:22:21.19,Default,,0000,0000,0000,,Es complicado ver lo que tienes justo delante.
+Dialogue: 0,0:22:21.19,0:22:26.78,Default,,0000,0000,0000,,Es imposible que Celty descubra que su cabeza forma parte del mismo grupo al que pertenece ella.
+Dialogue: 0,0:22:27.15,0:22:30.24,Default,,0000,0000,0000,,Eso es. Tú también deberías unirte a los Dollars.
+Dialogue: 0,0:22:30.24,0:22:34.08,Default,,0000,0000,0000,,A nuestro jefe le encanta que entre gente nueva.
+Dialogue: 0,0:22:34.08,0:22:38.83,Default,,0000,0000,0000,,Y por supuesto, yo soy el que últimamente está reclutando a más gente.
+Dialogue: 0,0:22:39.71,0:22:44.55,Default,,0000,0000,0000,,Hagamos que este ángel caído bata sus alas.
+Dialogue: 0,0:22:44.55,0:22:45.55,Default,,0000,0000,0000,,¿Vale?
+Dialogue: 0,0:22:45.46,0:22:46.46,Default,,0000,0000,0000,,[Esta obra es ficticia. No está basada en hechos reales, grupos o personas.]
+Dialogue: 0,0:22:46.46,0:22:47.46,Default,,0000,0000,0000,,[Próximo episodio] [La venganza del Cielo]

@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Audio File: ?video
+Video File: 27704-29792.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 2086
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kara,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
+Style: Tradu,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.56,0:00:10.90,Kara,,0000,0000,0000,,{\k61}La{\k122}pis {\k20}phi{\k47}lo{\k21}so{\k54}pho{\k223}rum, {\k63}la{\k122}pis, {\k64}ru{\k29}ber {\k65}la{\k44}pis
+Dialogue: 0,0:00:12.24,0:00:22.00,Kara,,0000,0000,0000,,{\k16}Tu{\k15}a {\k61}re{\k124}tro {\k23}ca{\k45}la{\k22}mi{\k60}ta{\k122}tis {\k24}ha{\k40}bes {\k29}sa{\k68}pu{\k126}to {\k19}fe{\k54}li{\k82}ci{\k46}tas
+Dialogue: 0,0:00:23.33,0:00:32.80,Kara,,0000,0000,0000,,{\k25}U{\k72}bi {\k110}es {\k18}im{\k44}pe{\k23}dis {\k62}te{\k204}rra {\k14}e {\k56}tem{\k122}pus {\k69}an{\k23}te{\k64}ac{\k41}tus
+Dialogue: 0,0:00:34.22,0:00:43.89,Kara,,0000,0000,0000,,{\k26}sa{\k69}pi{\k107}es {\k21}eo {\k45}qu{\k23}am {\k68}e{\k120}rant {\k18}ca{\k69}da{\k71}ve{\k102}ris {\k29}in{\k51}fi{\k21}ni{\k64}ta{\k63}tis?
+Dialogue: 0,0:00:45.35,0:00:54.90,Kara,,0000,0000,0000,,{\k82}Spec{\k113}ta {\k72}mor{\k23}tuus {\k75}spec{\k187}ta {\k24}si {\k62}de{\k123}nuo {\k16}de{\k57}si{\k68}de{\k16}ri{\k37}um
+Dialogue: 0,0:00:56.45,0:01:05.96,Kara,,0000,0000,0000,,{\k17}sa{\k66}pi{\k120}es {\k15}ha{\k40}be{\k25}bis {\k16}tu{\k56}e{\k110}ri {\k27}san{\k41}gui{\k21}nem {\k69}bra{\k129}chi {\k64}pe{\k23}dis {\k67}ru{\k43}bus
+Dialogue: 0,0:01:07.54,0:01:17.13,Kara,,0000,0000,0000,,{\k57}La{\k128}pis {\k27}phi{\k45}lo{\k29}so{\k66}pho{\k117}rum, {\k61}la{\k28}pis {\k57}ru{\k124}ber {\k21}a{\k50}ffec{\k16}to {\k8}qu{\k73}am {\k50}res?
+Dialogue: 0,0:00:01.56,0:00:10.90,Tradu,,0000,0000,0000,,Piedra filosofal, piedra, piedra roja.
+Dialogue: 0,0:00:12.24,0:00:22.00,Tradu,,0000,0000,0000,,Conoces la desgracia que se oculta a tus espaldas, felicidad.
+Dialogue: 0,0:00:23.33,0:00:32.80,Tradu,,0000,0000,0000,,¿Dónde está aquel que saboreará la anteposición
+Dialogue: 0,0:00:34.22,0:00:43.89,Tradu,,0000,0000,0000,,de los cadáveres infinitos al tiempo pasado?
+Dialogue: 0,0:00:45.35,0:00:54.90,Tradu,,0000,0000,0000,,Observa, difunto, observa bien si tus deseos se han convertido en ilusiones
+Dialogue: 0,0:00:56.45,0:01:05.96,Tradu,,0000,0000,0000,,y descubrirás que tus brazos y pies están teñidos de sangre.
+Dialogue: 0,0:01:07.54,0:01:17.13,Tradu,,0000,0000,0000,,Piedra filosofal, piedra roja, ¿cómo he llegado a esta situación?

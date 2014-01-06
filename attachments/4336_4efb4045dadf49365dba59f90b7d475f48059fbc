@@ -1,0 +1,57 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: OP5FMA.avi
+Video Zoom Percent: 0.5
+Scroll Position: 0
+Active Line: 0
+Video File: OP5FMA.avi
+Video Aspect Ratio: c1.77778
+Video Position: 2131
+Last Style Storage: Air Gear
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Fuck_romaji,Amaranth,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,10,10,10,1
+Style: Fuck_tradu,Amerigo BT,43,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.38,0:00:06.84,Fuck_romaji,,0,0,0,,{\k79}ya{\k28}tto {\k27}mi{\k36}tsu{\k48}ke{\k47}ta {\k31}a{\k36}ta{\k18}ra{\k41}shi{\k33}i {\k31}a{\k61}sa {\k130}wa
+Dialogue: 0,0:00:07.57,0:00:11.15,Fuck_romaji,,0,0,0,,{\k50}tsu{\k11}ki{\k56}hi {\k28}ga {\k16}jy{\k25}a{\k28}ma {\k28}wo {\k38}su{\k78}ru
+Dialogue: 0,0:00:11.74,0:00:16.45,Fuck_romaji,,0,0,0,,{\k42}mu{\k41}ka{\k16}u {\k38}sa{\k24}ki {\k84}wa {\k55}tsu{\k27}gi {\k9}j{\k26}ya {\k28}na{\k22}ku{\k59}te
+Dialogue: 0,0:00:16.71,0:00:20.46,Fuck_romaji,,0,0,0,,{\k44}su{\k13}gi {\k30}ba{\k22}ka{\k39}ri {\k35}o{\k22}i{\k37}ka{\k46}ke{\k87}ta
+Dialogue: 0,0:00:22.07,0:00:26.96,Fuck_romaji,,0,0,0,,{\k43}na{\k15}ri{\k16}ya{\k33}ma{\k32}na{\k81}i {\k25}yo{\k10}u{\k19}sha{\k21}na{\k21}i {\k16}o{\k14}mo{\k16}i{\k23}de{\k33}ta{\k19}chi {\k52}wa
+Dialogue: 0,0:00:26.96,0:00:31.18,Fuck_romaji,,0,0,0,,{\k25}yu{\k10}ru{\k50}shi{\k47}te{\k33}ku{\k24}re {\k40}so{\k35}u {\k30}ni {\k34}mo {\k31}na{\k63}i
+Dialogue: 0,0:00:32.35,0:00:37.04,Fuck_romaji,,0,0,0,,{\k24}so{\k14}ro{\k20}so{\k31}ro {\k27}ka{\k81}na {\k28}te{\k23}sa{\k11}gu{\k16}ri {\k20}tsu{\k19}ka{\k27}re{\k28}ta {\k30}ho{\k22}ho {\k48}wo
+Dialogue: 0,0:00:37.04,0:00:41.52,Fuck_romaji,,0,0,0,,{\k42}ka{\k50}tto{\k45}u {\k112}ga {\k15}ko{\k21}bo{\k13}re{\k34}o{\k57}chi{\k59}ru
+Dialogue: 0,0:00:41.77,0:00:46.81,Fuck_romaji,,0,0,0,,{\k45}a{\k31}me {\k51}wa {\k40}i{\k32}tsu{\k31}ka {\k24}ya{\k13}mu {\k31}no {\k21}de{\k67}sho{\k31}u {\k87}ka
+Dialogue: 0,0:00:46.81,0:00:51.91,Fuck_romaji,,0,0,0,,{\k50}zu{\k28}i{\k49}bun {\k43}na{\k17}ga{\k50}i {\k30}a{\k32}i{\k28}da {\k59}tsu{\k36}me{\k52}ta{\k36}i
+Dialogue: 0,0:00:51.92,0:00:57.07,Fuck_romaji,,0,0,0,,{\k39}a{\k34}me {\k52}wa {\k39}do{\k26}u{\k38}shi{\k18}te {\k15}bo{\k32}ku {\k28}wo {\k64}e{\k31}ra{\k21}bu {\k78}no
+Dialogue: 0,0:00:57.18,0:01:02.08,Fuck_romaji,,0,0,0,,{\k48}tsu{\k51}tsu{\k42}ma{\k66}re{\k64}te {\k35}i{\k44}i {\k47}ka{\k93}na
+Dialogue: 0,0:01:02.08,0:01:06.84,Fuck_romaji,,0,0,0,,{\k37}a{\k31}me {\k51}wa {\k41}ya{\k31}mu {\k33}ko{\k19}to {\k13}wo {\k34}shi{\k23}ra{\k101}zu {\k63}ni
+Dialogue: 0,0:01:06.97,0:01:11.89,Fuck_romaji,,0,0,0,,{\k49}kyo{\k32}u {\k62}mo {\k32}fu{\k15}ri{\k51}tsu{\k26}zu{\k34}ku {\k35}ke{\k92}re{\k64}do
+Dialogue: 0,0:01:12.04,0:01:17.57,Fuck_romaji,,0,0,0,,{\k82}so{\k49}tto {\k33}sa{\k41}shi{\k27}da{\k23}shi{\k15}ta {\k25}ka{\k38}sa {\k61}no {\k30}na{\k22}ka {\k107}de
+Dialogue: 0,0:01:17.57,0:01:28.82,Fuck_romaji,,0,0,0,,{\k32}nu{\k53}ku{\k42}mo{\k67}ri {\k48}ni {\k44}yo{\k45}ri{\k46}so{\k54}i {\k74}na{\k30}ga{\k590}ra
+Dialogue: 0,0:00:00.38,0:00:06.84,Fuck_tradu,,0,0,0,,La nueva mañana que por fin ha llegado
+Dialogue: 0,0:00:07.57,0:00:11.15,Fuck_tradu,,0,0,0,,se está anclando en el tiempo.
+Dialogue: 0,0:00:11.74,0:00:16.45,Fuck_tradu,,0,0,0,,Lo que perseguíamos no era el futuro,
+Dialogue: 0,0:00:16.71,0:00:20.46,Fuck_tradu,,0,0,0,,sino el pasado.
+Dialogue: 0,0:00:22.07,0:00:26.96,Fuck_tradu,,0,0,0,,Los despiadados recuerdos que no dejan de resonar
+Dialogue: 0,0:00:26.96,0:00:31.18,Fuck_tradu,,0,0,0,,no parece que vayan a perdonarnos.
+Dialogue: 0,0:00:32.35,0:00:37.04,Fuck_tradu,,0,0,0,,Pronto empezarán a caer los problemas
+Dialogue: 0,0:00:37.04,0:00:41.52,Fuck_tradu,,0,0,0,,por mis fatigadas mejillas.
+Dialogue: 0,0:00:41.77,0:00:46.81,Fuck_tradu,,0,0,0,,¿Dejará de llover algún día?
+Dialogue: 0,0:00:46.81,0:00:51.91,Fuck_tradu,,0,0,0,,He sentido frío durante mucho tiempo.
+Dialogue: 0,0:00:51.92,0:00:57.07,Fuck_tradu,,0,0,0,,¿Por qué la lluvia me elige a mí?
+Dialogue: 0,0:00:57.18,0:01:02.08,Fuck_tradu,,0,0,0,,¿Debería dejarme arropar por ella?
+Dialogue: 0,0:01:02.08,0:01:06.84,Fuck_tradu,,0,0,0,,Hoy la lluvia sigue cayendo
+Dialogue: 0,0:01:06.97,0:01:11.89,Fuck_tradu,,0,0,0,,sin saber cómo parar, pero
+Dialogue: 0,0:01:12.04,0:01:17.57,Fuck_tradu,,0,0,0,,nos acurrucaremos para compartir el calor
+Dialogue: 0,0:01:17.57,0:01:28.82,Fuck_tradu,,0,0,0,,bajo este paraguas que sostengo amablemente.
