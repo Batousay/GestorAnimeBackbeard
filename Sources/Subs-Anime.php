@@ -1578,7 +1578,7 @@ function addChapter($chapterInfo = null) {
             ),
             array(
                 'ID_SAGA' => $chapterInfo['id_saga'],
-                'Title' => $chapterInfo['title'],
+                'Title' => $smcFunc['htmlspecialchars']($chapterInfo['title']),
                 'Number' => $chapterInfo['number'],
             ),
             array('ID_CHAPTER')
@@ -1615,7 +1615,7 @@ function modifyChapter($chapterInfo = null) {
             // Data to put in.
             array(
                 'id' => $chapterInfo['id'],
-                'title' => $chapterInfo['title'],
+                'title' => $smcFunc['htmlspecialchars']($chapterInfo['title']),
                 'number' => $chapterInfo['number'],
                 'message' => $chapterInfo['id_msg'],
                 'saga' => $chapterInfo['id_saga'],
