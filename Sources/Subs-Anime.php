@@ -855,23 +855,23 @@ function generateDownloadsForSaga($sagasInfo) {
 
             //$message .= $nl . $nl . "[center][font=trebuchet ms][size=11pt][b]" . $txt['an-seriesDownloads'] . "[/b][/size][/font]" . $nl;
 
-            $message .= "[center][table]" . $nl;
+            $message .= '[html]<div align="center"><table class="bbc_table">' . $nl;
             foreach ($chaptersInfo as $chap) {
                 if (!empty($chap['id_download'])) {
-                    $message .= "[tr][td][font=trebuchet ms][size=10pt][b]" . $chap['number'] . (!empty($chap['double']) ? "~" . ($chap['number'] + 1) : '' ) . " - " . $chap['title'] . "  [/b][/size][/font][/td]";
+                    $message .= '<tr><td><span style="font-family: trebuchet ms;" class="bbc_font"><span style="font-size: 10pt;" class="bbc_size"><strong>' . $chap['number'] . (!empty($chap['double']) ? "~" . ($chap['number'] + 1) : '' ) . " - " . $chap['title'] . "  </strong></span></span></td>";
 
                     foreach ($chap['links']['public'] as $l) {
                         if (empty($l['href'])) {
-                            $message .= '[td][/td]';
+                            $message .= '<td></td>';
                         } else {
-                            $message .= '[td][html]<a href="'. $l['href'] .'"><img src="' . $l['logo'] . '" alt="'. $l['name'] .'" title="'. $l['name'] .'" width=25 /></a>[/html][/td]';
+                            $message .= '<td><a href="'. $l['href'] .'"><img src="' . $l['logo'] . '" alt="'. $l['name'] .'" title="'. $l['name'] .'" width=25 /></a></td>';
                         }
                     }
 
-                    $message .= "[/tr]" . $nl;
+                    $message .= "</tr>";
                 }
             }
-            $message .= "[/table][/center]" . $nl . $nl;
+            $message .= "</table></div>[/html]" . $nl . $nl;
         }
     }
 
