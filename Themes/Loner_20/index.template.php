@@ -120,11 +120,13 @@ function template_html_above()
 		var ajax_notification_cancel_text = "', $txt['modify_cancel'], '";
 	// ]]></script>';
 
+	$context['page_title_html_safe_extra'] = 'Backbeard Fansub - ' . $context['page_title_html_safe'];
+
 	echo '
 	<meta http-equiv="Content-Type" content="text/html; charset=', $context['character_set'], '" />
-	<meta name="description" content="', $context['page_title_html_safe'], '" />', !empty($context['meta_keywords']) ? '
-	<meta name="keywords" content="' . $context['meta_keywords'] . '" />' : '', '
-	<title>', $context['page_title_html_safe'], '</title>';
+	<meta name="description" content="', $context['page_title_html_safe_extra'], '" />', !empty($context['meta_keywords']) ? '
+	<meta name="keywords" content=" ' . $context['meta_keywords'] . '" />' : '', '
+	<title>', $context['page_title_html_safe_extra'], '</title>';
 
 	// Please don't index these Mr Robot.
 	if (!empty($context['robot_no_index']))
