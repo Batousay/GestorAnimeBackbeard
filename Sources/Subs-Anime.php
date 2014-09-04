@@ -1644,14 +1644,14 @@ function generateChapterMessage($chapterInfo = null) {
     $message .= "[size=12pt][u][b]" . $txt['an-adminChaptersPrivateLinks'] . "[/b][/u][/size]" . $nl;
     foreach ($chapterInfo['links']['private'] as $l) {
         if (!empty($l['href'])) {
-            $message .= "[img]" . $l['logo'] . "[/img] - [url=" . $l['href'] . "]" . $l['name'] . "[/url]" . $nl;
+            $message .= "[img]" . $l['logo'] . '[/img] - [html]<a href="' . $l['href'] . '"class="bbc_link" target="_blank">' . $l['name'] . '</a>[/html]' . $nl. $nl;
         }
     }
 
-    $message .= "[size=12pt][u][b]" . $txt['an-adminChaptersPublicLinks'] . "[/b][/u][/size]" . $nl;
+    $message .= $nl. "[size=12pt][u][b]" . $txt['an-adminChaptersPublicLinks'] . "[/b][/u][/size]" . $nl;
     foreach ($chapterInfo['links']['public'] as $l) {
         if (!empty($l['href'])) {
-            $message .= "[img]" . $l['logo'] . "[/img] - [url=" . $l['href'] . "]" . $l['name'] . "[/url]" . $nl;
+            $message .= "[img]" . $l['logo'] . '[/img] - [html]<a href="' . $l['href'] . '"class="bbc_link" target="_blank">' . $l['name'] . '</a>[/html]' . $nl. $nl;
         }
     }
 
