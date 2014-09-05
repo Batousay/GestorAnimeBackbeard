@@ -120,7 +120,7 @@ function template_html_above()
 		var ajax_notification_cancel_text = "', $txt['modify_cancel'], '";
 	// ]]></script>';
 
-	$context['page_title_html_safe_extra'] = 'Backbeard Fansub - ' . $context['page_title_html_safe'];
+	$context['page_title_html_safe_extra'] =  $context['page_title_html_safe'] . ' - Backbeard Fansub';
 
 	echo '
 	<meta http-equiv="Content-Type" content="text/html; charset=', $context['character_set'], '" />
