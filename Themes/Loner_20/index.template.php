@@ -135,9 +135,9 @@ function template_html_above()
 		  
 		  echo '
 				<link rel="shortcut icon" href="iconito.png" type="image/png" />
-                <script type="text/javascript" src="imgbb/slider/jquery-1.4.2.js"></script>
-                <script type="text/javascript" src="imgbb/slider/coin-slider.min.js"></script>
-                <link rel="stylesheet" href="imgbb/slider/coin-slider-styles.css" type="text/css" />
+					 <script type="text/javascript" src="imgbb/slider/jquery-1.4.2.js"></script>
+					 <script type="text/javascript" src="imgbb/slider/coin-slider.min.js"></script>
+					 <link rel="stylesheet" href="imgbb/slider/coin-slider-styles.css" type="text/css" />
 				<link rel="stylesheet" href="galeria/imageflow.packed.css" type="text/css" />
 				<script type="text/javascript" src="galeria/imageflow.packed.js"></script>
 				<link rel="stylesheet" href="galeria/highslide.css" type="text/css" />
@@ -204,7 +204,7 @@ function template_body_above()
 {
 	global $context, $settings, $options, $scripturl, $txt, $modSettings, $boardurl;
 
-       // echo '<pre>';print_r($context['user']);echo '</pre>'; 
+		 // echo '<pre>';print_r($context['user']);echo '</pre>'; 
 	echo '
 <div id="wrapper">
 	 <div id="bodybg">
@@ -222,7 +222,7 @@ function template_body_above()
 		// If the user is logged in, display stuff like their name, new messages, etc.
 	if ($context['user']['is_logged'])
 	{
-            
+				
 		echo '
 		 <ul class="reset">
 			<li>', $txt['hello_member'], ' <b>', $context['user']['name'], '</b><br />';
@@ -242,8 +242,8 @@ function template_body_above()
 			echo '', $context['unapproved_members'] == 1 ? $txt['approve_thereis'] : $txt['approve_thereare'], ' <a href="', $scripturl, '?action=admin;area=viewmembers;sa=browse;type=approve">', $context['unapproved_members'] == 1 ? $txt['approve_member'] : $context['unapproved_members'] . ' ' . $txt['approve_members'], '</a> ', $txt['approve_members_waiting'], '<br />';
 
 		echo '<ul class="reset">
-                    ';
-                if (!empty($context['open_mod_reports']) && $context['show_open_reports'])
+						  ';
+					 if (!empty($context['open_mod_reports']) && $context['show_open_reports'])
 			echo '<li><a href="', $scripturl, '?action=moderate;area=reports">', sprintf($txt['mod_reports_waiting'], $context['open_mod_reports']), '</a></li>';
 		echo		'<li><a href="', $scripturl, '?action=unread">', $txt['unread_topics_all'], '</a></li>
 				<li><a href="', $scripturl, '?action=unreadreplies">', $txt['unread_replies'], '</a></li></ul>';
@@ -285,7 +285,7 @@ function template_body_above()
 					 echo '<div id="news">
 						  <a href="http://www.backbeard.es/index.php?action=.xml;sa=articles;type=rss;limit=5"><img src="'.$boardurl.'/imgbb/RSS.jpg" alt="Backbeard RSS" title="RSS" /></a>
 						  <a href="http://www.facebook.com/bbfansub"><img src="'.$boardurl.'/imgbb/Facebook.jpg" alt="Backbeard Facebook" title="Facebook" /></a>
-						  <a href="http://twitter.com/BBFansub"><img src="'.$boardurl.'/imgbb/Twitter.jpg" alt="Backbeard Twitter" title="Twitter" /></a>
+						  <a href="http://twitter.com/BBFansub"><img src="'.$boardurl.'/imgbb/Twitter.png" alt="Backbeard Twitter" title="Twitter" /></a>
 						  </div>
 						  ';
 
