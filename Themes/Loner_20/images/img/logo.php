@@ -16,9 +16,11 @@ $handle = opendir($folder);
  
 while ( false !== ( $file = readdir($handle) ) ) {
     $file_info = pathinfo($file);
-        
-    if (isset( $extList[ strtolower( $file_info['extension'] ) ] )) {
-        $fileList[] = $file;
+    
+    if (isset( $file_info['extension'] )) {
+        if (isset( $extList[ strtolower( $file_info['extension'] ) ] )) {
+            $fileList[] = $file;
+        }
     }
 }
 closedir($handle);
