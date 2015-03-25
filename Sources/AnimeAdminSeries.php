@@ -132,8 +132,39 @@ function anime_admin_series_list() {
     $context['page_title'] = $txt['an-adminSeriesListName'];
 }
 
+function anime_admin_series_check_images($seriesInfo = null) {
+    global $boardurl;
+    
+    if (empty($seriesInfo)) {
+        trigger_error('anime_admin_series_check_images(): One or more of the required options is not set', E_USER_ERROR);
+    }
+    
+    $seriesName = $seriesInfo['name'];
+    
+    if (empty($seriesInfo['banner'])) {
+        $seriesInfo['banner'] = $boardurl."/imgbb/Series/".$seriesName."/".$seriesName."-Serie.png";
+    }
+    if (empty($seriesInfo['img_slider'])) {
+        $seriesInfo['img_slider'] = $boardurl."/imgbb/Series/".$seriesName."/".$seriesName."-Slider.jpg";
+    }
+    if (empty($seriesInfo['newsImg']['href'])) {
+        $seriesInfo['newsImg']['href'] = $boardurl."/imgbb/Series/".$seriesName."/".$seriesName."-Noticias.png";
+        $seriesInfo['newsImg']['image'] = '<img src="' . $seriesInfo['newsImg']['href'] . '" alt="" width=200 />';
+    }
+    if (empty($seriesInfo['downloads'])) {
+        $seriesInfo['downloads'] = $boardurl."/imgbb/Series/".$seriesName."/".$seriesName."-Mini.png";
+    }
+    if (empty($seriesInfo['Img_staff']['href'])) {
+        $seriesInfo['Img_staff']['href'] = $boardurl."/imgbb/Series/".$seriesName."/".$seriesName."-Staff.png";
+        $seriesInfo['Img_staff']['image'] = '<img src="' . $seriesInfo['Img_staff']['href'] . '" alt="" width=200 />';
+    }
+    
+    return $seriesInfo;
+    
+}
+
 function anime_admin_series_add() {
-    global $txt, $smcFunc, $context, $func, $sourcedir;
+    global $txt, $smcFunc, $context, $func, $boardurl;
 
     // Not actually adding a category? Show the add category page.
     if (empty($_POST['edit_series'])) {
@@ -154,18 +185,24 @@ function anime_admin_series_add() {
         if (empty($_POST['series_name']))
             fatal_lang_error('error_sp_name_empty', false);
 
+        $seriesName = $smcFunc['htmlspecialchars']($_POST['series_name'], ENT_QUOTES);
+                
         $newsImg = $smcFunc['htmlspecialchars']($_POST['series_news_img'], ENT_QUOTES);
         $imgStaff = $smcFunc['htmlspecialchars']($_POST['series_staff_img'], ENT_QUOTES);
+        $imgSlider = $smcFunc['htmlspecialchars']($_POST['series_slider'], ENT_QUOTES);
+        $imgBanner = $smcFunc['htmlspecialchars']($_POST['series_banner_url'], ENT_QUOTES);
+        $downloadsImg = $smcFunc['htmlspecialchars']($_POST['series_picture'], ENT_QUOTES);
+        
         // A small info array.
         $seriesInfo = array(
-            'name' => $smcFunc['htmlspecialchars']($_POST['series_name'], ENT_QUOTES),
-            'banner' => $smcFunc['htmlspecialchars']($_POST['series_banner_url'], ENT_QUOTES),
-            'img_slider' => $smcFunc['htmlspecialchars']($_POST['series_slider'], ENT_QUOTES),
+            'name' => $seriesName,
+            'banner' => $imgBanner,
+            'img_slider' => $imgSlider,
             'newsImg' => array(
                 'href' => $newsImg,
                 'image' => '<img src="' . $newsImg . '" alt="" width=200 />',
             ),
-            'downloads' => $smcFunc['htmlspecialchars']($_POST['series_picture'], ENT_QUOTES),
+            'downloads' => $downloadsImg,
             'abstract' => $smcFunc['htmlspecialchars']($_POST['series_abstract'], ENT_QUOTES),
             'staff' => $smcFunc['htmlspecialchars']($_POST['series_staff'], ENT_QUOTES),
             'id_category' => (int) $_POST['series_category'],
@@ -177,6 +214,7 @@ function anime_admin_series_add() {
                 'image' => '<img src="' .$imgStaff. '" alt="" width=200 />',
             ),
         );
+        $seriesInfo = anime_admin_series_check_images($seriesInfo);
         /*
          *  Adding boards
          */
@@ -268,7 +306,7 @@ function anime_admin_series_edit() {
                 'href' => $imgStaff,
                 'image' => '<img src="' .$imgStaff. '" alt="" width=200 />',
             );
-
+        $seriesInfo = anime_admin_series_check_images($seriesInfo);
 
         modifyAnimeSeriesBoard($seriesInfo);
 

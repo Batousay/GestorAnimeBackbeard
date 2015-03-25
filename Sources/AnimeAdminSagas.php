@@ -119,7 +119,7 @@ function anime_admin_sagas_list() {
 
 function anime_admin_sagas_add()
 {
-    global $txt, $smcFunc, $context;
+    global $txt, $smcFunc, $context, $boardurl;
 
     // Not actually adding a saga? Show the add saga page.
     if (empty($_POST['edit_sagas'])) {
@@ -142,6 +142,7 @@ function anime_admin_sagas_add()
 
         if(!empty($_POST['sagas_staff']))
             $staff = $smcFunc['htmlspecialchars']($_POST['sagas_staff'], ENT_QUOTES);
+        
 
         $sagasInfo = array(
 			'name' => $smcFunc['htmlspecialchars']($_POST['sagas_name'], ENT_QUOTES),
@@ -157,7 +158,7 @@ function anime_admin_sagas_add()
         $seriesInfo = $aux[0];
 
         if(empty($sagasInfo['banner'])){
-            $sagasInfo['banner'] = $seriesInfo['picture']['href'];
+            $sagasInfo['banner'] = $boardurl."/imgbb/Series/".$seriesInfo['name']."/".$seriesInfo['name']."-Sagas-1.png";
         }
 
         if($seriesInfo['sagas'] > 0) {
