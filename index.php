@@ -8,7 +8,7 @@
  * @copyright 2011 Simple Machines
  * @license http://www.simplemachines.org/about/smf/license.php BSD
  *
- * @version 2.0.6
+ * @version 2.0.9
  */
 
 /*	This, as you have probably guessed, is the crux on which SMF functions.
@@ -22,7 +22,8 @@
 	with the URL index.php?action=action-in-url.  Relatively simple, no?
 */
 
-$forum_version = 'SMF 2.0.6';
+$forum_version = 'SMF 2.0.9';
+@ini_set('memory_limit', '128M');
 
 // Get everything started up...
 define('SMF', 1);
@@ -104,7 +105,7 @@ if (!headers_sent())
 {
 	// Future versions will make some of this configurable. This is primarily a 'safe' configuration for most cases for now.
 	header('X-Frame-Options: SAMEORIGIN');
-	header('X-XSS-Protection: 1; mode=block');
+	header('X-XSS-Protection: 1');
 	header('X-Content-Type-Options: nosniff');
 }
 
