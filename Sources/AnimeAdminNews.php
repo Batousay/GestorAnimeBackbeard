@@ -38,6 +38,21 @@ function anime_admin_news_main() {
     require_once($sourcedir . '/Subs-Anime.php');
     require_once($sourcedir . '/Subs-Categories.php');
     require_once($sourcedir . '/Subs-Boards.php');
+    require_once($sourcedir . '/Subs-Editor.php');
+
+     $context['post_box_name'] = 'text';
+
+     $editorOptions = array(
+        'id' => $context['post_box_name'],
+        'value' => '',
+        'width' => '650px',
+        'height' => '400px',
+        'labels' => array(
+        'post_button' => 'Post',
+        ),
+    );
+    
+    create_control_richedit($editorOptions); 
 
     //TODO: Own Template
     //We load the template, using SimplePortal One...

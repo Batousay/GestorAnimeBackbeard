@@ -3,7 +3,7 @@
 
 function template_news_list()
 {
-	global $context, $settings, $options, $scripturl, $txt;
+	global $context, $settings, $options, $scripturl, $txt, $editorOptions;
 
 	echo '
 <div id="sp_manage_articles">
@@ -176,14 +176,25 @@ function template_news_edit() {
                                                             </dd>';
                                                 }else{
                                                 if(empty($context['categories']) && empty($context['series']) && empty($context['sagas']) && !empty($context['news']['id_category']) && !empty($context['news']['id_serie']) && !empty($context['news']['id_saga'])) {
+                                                    
+                                                    $editorOptions = array(
+                                                        'id' => $context['post_box_name'],
+                                                        'value' => !empty($context['news']['text']) ? $context['news']['text'] : $txt['an-newsTextEmpty'],
+                                                    );
+                                                    
+                                                    create_control_richedit($editorOptions); 
+                                                    
                                                     echo '
                                                         <dt>
                                                             <label for="text">', $txt['an-adminNewsText'] , ':</label>
                                                         </dt>
                                                         <dd>
-                                                            <textarea name="text" rows="10" cols="50">',!empty($context['news']['text']) ? $context['news']['text'] : $txt['an-newsTextEmpty'],'</textarea>
-                                                        </dd>
-                                                        ';
+                                                            <div id="bbc"></div><br/><div id="smileys" style="width:650px;"></div>';
+                                                     
+                                                    template_control_richedit($context['post_box_name'], 'bbc', 'smileys');
+                                                     
+                                                     echo '</dd>';
+                                                     
                                                     if(!empty($context['chapters'])) {
                                                        echo '<dt>'.$txt['an-UnpublishedChapters'].':</dt>' ;
 
