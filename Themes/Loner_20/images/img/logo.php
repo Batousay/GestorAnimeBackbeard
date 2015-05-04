@@ -1,6 +1,7 @@
 <?php
 
 $folder = '../../../Banners/';
+$websiteName = "http://localhost/GestorAnimeBackbeard";
 
 $extList = array();
 //$extList['gif'] = 'image/gif';
@@ -34,10 +35,10 @@ if ($ntotal > 0) {
 if ($img!=null) {
     $imageInfo = pathinfo($img);
     $contentType = 'Content-type: '.$extList[ $imageInfo['extension'] ];
-    header ("Location: http://pruebasbb.backbeard.es/Themes/Banners/".$fileList[$imageNumber]);
+    header ("Location: ".$websiteName."/Themes/Banners/".$fileList[$imageNumber]);
     //readfile($img);
 }else{
-    header ("Location: http://pruebasbb.backbeard.es/Backbeard/Themes/Banners/cdos.png");
+    header ("Location: ".$websiteName."/Backbeard/Themes/Banners/cdos.png");
 }
 
 ?>

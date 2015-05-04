@@ -8,7 +8,7 @@
  * @copyright 2011 Simple Machines
  * @license http://www.simplemachines.org/about/smf/license.php BSD
  *
- * @version 2.0.5
+ * @version 2.0.9
  */
 
 if (!defined('SMF'))
@@ -1874,6 +1874,8 @@ function prepareDBSettingContext(&$config_vars)
 				{
 					$context['config_vars'][$config_var[1]]['name'] .= '[]';
 					$context['config_vars'][$config_var[1]]['value'] = unserialize($context['config_vars'][$config_var[1]]['value']);
+
+					$context['config_vars'][$config_var[1]]['value'] = !empty($context['config_vars'][$config_var[1]]['value']) ? unserialize($context['config_vars'][$config_var[1]]['value']) : array();
 				}
 
 				// If it's associative
