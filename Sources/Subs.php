@@ -4276,7 +4276,7 @@ function setupMenuContext()
             //BB torrents in Nyaa
             'Tracker' => array(
 				'title' => $txt['tracker'],
-				'href' => 'http://www.nyaa.eu/index.php?page=separate&user=96148',
+				'href' => 'http://www.nyaa.se/?page=separate&user=96148',
 				'show' => true,
 				'sub_buttons' => array(
 				),
